@@ -1,0 +1,235 @@
+2020-07-14 22:45:24,151 RandomForest Start
+2020-07-14 22:45:25,937 Score for RandomForest is 0.06659100643964817
+2020-07-14 22:45:25,937 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:45:25,938 RandomForest Start
+2020-07-14 22:45:27,911 Score for RandomForest is 0.046215963459545505
+2020-07-14 22:45:27,912 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:45:27,912 RandomForest Start
+2020-07-14 22:45:52,552 RandomForest Start
+2020-07-14 22:45:54,619 Score for RandomForest is 0.1161520190023753
+2020-07-14 22:45:54,619 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:45:54,622 RandomForest Start
+2020-07-14 22:45:56,498 Score for RandomForest is 0.1161520190023753
+2020-07-14 22:45:56,498 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:45:56,500 RandomForest Start
+2020-07-14 22:45:58,356 Score for RandomForest is 0.1161520190023753
+2020-07-14 22:45:58,357 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:45:58,360 RandomForest Start
+2020-07-14 22:46:00,273 Score for RandomForest is 0.1161520190023753
+2020-07-14 22:46:00,273 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:00,274 RandomForest Start
+2020-07-14 22:46:02,357 Score for RandomForest is 0.11532066508313539
+2020-07-14 22:46:02,357 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:02,359 RandomForest Start
+2020-07-14 22:46:04,582 Score for RandomForest is 0.0830166270783848
+2020-07-14 22:46:04,582 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:04,583 RandomForest Start
+2020-07-14 22:46:06,962 Score for RandomForest is 0.03497624703087886
+2020-07-14 22:46:06,962 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:06,963 RandomForest Start
+2020-07-14 22:46:10,940 Score for RandomForest is 0.02684085510688836
+2020-07-14 22:46:10,940 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:10,942 RandomForest Start
+2020-07-14 22:46:12,605 Score for RandomForest is 0.0411520190023753
+2020-07-14 22:46:12,605 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:12,606 RandomForest Start
+2020-07-14 22:46:14,324 Score for RandomForest is 0.047980997624703085
+2020-07-14 22:46:14,325 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:14,328 RandomForest Start
+2020-07-14 22:46:15,950 Score for RandomForest is 0.031057007125890736
+2020-07-14 22:46:15,950 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:15,954 RandomForest Start
+2020-07-14 22:46:17,600 Score for RandomForest is 0.03129453681710214
+2020-07-14 22:46:17,601 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:17,603 RandomForest Start
+2020-07-14 22:46:19,334 Score for RandomForest is 0.028859857482185274
+2020-07-14 22:46:19,335 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:19,336 RandomForest Start
+2020-07-14 22:46:21,289 Score for RandomForest is 0.025593824228028503
+2020-07-14 22:46:21,290 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:21,292 RandomForest Start
+2020-07-14 22:46:23,360 Score for RandomForest is 0.02470308788598575
+2020-07-14 22:46:23,361 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:23,366 RandomForest Start
+2020-07-14 22:46:25,480 Score for RandomForest is 0.025771971496437056
+2020-07-14 22:46:25,481 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:25,484 RandomForest Start
+2020-07-14 22:46:27,808 Score for RandomForest is 0.025237529691211402
+2020-07-14 22:46:27,808 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:27,809 RandomForest Start
+2020-07-14 22:46:30,462 Score for RandomForest is 0.025356294536817103
+2020-07-14 22:46:30,462 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:30,463 RandomForest Start
+2020-07-14 22:46:33,533 Score for RandomForest is 0.025653206650831355
+2020-07-14 22:46:33,534 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:33,536 RandomForest Start
+2020-07-14 22:46:37,067 Score for RandomForest is 0.025771971496437056
+2020-07-14 22:46:37,067 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:37,068 RandomForest Start
+2020-07-14 22:46:40,519 Score for RandomForest is 0.025771971496437056
+2020-07-14 22:46:40,519 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:40,522 RandomForest Start
+2020-07-14 22:46:49,732 Score for RandomForest is 0.019714964370546317
+2020-07-14 22:46:49,732 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:46:49,733 RandomForest Start
+2020-07-14 22:46:53,527 Score for RandomForest is 0.025771971496437056
+2020-07-14 22:46:53,527 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:46:53,530 RandomForest Start
+2020-07-14 22:46:57,390 Score for RandomForest is 0.026365795724465558
+2020-07-14 22:46:57,390 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:46:57,391 RandomForest Start
+2020-07-14 22:47:04,581 Score for RandomForest is 0.020427553444180523
+2020-07-14 22:47:04,581 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:47:04,583 RandomForest Start
+2020-07-14 22:47:09,069 Score for RandomForest is 0.02149643705463183
+2020-07-14 22:47:09,069 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:47:09,071 RandomForest Start
+2020-07-14 22:47:12,739 Score for RandomForest is 0.025771971496437056
+2020-07-14 22:47:12,740 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:47:12,742 RandomForest Start
+2020-07-14 22:47:15,508 Score for RandomForest is 0.036282660332541565
+2020-07-14 22:47:15,508 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:47:15,509 RandomForest Start
+2020-07-14 22:47:18,186 Score for RandomForest is 0.03836104513064133
+2020-07-14 22:47:18,186 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:47:18,190 RandomForest Start
+2020-07-14 22:47:20,882 Score for RandomForest is 0.044418052256532066
+2020-07-14 22:47:20,883 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:47:20,885 RandomForest Start
+2020-07-14 22:47:23,724 Score for RandomForest is 0.04519002375296912
+2020-07-14 22:47:23,724 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:47:23,725 RandomForest Start
+2020-07-14 22:47:26,303 Score for RandomForest is 0.04839667458432304
+2020-07-14 22:47:26,304 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:47:26,305 RandomForest Start
+2020-07-14 22:47:28,857 Score for RandomForest is 0.04762470308788599
+2020-07-14 22:47:28,857 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:47:28,858 RandomForest Start
+2020-07-14 22:47:31,554 Score for RandomForest is 0.04857482185273159
+2020-07-14 22:47:31,554 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:47:31,555 RandomForest Start
+2020-07-14 22:47:34,206 Score for RandomForest is 0.0675771971496437
+2020-07-14 22:47:34,206 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:47:34,208 RandomForest Start
+2020-07-14 22:47:36,941 Score for RandomForest is 0.07060570071258908
+2020-07-14 22:47:36,942 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:47:36,945 RandomForest Start
+2020-07-14 22:47:39,678 Score for RandomForest is 0.10605700712589074
+2020-07-14 22:47:39,679 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:51:31,506 RandomForest Start
+2020-07-14 22:51:33,380 Score for RandomForest is 0.1161520190023753
+2020-07-14 22:51:33,380 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:33,382 RandomForest Start
+2020-07-14 22:51:35,322 Score for RandomForest is 0.1161520190023753
+2020-07-14 22:51:35,323 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:35,333 RandomForest Start
+2020-07-14 22:51:37,298 Score for RandomForest is 0.1161520190023753
+2020-07-14 22:51:37,299 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:37,301 RandomForest Start
+2020-07-14 22:51:39,384 Score for RandomForest is 0.1161520190023753
+2020-07-14 22:51:39,384 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:39,391 RandomForest Start
+2020-07-14 22:51:41,443 Score for RandomForest is 0.11532066508313539
+2020-07-14 22:51:41,443 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:41,445 RandomForest Start
+2020-07-14 22:51:43,522 Score for RandomForest is 0.0830166270783848
+2020-07-14 22:51:43,523 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:43,530 RandomForest Start
+2020-07-14 22:51:45,811 Score for RandomForest is 0.03497624703087886
+2020-07-14 22:51:45,811 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:45,815 RandomForest Start
+2020-07-14 22:51:48,532 Score for RandomForest is 0.02684085510688836
+2020-07-14 22:51:48,532 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:48,539 RandomForest Start
+2020-07-14 22:51:50,024 Score for RandomForest is 0.0411520190023753
+2020-07-14 22:51:50,024 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:50,026 RandomForest Start
+2020-07-14 22:51:51,721 Score for RandomForest is 0.047980997624703085
+2020-07-14 22:51:51,721 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:51,722 RandomForest Start
+2020-07-14 22:51:53,288 Score for RandomForest is 0.031057007125890736
+2020-07-14 22:51:53,288 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:53,291 RandomForest Start
+2020-07-14 22:51:54,895 Score for RandomForest is 0.03129453681710214
+2020-07-14 22:51:54,895 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:54,899 RandomForest Start
+2020-07-14 22:51:56,551 Score for RandomForest is 0.028859857482185274
+2020-07-14 22:51:56,551 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:56,555 RandomForest Start
+2020-07-14 22:51:58,488 Score for RandomForest is 0.025593824228028503
+2020-07-14 22:51:58,488 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:51:58,489 RandomForest Start
+2020-07-14 22:52:00,567 Score for RandomForest is 0.02470308788598575
+2020-07-14 22:52:00,567 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:52:00,570 RandomForest Start
+2020-07-14 22:52:02,858 Score for RandomForest is 0.025771971496437056
+2020-07-14 22:52:02,859 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:52:02,863 RandomForest Start
+2020-07-14 22:52:05,271 Score for RandomForest is 0.025237529691211402
+2020-07-14 22:52:05,272 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:52:05,274 RandomForest Start
+2020-07-14 22:52:07,751 Score for RandomForest is 0.025356294536817103
+2020-07-14 22:52:07,751 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:52:07,754 RandomForest Start
+2020-07-14 22:52:10,918 Score for RandomForest is 0.025653206650831355
+2020-07-14 22:52:10,918 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:52:10,922 RandomForest Start
+2020-07-14 22:52:14,640 Score for RandomForest is 0.025771971496437056
+2020-07-14 22:52:14,640 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:52:14,647 RandomForest Start
+2020-07-14 22:52:18,264 Score for RandomForest is 0.025771971496437056
+2020-07-14 22:52:18,264 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:52:18,270 RandomForest Start
+2020-07-14 22:52:28,256 Score for RandomForest is 0.019714964370546317
+2020-07-14 22:52:28,257 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:52:28,264 RandomForest Start
+2020-07-14 22:52:31,957 Score for RandomForest is 0.025771971496437056
+2020-07-14 22:52:31,958 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:52:31,966 RandomForest Start
+2020-07-14 22:52:35,951 Score for RandomForest is 0.026365795724465558
+2020-07-14 22:52:35,952 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:52:35,959 RandomForest Start
+2020-07-14 22:52:43,505 Score for RandomForest is 0.020427553444180523
+2020-07-14 22:52:43,505 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:52:43,513 RandomForest Start
+2020-07-14 22:52:47,417 Score for RandomForest is 0.02149643705463183
+2020-07-14 22:52:47,418 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:52:47,420 RandomForest Start
+2020-07-14 22:52:51,257 Score for RandomForest is 0.025771971496437056
+2020-07-14 22:52:51,258 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:52:51,260 RandomForest Start
+2020-07-14 22:52:54,231 Score for RandomForest is 0.036282660332541565
+2020-07-14 22:52:54,231 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:52:54,234 RandomForest Start
+2020-07-14 22:52:56,996 Score for RandomForest is 0.03836104513064133
+2020-07-14 22:52:56,996 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:52:57,008 RandomForest Start
+2020-07-14 22:52:59,800 Score for RandomForest is 0.044418052256532066
+2020-07-14 22:52:59,800 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:52:59,805 RandomForest Start
+2020-07-14 22:53:02,958 Score for RandomForest is 0.04519002375296912
+2020-07-14 22:53:02,958 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:53:02,961 RandomForest Start
+2020-07-14 22:53:05,506 Score for RandomForest is 0.04839667458432304
+2020-07-14 22:53:05,506 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:53:05,512 RandomForest Start
+2020-07-14 22:53:07,983 Score for RandomForest is 0.04762470308788599
+2020-07-14 22:53:07,983 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:53:07,986 RandomForest Start
+2020-07-14 22:53:10,604 Score for RandomForest is 0.04857482185273159
+2020-07-14 22:53:10,604 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:53:10,608 RandomForest Start
+2020-07-14 22:53:15,145 Score for RandomForest is 0.0675771971496437
+2020-07-14 22:53:15,145 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:53:15,148 RandomForest Start
+2020-07-14 22:53:17,734 Score for RandomForest is 0.07060570071258908
+2020-07-14 22:53:17,734 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:53:17,737 RandomForest Start
+2020-07-14 22:53:20,405 Score for RandomForest is 0.10605700712589074
+2020-07-14 22:53:20,406 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 22:55:32,131 RandomForest Start
+2020-07-14 22:55:34,554 Score for RandomForest is 0.020783847980997625
+2020-07-14 22:55:34,554 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 22:55:50,391 RandomForest Start
+2020-07-14 22:55:52,811 Score for RandomForest is 0.020783847980997625
+2020-07-14 22:55:52,811 Run Time for Linear Regression is 0.0 minutes

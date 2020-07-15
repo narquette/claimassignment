@@ -1,0 +1,84 @@
+2020-07-14 23:01:29,984 XGboost Start
+2020-07-14 23:01:34,261 Score for XGboost is 0.030581947743467935
+2020-07-14 23:01:34,261 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 23:01:34,262 XGboost Start
+2020-07-14 23:01:38,449 Score for XGboost is 0.025950118764845605
+2020-07-14 23:01:38,449 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 23:01:38,449 XGboost Start
+2020-07-14 23:01:42,514 Score for XGboost is 0.022446555819477434
+2020-07-14 23:01:42,514 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 23:01:42,517 XGboost Start
+2020-07-14 23:01:46,643 Score for XGboost is 0.017874109263657956
+2020-07-14 23:01:46,643 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 23:01:46,643 XGboost Start
+2020-07-14 23:01:51,394 Score for XGboost is 0.016805225653206652
+2020-07-14 23:01:51,394 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 23:01:51,395 XGboost Start
+2020-07-14 23:01:56,691 Score for XGboost is 0.0163895486935867
+2020-07-14 23:01:56,691 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 23:01:56,692 XGboost Start
+2020-07-14 23:02:01,934 Score for XGboost is 0.017517814726840854
+2020-07-14 23:02:01,934 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 23:02:01,935 XGboost Start
+2020-07-14 23:02:04,825 Score for XGboost is 0.03836104513064133
+2020-07-14 23:02:04,825 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 23:02:04,826 XGboost Start
+2020-07-14 23:02:08,060 Score for XGboost is 0.02980997624703088
+2020-07-14 23:02:08,060 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 23:02:08,061 XGboost Start
+2020-07-14 23:02:11,721 Score for XGboost is 0.02660332541567696
+2020-07-14 23:02:11,721 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 23:02:11,721 XGboost Start
+2020-07-14 23:02:15,765 Score for XGboost is 0.02482185273159145
+2020-07-14 23:02:15,765 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 23:02:15,766 XGboost Start
+2020-07-14 23:02:20,122 Score for XGboost is 0.02143705463182898
+2020-07-14 23:02:20,122 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 23:02:20,122 XGboost Start
+2020-07-14 23:02:27,552 Score for XGboost is 0.015380047505938242
+2020-07-14 23:02:27,552 Run Time for Linear Regression is 0.0 minutes
+2020-07-14 23:02:27,553 XGboost Start
+2020-07-14 23:02:40,780 Score for XGboost is 0.01508313539192399
+2020-07-14 23:02:40,780 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 23:02:40,781 XGboost Start
+2020-07-14 23:03:00,372 Score for XGboost is 0.01502375296912114
+2020-07-14 23:03:00,372 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 23:03:00,373 XGboost Start
+2020-07-14 23:03:02,297 Score for XGboost is 0.03693586698337292
+2020-07-14 23:03:02,298 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 23:03:02,298 XGboost Start
+2020-07-14 23:03:04,223 Score for XGboost is 0.03598574821852732
+2020-07-14 23:03:04,223 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 23:03:04,224 XGboost Start
+2020-07-14 23:03:06,244 Score for XGboost is 0.035866983372921615
+2020-07-14 23:03:06,244 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 23:03:06,245 XGboost Start
+2020-07-14 23:03:08,155 Score for XGboost is 0.03729216152019002
+2020-07-14 23:03:08,155 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 23:03:08,156 XGboost Start
+2020-07-14 23:03:10,216 Score for XGboost is 0.03640142517814727
+2020-07-14 23:03:10,216 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 23:03:10,217 XGboost Start
+2020-07-14 23:03:12,610 Score for XGboost is 0.030819477434679336
+2020-07-14 23:03:12,610 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 23:03:12,610 XGboost Start
+2020-07-14 23:03:15,352 Score for XGboost is 0.028028503562945367
+2020-07-14 23:03:15,352 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 23:03:15,353 XGboost Start
+2020-07-14 23:03:18,008 Score for XGboost is 0.026959619952494063
+2020-07-14 23:03:18,008 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 23:03:18,009 XGboost Start
+2020-07-14 23:03:23,120 Score for XGboost is 0.024346793349168647
+2020-07-14 23:03:23,120 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 23:03:23,121 XGboost Start
+2020-07-14 23:03:26,547 Score for XGboost is 0.02363420427553444
+2020-07-14 23:03:26,548 Run Time for Linear Regression is 1.0 minutes
+2020-07-14 23:03:26,548 XGboost Start
+2020-07-14 23:03:30,402 Score for XGboost is 0.021971496437054632
+2020-07-14 23:03:30,402 Run Time for Linear Regression is 2.0 minutes
+2020-07-14 23:03:30,403 XGboost Start
+2020-07-14 23:03:35,658 Score for XGboost is 0.019833729216152018
+2020-07-14 23:03:35,659 Run Time for Linear Regression is 2.0 minutes
+2020-07-14 23:06:33,734 XGboost Start
+2020-07-14 23:06:46,047 Score for XGboost is 0.015201900237529691
+2020-07-14 23:06:46,047 Run Time for Linear Regression is 0.0 minutes
