@@ -34,6 +34,7 @@ git clone https://github.com/narquette/claimsassignment
 cd ~/claimsassignment
 chmod +x prereq_install.sh
 ./prereq_install.sh
+conda activate claims
 ```
 
 4. Open Jupyter Notebook
@@ -41,6 +42,7 @@ chmod +x prereq_install.sh
 ```sh
 jupyter notebook --no-browser
 ```
+
 5. [Copy URL from command line](https://www.screencast.com/t/JgVmAL6wC)
 
 6. Run Claim_EDA.ipynb in the Code folder
