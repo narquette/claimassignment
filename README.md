@@ -31,6 +31,7 @@ git clone https://github.com/narquette/claimsassignment
 3. Change install script to executable and run install file
 
 ```sh
+cd ~/claimsassignment
 chmod +x prereq_install.sh
 ./prereq_install.sh
 ```
