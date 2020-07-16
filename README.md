@@ -1,4 +1,4 @@
-# Salary Prediction
+# Claims Unpaid Prediction
 This is the project code used for fake healthcare claims data.  The problem statement being addressed in the project is, "What is correlated with unpaid procedure claims?"
 
 # Data Used for Analysis
@@ -44,7 +44,7 @@ jupyter notebook --no-browser
 
 6. Run Claim_EDA.ipynb in the Code folder
 
-# Risk Salary Prediction App
+# Claims Unpaid Prediction Prediction App
 
 TBD
 
