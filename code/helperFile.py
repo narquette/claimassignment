@@ -57,7 +57,7 @@ random_tune = {
     'min_samples_leaf' : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20]
 }
 
-randomforest_best_results_dict = {'max_depth': 50, 'n_estimators': 20, 'max_features': None, 'min_samples_leaf': 1}
+randomforest_best_results_dict = {'max_depth': 100, 'n_estimators': 70, 'max_features': None, 'min_samples_leaf': 1}
 
 xgb_tune = {   
     'learning_rate' : [0.05, 0.1, 0.2, 0.4, 0.6, 0.8, 1],
@@ -65,7 +65,8 @@ xgb_tune = {
     'n_estimators' : [1, 2, 3, 4, 5, 15, 20, 25, 40, 50, 70, 100]    
 }
 
-xgb_best_results_dict = {'learning_rate': 0.8, 'max_depth': 50, 'n_estimators': 100}
+xgb_best_results_dict = {'learning_rate': 0.6, 'max_depth': 20, 'n_estimators': 100}
+# {'learning_rate': 0.8, 'max_depth': 50, 'n_estimators': 100}
 
 lgb_tune = {   
     'learning_rate' : [0.05, 0.1, 0.2, 0.4, 0.6, 0.8, 1],
@@ -173,7 +174,7 @@ class MachineLearning():
 
         # set transformer for categorical features
         categorical_transformer = Pipeline(steps=[
-                                        ('imputer', SimpleImputer(strategy='most_frequent', fill_value=np.nan)),
+                                        ('imputer', SimpleImputer(strategy='constant', fill_value='missing_value')),
                                         ('onehot', OneHotEncoder(handle_unknown='ignore'))])
         
         # Make Transformer
@@ -307,7 +308,7 @@ class MachineLearning():
         return (mse, score)
        
 
-    def LinearRegression(self, cross_validation=False, prediction=False):
+    def LinearRegression(self, cross_validation=False, prediction=False, save_model=False):
         
         """Performs linear regression
 
@@ -341,12 +342,12 @@ class MachineLearning():
         # perform a prediction
         elif prediction:
             
-            mse = self.Scoring(save_model=True)
+            mse = self.Scoring(save_model=save_model)
         
         # normal scoring for tuning
         else:
             
-            mse = self.Scoring(save_model=False)
+            mse = self.Scoring(save_model=save_model)
             
         # return best score
         return mse
@@ -395,7 +396,7 @@ class MachineLearning():
         # return best score
         return mse
         
-    def RandomForest(self, parameter_dict, regressor=True, cross_validation=False, prediction=False):
+    def RandomForest(self, parameter_dict, regressor=True, cross_validation=False, prediction=False, save_model=False):
         
         """Perform random forest modeling and returns mean squared error
         
@@ -447,12 +448,12 @@ class MachineLearning():
         # perform a prediction
         elif prediction:
             
-            mse = self.Scoring(save_model=True)
+            mse = self.Scoring(save_model=save_model)
         
         # normal scoring for tuning
         else:
             
-            mse = self.Scoring(save_model=False)
+            mse = self.Scoring(save_model=save_model)
             
         # return best score
         return mse
@@ -618,6 +619,56 @@ def GetProviderCount(data, providerid):
                           & (data['UnpaidClaim'] == 1)]
     return providerid, len(paid_count), len(unpaid_count)
 
+def FeatureImportance(model):
+        
+        """Performs Feature Importance for modeling and return mean squared error
+
+        Parameters
+        ----------
+        model : string
+            model name 
+        
+        Return
+        ----------
+        plot
+            feature importance plot
+
+        """
+        
+        if model == 'RandomForest':
+            load_model = pickle.load(
+                open(os.path.join('../models', f'{model}.sav'), 'rb'))
+            
+            feature_names = list(numeric_features) + list(load_model.named_steps.columntransformer.transformers_[
+                1][1][1].get_feature_names(categorical_features))
+            
+            feat_importances = pd.Series(load_model.steps[1][1].feature_importances_, index=feature_names)
+            
+            plot = feat_importances.nlargest(15).plot(kind='barh')
+
+        elif model == 'XGboost':
+            load_model = pickle.load(
+                open(os.path.join('../models', f'{model}.sav'), 'rb'))
+
+            feature_names = list(numeric_features) + list(load_model.named_steps.columntransformer.transformers_[
+                1][1][1].get_feature_names(categorical_features))
+
+            plot = xgb.plot_importance(
+                load_model.steps[1][1], max_num_features=15, title=f"{model} Feature Importance").set_yticklabels(feature_names)
+
+        elif model == 'LGboost':
+            load_model = pickle.load(
+                open(os.path.join('../models', f'{model}.sav'), 'rb'))
+
+            feature_names = list(numeric_features) + list(load_model.named_steps.columntransformer.transformers_[
+                1][1][1].get_feature_names(categorical_features))
+
+            plot = lgb.plot_importance(
+                load_model.steps[1][1], max_num_features=15, title=f"{model} Feature Importance").set_yticklabels(feature_names)
+        else:
+            print(f'{model} not found')
+            
+        return plot
         
         
         

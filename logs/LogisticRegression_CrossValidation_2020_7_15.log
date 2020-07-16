@@ -1,0 +1,122 @@
+2020-07-15 18:18:01,725 Logistic Regression Start
+2020-07-15 18:18:08,662 Score for Logistic Regression is {'fit_time': array([1.28337169, 1.21645474, 1.20718169, 1.42334771, 1.52864408]), 'score_time': array([0.04830909, 0.05033493, 0.05795646, 0.0536077 , 0.04148006]), 'test_mse': array([0.02968842, 0.02488732, 0.14697237, 0.08387223, 0.11729544])}
+2020-07-15 18:18:08,662 Run Time for Logistic Regression is 0.0 minutes
+2020-07-15 18:18:12,069 RandomForest Start
+2020-07-15 18:18:38,066 Score for RandomForest is {'fit_time': array([7.48906517, 4.43161345, 4.37745714, 4.72862816, 4.15104079]), 'score_time': array([0.16001797, 0.15437293, 0.15071344, 0.15155172, 0.16798806]), 'test_mse': array([0.02253576, 0.02371154, 0.12316285, 0.08377425, 0.11396374])}
+2020-07-15 18:18:38,066 Run Time for RandomForest is 0.0 minutes
+2020-07-15 18:18:48,127 XGboost Start
+2020-07-15 18:19:34,768 Score for XGboost is {'fit_time': array([ 8.6790328 , 10.21014833,  7.9053514 ,  9.49760294,  9.4145205 ]), 'score_time': array([0.21261001, 0.19124246, 0.16644955, 0.16847897, 0.17066646]), 'test_mse': array([0.02478934, 0.02429943, 0.12002743, 0.08230453, 0.11719745])}
+2020-07-15 18:19:34,769 Run Time for XGboost is 0.0 minutes
+2020-07-15 18:19:36,305 LGboost Start
+2020-07-15 18:19:42,586 Score for LGboost is {'fit_time': array([1.16452265, 1.05772257, 1.08076191, 1.19675326, 1.05412889]), 'score_time': array([0.1447401 , 0.13995314, 0.15742064, 0.14023519, 0.1246655 ]), 'test_mse': array([0.03194199, 0.03703704, 0.12982559, 0.08250049, 0.11278785])}
+2020-07-15 18:19:42,586 Run Time for LGboost is 0.0 minutes
+2020-07-15 18:19:43,008 RandomForest Start
+2020-07-15 18:19:46,254 Score for RandomForest is None
+2020-07-15 18:19:46,255 Run Time for Linear Regression is 0.0 minutes
+2020-07-15 18:28:09,830 CACHEDIR=/home/narquette/.cache/matplotlib
+2020-07-15 18:28:09,831 Using fontManager instance from /home/narquette/.cache/matplotlib/fontlist-v310.json
+2020-07-15 18:28:09,971 Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2020-07-15 18:28:09,972 Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2020-07-15 18:28:10,959 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+2020-07-15 18:28:10,959 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:10,959 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:10,959 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:10,959 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:10,959 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2020-07-15 18:28:10,959 findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:10,959 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:10,959 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:10,959 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal bold normal>) = 11.335
+2020-07-15 18:28:10,959 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal bold normal>) = 11.335
+2020-07-15 18:28:10,959 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal bold normal>) = 1.335
+2020-07-15 18:28:10,960 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2020-07-15 18:28:10,960 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:10,960 findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:10,960 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:10,960 findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:10,960 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2020-07-15 18:28:10,960 findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:10,960 findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:10,960 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:10,960 findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:10,960 findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-15 18:28:10,960 findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2020-07-15 18:28:10,960 findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:10,960 findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:10,960 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-15 18:28:10,960 findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:10,960 findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:10,960 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:10,961 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:10,961 findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:10,961 findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:10,961 findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:10,961 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal bold normal>) = 0.33499999999999996
+2020-07-15 18:28:10,961 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:10,961 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2020-07-15 18:28:10,961 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:10,961 findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2020-07-15 18:28:10,961 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/home/narquette/anaconda/envs/claims/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2020-07-15 18:28:11,175 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2020-07-15 18:28:11,175 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:11,175 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:11,176 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:11,176 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:11,176 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2020-07-15 18:28:11,176 findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:11,176 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:11,176 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:11,176 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal bold normal>) = 11.335
+2020-07-15 18:28:11,176 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal bold normal>) = 11.335
+2020-07-15 18:28:11,176 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal bold normal>) = 1.335
+2020-07-15 18:28:11,176 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2020-07-15 18:28:11,177 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:11,177 findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:11,177 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:11,177 findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:11,177 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2020-07-15 18:28:11,177 findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:11,177 findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:11,177 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:11,177 findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:11,177 findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-15 18:28:11,177 findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2020-07-15 18:28:11,178 findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:11,178 findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:11,178 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-15 18:28:11,178 findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:11,178 findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:11,178 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:11,178 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:11,178 findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:11,178 findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:11,178 findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2020-07-15 18:28:11,178 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal bold normal>) = 0.33499999999999996
+2020-07-15 18:28:11,179 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-15 18:28:11,179 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2020-07-15 18:28:11,179 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal bold normal>) = 10.335
+2020-07-15 18:28:11,179 findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2020-07-15 18:28:11,179 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/narquette/anaconda/envs/claims/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2020-07-15 18:35:12,254 pickle loaded: /home/narquette/anaconda/envs/claims/lib/python3.7/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2020-07-15 18:35:13,991 pickle loaded: /home/narquette/anaconda/envs/claims/lib/python3.7/typing.py
+2020-07-15 18:35:13,998 pickle loaded: /home/narquette/anaconda/envs/claims/lib/python3.7/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+2020-07-15 18:35:20,247 pickle loaded: /home/narquette/anaconda/envs/claims/lib/python3.7/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2020-07-15 18:36:21,548 diff parser start
+2020-07-15 18:36:21,548 line_lengths old: 8; new: 8
+2020-07-15 18:36:21,548 -> code[equal] old[1:7] new[1:7]
+2020-07-15 18:36:21,549 copy old[1:7] new[1:7]
+2020-07-15 18:36:21,549 -> code[replace] old[8:8] new[8:8]
+2020-07-15 18:36:21,549 parse_part from 8 to 8 (to 7 in part parser)
+2020-07-15 18:36:21,549 diff parser end
+2020-07-15 18:40:14,861 diff parser start
+2020-07-15 18:40:14,861 line_lengths old: 8; new: 8
+2020-07-15 18:40:14,861 -> code[equal] old[1:7] new[1:7]
+2020-07-15 18:40:14,861 copy old[1:7] new[1:7]
+2020-07-15 18:40:14,861 -> code[replace] old[8:8] new[8:8]
+2020-07-15 18:40:14,862 parse_part from 8 to 8 (to 7 in part parser)
+2020-07-15 18:40:14,862 diff parser end
+2020-07-15 18:41:19,062 diff parser start
+2020-07-15 18:41:19,062 line_lengths old: 8; new: 1
+2020-07-15 18:41:19,062 -> code[replace] old[1:8] new[1:1]
+2020-07-15 18:41:19,063 parse_part from 1 to 1 (to 0 in part parser)
+2020-07-15 18:41:19,063 diff parser end
