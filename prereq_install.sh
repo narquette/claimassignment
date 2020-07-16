@@ -32,8 +32,14 @@ else
 
    echo "Adding python kernel to jupyter"
    python -m ipykernel install --user --name claims --display-name "Python (claims)"
-
-   echo "Installing java (needed for h2o)"
-   sudo apt install default-jre
 fi
+
+# check to see if java exists
+JAVA_EXISTS="/usr/bin/java"
+if [ -d "$JAVA_EXISTS" ]; then
+	echo "Java Exists"
+else 
+   echo "Installing java"
+   sudo apt install default-jre
+fi 
 
