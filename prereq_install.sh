@@ -35,7 +35,7 @@ else
 fi
 
 # check to see if java exists
-JAVA_EXISTS="/usr/bin/java"
+JAVA_EXISTS="/usr/share/java"
 if [ -d "$JAVA_EXISTS" ]; then
 	echo "Java Exists"
 else 
