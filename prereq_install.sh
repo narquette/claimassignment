@@ -34,6 +34,6 @@ else
    python -m ipykernel install --user --name claims --display-name "Python (claims)"
 
    echo "Installing java (needed for h2o)"
-   sudo apt install default-jdk
+   sudo apt install default-jre
 fi
 
