@@ -71,3 +71,7 @@ Models
 Visualizations 
 - Visualizations produced in the EDA (exploratory data analysis phase)
 - Pandas Profile HTML file for the original data set
+
+Project_Documentation
+- DS Challenge Document (DS_Challenge_Questions.docx)
+- Assignment Response (Claim Assignment.pptx)
