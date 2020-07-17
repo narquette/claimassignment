@@ -1,0 +1,77 @@
+2020-07-17 09:54:53,034 Logistic Regression Start
+2020-07-17 09:54:59,937 Score for Logistic Regression is {'fit_time': array([1.18464637, 1.13875628, 1.00046396, 1.26425529, 2.03720808]), 'score_time': array([0.04297042, 0.0428946 , 0.04453278, 0.07724118, 0.04907084]), 'test_mse': array([0.02968842, 0.02488732, 0.14697237, 0.08387223, 0.11729544]), 'test_accuracy': array([0.97031158, 0.97511268, 0.85302763, 0.91612777, 0.88270456])}
+2020-07-17 09:54:59,938 Run Time for Logistic Regression is 0.0 minutes
+2020-07-17 09:56:43,619 Logistic Regression Start
+2020-07-17 09:56:50,269 Score for Logistic Regression is {'fit_time': array([1.12918615, 1.13139725, 1.22902966, 1.35405684, 1.52646065]), 'score_time': array([0.04454517, 0.05012131, 0.0516963 , 0.04464817, 0.0699017 ]), 'test_mse': array([0.02968842, 0.02488732, 0.14697237, 0.08387223, 0.11729544]), 'test_accuracy': array([0.97031158, 0.97511268, 0.85302763, 0.91612777, 0.88270456])}
+2020-07-17 09:56:50,269 Run Time for Logistic Regression is 0.0 minutes
+2020-07-17 09:59:44,228 Logistic Regression Start
+2020-07-17 09:59:50,572 Score for Logistic Regression is {'fit_time': array([1.19261217, 1.1695652 , 1.13216496, 1.15304732, 1.4348731 ]), 'score_time': array([0.04440403, 0.06441236, 0.04493356, 0.04240727, 0.04538918]), 'test_mse': array([0.02968842, 0.02488732, 0.14697237, 0.08387223, 0.11729544]), 'test_accuracy': array([0.97031158, 0.97511268, 0.85302763, 0.91612777, 0.88270456])}
+2020-07-17 09:59:50,572 Run Time for Logistic Regression is 0.0 minutes
+2020-07-17 10:02:13,723 Logistic Regression Start
+2020-07-17 10:02:22,289 Score for Logistic Regression is {'fit_time': array([1.6731894 , 1.67029619, 1.40036035, 1.5436101 , 1.9294765 ]), 'score_time': array([0.07789636, 0.0644145 , 0.06847334, 0.05984259, 0.05533838]), 'test_mse': array([0.02968842, 0.02488732, 0.14697237, 0.08387223, 0.11729544]), 'test_accuracy': array([0.97031158, 0.97511268, 0.85302763, 0.91612777, 0.88270456])}
+2020-07-17 10:02:22,290 Run Time for Logistic Regression is 0.0 minutes
+2020-07-17 10:06:25,321 Logistic Regression Start
+2020-07-17 10:06:30,740 Score for Logistic Regression is {'fit_time': array([1.0486331 , 0.98039532, 0.90180039, 1.01926017, 1.25496197]), 'score_time': array([0.03831458, 0.03873754, 0.04107857, 0.03901553, 0.03732491]), 'test_mse': array([0.02968842, 0.02488732, 0.14697237, 0.08387223, 0.11729544]), 'test_accuracy': array([0.97031158, 0.97511268, 0.85302763, 0.91612777, 0.88270456])}
+2020-07-17 10:06:30,741 Run Time for Logistic Regression is 0.0 minutes
+2020-07-17 10:08:01,872 Logistic Regression Start
+2020-07-17 10:08:09,204 Score for Logistic Regression is {'fit_time': array([1.47300792, 1.21773624, 1.13093162, 1.420223  , 1.79961753]), 'score_time': array([0.05084538, 0.04550481, 0.0689311 , 0.05403256, 0.05062056]), 'test_mse': array([0.02968842, 0.02488732, 0.14697237, 0.08387223, 0.11729544]), 'test_accuracy': array([0.97031158, 0.97511268, 0.85302763, 0.91612777, 0.88270456])}
+2020-07-17 10:08:09,205 Run Time for Logistic Regression is 0.0 minutes
+2020-07-17 10:09:28,750 Logistic Regression Start
+2020-07-17 10:09:35,879 Score for Logistic Regression is {'fit_time': array([1.41934443, 1.34990001, 1.21777391, 1.2537179 , 1.59892797]), 'score_time': array([0.072088  , 0.0485177 , 0.05450296, 0.04942036, 0.04379988]), 'test_mse': array([0.02968842, 0.02488732, 0.14697237, 0.08387223, 0.11729544]), 'test_accuracy': array([0.97031158, 0.97511268, 0.85302763, 0.91612777, 0.88270456])}
+2020-07-17 10:09:35,879 Run Time for Logistic Regression is 0.0 minutes
+2020-07-17 10:09:39,533 RandomForest Start
+2020-07-17 10:10:07,604 Score for RandomForest is {'fit_time': array([8.53225684, 3.98339915, 4.55564117, 5.34602523, 4.8240416 ]), 'score_time': array([0.16502953, 0.15300274, 0.16217208, 0.15537143, 0.15865922]), 'test_mse': array([0.02253576, 0.02371154, 0.12316285, 0.08377425, 0.11396374]), 'test_accuracy': array([0.97746424, 0.97628846, 0.87683715, 0.91622575, 0.88603626])}
+2020-07-17 10:10:07,604 Run Time for RandomForest is 0.0 minutes
+2020-07-17 10:10:18,920 XGboost Start
+2020-07-17 10:11:09,534 Score for XGboost is {'fit_time': array([10.66030598,  9.9993813 ,  8.48822737,  9.92222714, 10.56407881]), 'score_time': array([0.23270965, 0.20198321, 0.18196011, 0.15741849, 0.17650819]), 'test_mse': array([0.02478934, 0.02429943, 0.12002743, 0.08230453, 0.11719745]), 'test_accuracy': array([0.97521066, 0.97570057, 0.87997257, 0.91769547, 0.88280255])}
+2020-07-17 10:11:09,534 Run Time for XGboost is 1.0 minutes
+2020-07-17 10:11:10,886 LGboost Start
+2020-07-17 10:11:17,075 Score for LGboost is {'fit_time': array([1.08361864, 1.07964921, 1.07885957, 1.1058917 , 1.10471225]), 'score_time': array([0.15028667, 0.14532161, 0.15278769, 0.13983059, 0.12846541]), 'test_mse': array([0.03194199, 0.03703704, 0.12982559, 0.08250049, 0.11278785]), 'test_accuracy': array([0.96805801, 0.96296296, 0.87017441, 0.91749951, 0.88721215])}
+2020-07-17 10:11:17,075 Run Time for LGboost is 0.0 minutes
+2020-07-17 10:13:58,585 RandomForest Start
+2020-07-17 10:14:00,951 Score for RandomForest is None
+2020-07-17 10:14:00,951 Run Time for Linear Regression is 0.0 minutes
+2020-07-17 10:14:04,892 CACHEDIR=/home/narquette/.cache/matplotlib
+2020-07-17 10:14:04,893 Using fontManager instance from /home/narquette/.cache/matplotlib/fontlist-v310.json
+2020-07-17 10:14:05,076 Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2020-07-17 10:14:05,077 Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2020-07-17 10:14:05,123 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2020-07-17 10:14:05,123 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-17 10:14:05,123 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2020-07-17 10:14:05,124 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2020-07-17 10:14:05,124 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-17 10:14:05,124 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2020-07-17 10:14:05,124 findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2020-07-17 10:14:05,124 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-17 10:14:05,124 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-17 10:14:05,124 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal bold normal>) = 11.335
+2020-07-17 10:14:05,124 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal bold normal>) = 11.335
+2020-07-17 10:14:05,124 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal bold normal>) = 1.335
+2020-07-17 10:14:05,124 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2020-07-17 10:14:05,124 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-17 10:14:05,125 findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2020-07-17 10:14:05,125 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-17 10:14:05,125 findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2020-07-17 10:14:05,125 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2020-07-17 10:14:05,125 findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal bold normal>) = 10.335
+2020-07-17 10:14:05,125 findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2020-07-17 10:14:05,125 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-17 10:14:05,125 findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-17 10:14:05,125 findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-17 10:14:05,126 findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2020-07-17 10:14:05,126 findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+2020-07-17 10:14:05,126 findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-17 10:14:05,126 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-17 10:14:05,126 findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-17 10:14:05,126 findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+2020-07-17 10:14:05,126 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-17 10:14:05,126 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-17 10:14:05,126 findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2020-07-17 10:14:05,126 findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2020-07-17 10:14:05,126 findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2020-07-17 10:14:05,127 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal bold normal>) = 0.33499999999999996
+2020-07-17 10:14:05,127 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-17 10:14:05,127 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2020-07-17 10:14:05,127 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal bold normal>) = 10.335
+2020-07-17 10:14:05,127 findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2020-07-17 10:14:05,127 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/narquette/anaconda/envs/claims/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.

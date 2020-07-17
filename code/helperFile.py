@@ -1,4 +1,5 @@
 import pandas as pd
+import warnings
 import numpy as np
 import logging
 import datetime
@@ -212,7 +213,8 @@ class MachineLearning():
           
         # evaluate model
         # cross_score = cross_val_score(self.pipe, self.X, self.y, scoring='neg_mean_absolute_error', cv=None, n_jobs=-1)
-        scoring = { 'mse': make_scorer(mse) }
+        scoring = { 'mse': make_scorer(mse),
+                    'accuracy' : make_scorer(accuracy_score)}
         
         mse = cross_validate(self.pipe, self.X, self.y.values.ravel(), cv=5, scoring=scoring)
                
@@ -223,7 +225,9 @@ class MachineLearning():
         # close logging file
         logging.FileHandler(self.file_name).close()
         
-        return mse['test_mse']
+        #['test_mse']
+        
+        return (mse['test_mse'], mse['test_accuracy'])
         
     def Prediction(self, model):
         
@@ -644,7 +648,7 @@ def FeatureImportance(model):
             
             feat_importances = pd.Series(load_model.steps[1][1].feature_importances_, index=feature_names)
             
-            plot = feat_importances.nlargest(15).plot(kind='barh')
+            plot = feat_importances.nlargest(15).plot(kind='barh', title=f"{model} Feature Importance")
 
         elif model == 'XGboost':
             load_model = pickle.load(
@@ -662,7 +666,7 @@ def FeatureImportance(model):
 
             feature_names = list(numeric_features) + list(load_model.named_steps.columntransformer.transformers_[
                 1][1][1].get_feature_names(categorical_features))
-
+            
             plot = lgb.plot_importance(
                 load_model.steps[1][1], max_num_features=15, title=f"{model} Feature Importance").set_yticklabels(feature_names)
         else:
