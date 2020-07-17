@@ -41,10 +41,6 @@ jupyter notebook --no-browser
 
 6. Run Claim_EDA.ipynb in the Code folder
 
-# Claims Unpaid Prediction Prediction App
-
-TBD
-
 # Folder Overview
 
 Code 
