@@ -12,24 +12,9 @@ Option 1 - WSL (Windows Sub-Linux)
 2. Install Ubuntu App from Windows Store
 3. Create Login and sudo password for Linux
 
-Option 2 - Docker 
+Option 2 - Docker Desktop
 
 1. Install (docker desktop - windows)[https://docs.docker.com/docker-for-windows/install/]
-2. Start Docker
-3. Pull docker image
-```cmd
-   docker pull narquette/claims
-```
-4. Start up docker image
-```cmd
-  docker run -it --rm -p 8888:8888 narquette/claims 
-```
-5. Run Jupyter Notebook
-```sh
-  jupyter notebook --ip=0.0.0.0 --no-browser --allow-root
-```
-6. Navigate to Code / Claims EDA.ipynb
-7. Run all cells
 
 # Getting Started (WSL)
 
@@ -59,6 +44,24 @@ jupyter notebook --no-browser
 5. [Copy URL from command line](https://www.screencast.com/t/JgVmAL6wC)
 
 6. Run Claim_EDA.ipynb in the Code folder
+
+# Getting Started (Docker)
+
+1. Ensure Docker Desktop is running
+2. Pull docker image
+```cmd
+   docker pull narquette/claims
+```
+3. Start up docker image
+```cmd
+  docker run -it --rm -p 8888:8888 narquette/claims 
+```
+4. Run Jupyter Notebook
+```sh
+  jupyter notebook --ip=0.0.0.0 --no-browser --allow-root
+```
+5. Navigate to Code / Claims EDA.ipynb
+6. Run all cells
 
 # Folder Overview
 
