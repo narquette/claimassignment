@@ -107,7 +107,9 @@ class MachineLearning():
         """
         Parameters
         ----------
-        data : str
+        train_data : str
+            the file path representation of where the data resides
+        test_data : str
             the file path representation of where the data resides
         label : str
             the name of the label, target, or dependent variable
@@ -150,7 +152,11 @@ class MachineLearning():
                                                         self.y,
                                                         test_size=0.33,
                                                         random_state=42)
-    
+            
+        # load test data for prediction
+        if test_data:
+            self.test = test_data
+            self.test_data = pd.read_csv(self.test, low_memory=False)
        
         # Set log file name and start time
         self.start = time.time()
@@ -228,17 +234,15 @@ class MachineLearning():
         # close logging file
         logging.FileHandler(self.file_name).close()
         
-        #['test_mse']
-        
         return (mse['test_mse'], mse['test_accuracy'])
         
-    def Prediction(self, model):
+    def Prediction(self, model_name):
         
         """Establishes a scoring (mean squared error) for modeling
 
         Parameters
         ----------
-        model : string
+        model_name : string
             The model name will be passed into the function and used to provide a prediction and write the information to file
 
         Return
@@ -248,21 +252,29 @@ class MachineLearning():
         """
         
         # load model
-        load_model = pickle.load(open(os.path.join('../models', model), 'rb'))
-        
-        # set column names to ensure ordering
-        columns = all_columns
-        
-        # perform predictions                         
-        predictions = load_model.predict(self.test_data[columns])
+        load_model = pickle.load(open(os.path.join('../models', model_name), 'rb'))
         
         # store results in a dataframe
         results_df = pd.DataFrame()
-        results_df['jobId'] = self.test_data['jobId']
-        results_df['salary'] = predictions
+        results_df['Claim Number'] = self.test_data['Claim.Number']
+        results_df['Claim Line Number'] = self.test_data['Claim.Line.Number']
+        results_df['Observed UnPaid Status'] = self.test_data['UnpaidClaim']
+       
+        # drop columns prior to prediction
+        # needs to happen after load results dataframe as columns mentioned above (e.g. Claim number) are dropped
+        self.test_data.drop(dropped_columns, inplace=True, axis=1)
         
+        # perform predictions                         
+        predictions = load_model.predict(self.test_data)
+        
+        # add predictions to results dataframe
+        results_df['Predicted UnPaid Status'] = predictions
+            
         # add results to a file
-        results_df.to_csv(os.path.join('../data','prediction','test_salaries.tar.gz'), compression='gzip', index=False) 
+        results_df.to_csv(os.path.join('../data','prediction','test_unpaid_procedures.tar.gz'), compression='gzip', index=False)
+        
+        # set log for finishing
+        logging.info(f"Prediction Time for {model_name} is {time.time() - self.start} seconds")
                                  
     
     def Scoring(self, save_model=False):
