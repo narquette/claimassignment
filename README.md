@@ -45,12 +45,14 @@ jupyter notebook --no-browser
 
 Code 
 - Claim_EDA.ipynb (all of the code required to produce a final model)
+- Final_Model_Predictions.ipynb (perform a prediction using original data to compare results)
 - helperFile.py (contains the machine learning class needed to run in the Claim EDA Notebook
 
 Data
 - original (original claims data, original procedure data (sub set of claims data)
 - cleaned (cleaned procedured data)
 - train_test_splite (split data needed to run h2o)
+- prediction (storing prediction results from Final Model Prediction notebook)
 
 Logs
 - Previous Model Logs and Where New Logs Information will be placed
