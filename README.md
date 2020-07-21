@@ -14,7 +14,7 @@ Option 1 - WSL (Windows Sub-Linux)
 
 Option 2 - Docker Desktop
 
-1. Install (docker desktop - windows)[https://docs.docker.com/docker-for-windows/install/]
+1. Install [docker desktop - windows](https://docs.docker.com/docker-for-windows/install/)
 
 # Getting Started (WSL)
 
