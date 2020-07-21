@@ -6,13 +6,32 @@ This is the project code used for fake healthcare claims data.  The problem stat
 
 # Pre-requisites
 
-WSL (Windows Sub-Linux)
+Option 1 - WSL (Windows Sub-Linux)
 
 1. Enable [WSL](https://winaero.com/blog/enable-wsl-windows-10-fall-creators-update/) in windows 
 2. Install Ubuntu App from Windows Store
 3. Create Login and sudo password for Linux
 
-# Getting Started 
+Option 2 - Docker 
+
+1. Install (docker desktop - windows)[https://docs.docker.com/docker-for-windows/install/]
+2. Start Docker
+3. Pull docker image
+```cmd
+   docker pull narquette/claims
+```
+4. Start up docker image
+```cmd
+  docker run -it --rm -p 8888:8888 narquette/claims 
+```
+5. Run Jupyter Notebook
+```sh
+  jupyter notebook --ip=0.0.0.0 --no-browser --allow-root
+```
+6. Navigate to Code / Claims EDA.ipynb
+7. Run all cells
+
+# Getting Started (WSL)
 
 1. Open Windows Sub Linux (Ubuntu App)
 
