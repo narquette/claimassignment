@@ -90,6 +90,9 @@ categorical_features = ['Provider.ID', 'Service.Code', 'Procedure.Code', 'Diagno
 
 all_columns = numeric_features + categorical_features
 
+dropped_columns = ['Claim.Number', 'Claim.Line.Number', 'Member.ID', 'UnpaidClaim',
+                'Claim.Subscriber.Type', 'Subscriber.Payment.Amount', 'Place.Of.Service.Code']
+
 class MachineLearning():
     
     """
