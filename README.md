@@ -58,10 +58,11 @@ jupyter notebook --no-browser
 ```
 4. Run Jupyter Notebook
 ```sh
-  jupyter notebook --ip=0.0.0.0 --no-browser --allow-root
+  ./run_notebook.sh
 ```
-5. Navigate to Code / Claims EDA.ipynb
-6. Run all cells
+5. Copy and paste url with tokens into browser
+6. Navigate to Code / Claims EDA.ipynb
+7. Run all cells
 
 # Folder Overview
 
