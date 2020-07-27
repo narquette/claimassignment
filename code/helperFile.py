@@ -16,6 +16,9 @@ from sklearn.model_selection import train_test_split,  cross_val_score, cross_va
 from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier, GradientBoostingRegressor
 from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.compose import TransformedTargetRegressor
+from imblearn.under_sampling import RandomUnderSampler
+from imblearn.over_sampling import RandomOverSampler
+from imblearn.combine import SMOTETomek
 import xgboost as xgb
 import lightgbm as lgb
 
@@ -66,8 +69,9 @@ xgb_tune = {
     'n_estimators' : [1, 2, 3, 4, 5, 15, 20, 25, 40, 50, 70, 100]    
 }
 
-xgb_best_results_dict = {'learning_rate': 0.6, 'max_depth': 20, 'n_estimators': 100}
+xgb_best_results_dict = {'learning_rate': 0.8, 'max_depth': 20, 'n_estimators': 100}
 # {'learning_rate': 0.8, 'max_depth': 50, 'n_estimators': 100}
+#{'learning_rate': 1, 'max_depth': 50, 'n_estimators': 100}
 
 lgb_tune = {   
     'learning_rate' : [0.05, 0.1, 0.2, 0.4, 0.6, 0.8, 1],
@@ -77,15 +81,17 @@ lgb_tune = {
     'min_data_in_leaf': [100, 250, 500, 750, 1000]
 }
 
-lgb_best_results_dict = {'learning_rate': 0.4, 'max_depth': 15, 'num_leaves': 126, 'n_estimators': 100, 'min_data_in_leaf': 100}
+lgb_best_results_dict = {'learning_rate': 0.6, 'max_depth': 15, 'num_leaves': 2020, 'n_estimators': 100, 'min_data_in_leaf': 100}
 
 #store feature information:
-numeric_features = ['Group.Index', 'Subscriber.Index', 'Subgroup.Index','Claim.Current.Status',
+numeric_features = ['Group.Index', 'Subscriber.Index', 
+                    #'Subgroup.Index', #TODO remove
+                    'Claim.Current.Status',
                     'Claim.Charge.Amount']
 
-categorical_features = ['Provider.ID', 'Service.Code', 'Procedure.Code', 'Diagnosis.Code',
-       'Denial.Reason.Code', 'Price.Index', 'In.Out.Of.Network',
-       'Reference.Index', 'Pricing.Index', 'Capitation.Index', 'Claim.Type',
+categorical_features = ['Provider.ID', 'Procedure.Code', 'Diagnosis.Code',
+       #'Denial.Reason.Code', 'Service.Code', 'In.Out.Of.Network', 'Capitation.Index', #TODO remove
+       'Price.Index', 'Reference.Index', 'Pricing.Index', 'Claim.Type',
        'Claim.Pre.Prince.Index', 'Network.ID', 'Agreement.ID']
 
 all_columns = numeric_features + categorical_features
@@ -102,7 +108,7 @@ class MachineLearning():
 
     """
     
-    def __init__(self, train_data=None, test_data=None, label=None, log_file=None):
+    def __init__(self, train_data=None, test_data=None, label=None, log_file=None, imbalance=None):
         
         """
         Parameters
@@ -142,16 +148,21 @@ class MachineLearning():
             self.train = train_data
             self.label = label
             self.train_data = pd.read_csv(self.train, low_memory=False)
-
+            
             # set X and y for TRAIN
             self.X = self.train_data.drop(self.label, axis=1)
             self.y = self.train_data[[self.label]]
+            
+            #if imbalance: TODO remove
+            #    under = RandomUnderSampler(random_state=42)
+            #    self.X, self.y = under.fit_resample(self.X, self.y)
 
             # Split Train and Test for TRAIN
             self.X_train, self.X_test, self.y_train, self.y_test = train_test_split(self.X,
                                                         self.y,
                                                         test_size=0.33,
-                                                        random_state=42)
+                                                        random_state=42,
+                                                        stratify=self.y)
             
         # load test data for prediction
         if test_data:
@@ -176,7 +187,7 @@ class MachineLearning():
         None 
 
         """
-            
+        
         # set transformer for numeric features
         numeric_transformer = Pipeline(steps=[
                                         ('imputer', SimpleImputer(strategy='median')),
@@ -195,6 +206,7 @@ class MachineLearning():
         
         return self.preprocessing
        
+        
     
     def CrossValidation(self):
         
@@ -212,7 +224,8 @@ class MachineLearning():
         
         # Fit model
         self.pipe.fit(self.X_train, self.y_train.values.ravel())
-                
+        #rus.fit_resample(X, y)        
+            
         # start logging
         start = time.time()
         logging.info(f"{self.model_name} Start")

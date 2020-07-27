@@ -1,0 +1,1033 @@
+2020-07-25 15:07:56,853 Logistic Regression Start
+2020-07-25 15:07:57,131 Score for Logistic Regression is 0.07990012484394507
+2020-07-25 15:07:57,131 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:06,633 RandomForest Start
+2020-07-25 15:09:07,723 Score for RandomForest is 0.1161520190023753
+2020-07-25 15:09:07,723 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:07,724 RandomForest Start
+2020-07-25 15:09:08,769 Score for RandomForest is 0.1161520190023753
+2020-07-25 15:09:08,789 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:08,790 RandomForest Start
+2020-07-25 15:09:09,952 Score for RandomForest is 0.1161520190023753
+2020-07-25 15:09:09,952 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:09,955 RandomForest Start
+2020-07-25 15:09:11,200 Score for RandomForest is 0.1161520190023753
+2020-07-25 15:09:11,200 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:11,203 RandomForest Start
+2020-07-25 15:09:12,392 Score for RandomForest is 0.11276722090261283
+2020-07-25 15:09:12,392 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:12,393 RandomForest Start
+2020-07-25 15:09:13,589 Score for RandomForest is 0.08919239904988123
+2020-07-25 15:09:13,589 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:13,590 RandomForest Start
+2020-07-25 15:09:14,967 Score for RandomForest is 0.06460807600950119
+2020-07-25 15:09:14,967 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:14,970 RandomForest Start
+2020-07-25 15:09:16,714 Score for RandomForest is 0.044418052256532066
+2020-07-25 15:09:16,715 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:16,715 RandomForest Start
+2020-07-25 15:09:18,580 Score for RandomForest is 0.04085510688836105
+2020-07-25 15:09:18,580 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:18,585 RandomForest Start
+2020-07-25 15:09:19,008 Score for RandomForest is 0.0757125890736342
+2020-07-25 15:09:19,008 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:19,009 RandomForest Start
+2020-07-25 15:09:19,595 Score for RandomForest is 0.07874109263657958
+2020-07-25 15:09:19,596 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:19,597 RandomForest Start
+2020-07-25 15:09:20,227 Score for RandomForest is 0.05374109263657957
+2020-07-25 15:09:20,228 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:20,230 RandomForest Start
+2020-07-25 15:09:20,852 Score for RandomForest is 0.05302850356294537
+2020-07-25 15:09:20,853 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:20,853 RandomForest Start
+2020-07-25 15:09:21,483 Score for RandomForest is 0.04786223277909739
+2020-07-25 15:09:21,483 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:21,485 RandomForest Start
+2020-07-25 15:09:22,303 Score for RandomForest is 0.04447743467933492
+2020-07-25 15:09:22,304 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:22,304 RandomForest Start
+2020-07-25 15:09:23,122 Score for RandomForest is 0.04311163895486936
+2020-07-25 15:09:23,123 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:23,123 RandomForest Start
+2020-07-25 15:09:23,990 Score for RandomForest is 0.04364608076009501
+2020-07-25 15:09:23,990 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:23,991 RandomForest Start
+2020-07-25 15:09:25,038 Score for RandomForest is 0.0419833729216152
+2020-07-25 15:09:25,038 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:25,039 RandomForest Start
+2020-07-25 15:09:26,303 Score for RandomForest is 0.0419833729216152
+2020-07-25 15:09:26,303 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:26,304 RandomForest Start
+2020-07-25 15:09:27,845 Score for RandomForest is 0.0421021377672209
+2020-07-25 15:09:27,845 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:27,845 RandomForest Start
+2020-07-25 15:09:29,731 Score for RandomForest is 0.0416270783847981
+2020-07-25 15:09:29,731 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:29,732 RandomForest Start
+2020-07-25 15:09:31,531 Score for RandomForest is 0.0416270783847981
+2020-07-25 15:09:31,531 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:31,534 RandomForest Start
+2020-07-25 15:09:36,651 Score for RandomForest is 0.037470308788598576
+2020-07-25 15:09:36,652 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:36,652 RandomForest Start
+2020-07-25 15:09:38,604 Score for RandomForest is 0.0416270783847981
+2020-07-25 15:09:38,604 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:38,604 RandomForest Start
+2020-07-25 15:09:40,684 Score for RandomForest is 0.0417458432304038
+2020-07-25 15:09:40,685 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:40,688 RandomForest Start
+2020-07-25 15:09:44,943 Score for RandomForest is 0.037470308788598576
+2020-07-25 15:09:44,943 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:44,943 RandomForest Start
+2020-07-25 15:09:47,258 Score for RandomForest is 0.039014251781472685
+2020-07-25 15:09:47,258 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:47,261 RandomForest Start
+2020-07-25 15:09:49,264 Score for RandomForest is 0.0416270783847981
+2020-07-25 15:09:49,265 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:49,267 RandomForest Start
+2020-07-25 15:09:50,671 Score for RandomForest is 0.05938242280285035
+2020-07-25 15:09:50,671 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:50,671 RandomForest Start
+2020-07-25 15:09:52,078 Score for RandomForest is 0.07203087885985748
+2020-07-25 15:09:52,079 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:52,079 RandomForest Start
+2020-07-25 15:09:53,329 Score for RandomForest is 0.07856294536817102
+2020-07-25 15:09:53,329 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:53,331 RandomForest Start
+2020-07-25 15:09:54,580 Score for RandomForest is 0.08366983372921616
+2020-07-25 15:09:54,580 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:54,582 RandomForest Start
+2020-07-25 15:09:55,834 Score for RandomForest is 0.08527315914489311
+2020-07-25 15:09:55,834 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:55,835 RandomForest Start
+2020-07-25 15:09:57,106 Score for RandomForest is 0.09043942992874109
+2020-07-25 15:09:57,106 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:57,109 RandomForest Start
+2020-07-25 15:09:58,425 Score for RandomForest is 0.08901425178147268
+2020-07-25 15:09:58,425 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:58,426 RandomForest Start
+2020-07-25 15:09:59,677 Score for RandomForest is 0.09418052256532067
+2020-07-25 15:09:59,677 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:09:59,677 RandomForest Start
+2020-07-25 15:10:01,158 Score for RandomForest is 0.09394299287410926
+2020-07-25 15:10:01,159 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:10:01,159 RandomForest Start
+2020-07-25 15:10:02,603 Score for RandomForest is 0.11104513064133016
+2020-07-25 15:10:02,603 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:26,158 RandomForest Start
+2020-07-25 15:11:26,783 Score for RandomForest is 0.24269662921348314
+2020-07-25 15:11:26,783 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:26,784 RandomForest Start
+2020-07-25 15:11:27,431 Score for RandomForest is 0.22871410736579276
+2020-07-25 15:11:27,431 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:27,432 RandomForest Start
+2020-07-25 15:11:28,041 Score for RandomForest is 0.2042446941323346
+2020-07-25 15:11:28,041 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:28,041 RandomForest Start
+2020-07-25 15:11:28,662 Score for RandomForest is 0.19800249687890137
+2020-07-25 15:11:28,662 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:28,662 RandomForest Start
+2020-07-25 15:11:29,295 Score for RandomForest is 0.18302122347066166
+2020-07-25 15:11:29,295 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:29,296 RandomForest Start
+2020-07-25 15:11:29,917 Score for RandomForest is 0.11885143570536828
+2020-07-25 15:11:29,917 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:29,918 RandomForest Start
+2020-07-25 15:11:30,706 Score for RandomForest is 0.08913857677902622
+2020-07-25 15:11:30,706 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:30,707 RandomForest Start
+2020-07-25 15:11:31,482 Score for RandomForest is 0.07615480649188515
+2020-07-25 15:11:31,482 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:31,482 RandomForest Start
+2020-07-25 15:11:32,304 Score for RandomForest is 0.07640449438202247
+2020-07-25 15:11:32,304 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:32,305 RandomForest Start
+2020-07-25 15:11:32,489 Score for RandomForest is 0.15205992509363295
+2020-07-25 15:11:32,490 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:32,490 RandomForest Start
+2020-07-25 15:11:32,893 Score for RandomForest is 0.13882646691635456
+2020-07-25 15:11:32,893 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:32,894 RandomForest Start
+2020-07-25 15:11:33,310 Score for RandomForest is 0.12009987515605493
+2020-07-25 15:11:33,310 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:33,310 RandomForest Start
+2020-07-25 15:11:33,716 Score for RandomForest is 0.10961298377028714
+2020-07-25 15:11:33,716 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:33,717 RandomForest Start
+2020-07-25 15:11:34,108 Score for RandomForest is 0.10686641697877652
+2020-07-25 15:11:34,108 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:34,109 RandomForest Start
+2020-07-25 15:11:34,535 Score for RandomForest is 0.08564294631710362
+2020-07-25 15:11:34,536 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:34,536 RandomForest Start
+2020-07-25 15:11:34,959 Score for RandomForest is 0.08514357053682896
+2020-07-25 15:11:34,960 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:34,960 RandomForest Start
+2020-07-25 15:11:35,389 Score for RandomForest is 0.08064918851435705
+2020-07-25 15:11:35,390 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:35,391 RandomForest Start
+2020-07-25 15:11:35,848 Score for RandomForest is 0.07290886392009988
+2020-07-25 15:11:35,848 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:35,849 RandomForest Start
+2020-07-25 15:11:36,428 Score for RandomForest is 0.07790262172284644
+2020-07-25 15:11:36,428 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:36,431 RandomForest Start
+2020-07-25 15:11:37,093 Score for RandomForest is 0.07615480649188515
+2020-07-25 15:11:37,093 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:37,093 RandomForest Start
+2020-07-25 15:11:37,893 Score for RandomForest is 0.07640449438202247
+2020-07-25 15:11:37,893 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:37,893 RandomForest Start
+2020-07-25 15:11:38,735 Score for RandomForest is 0.07640449438202247
+2020-07-25 15:11:38,735 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:38,736 RandomForest Start
+2020-07-25 15:11:40,061 Score for RandomForest is 0.07440699126092384
+2020-07-25 15:11:40,061 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:40,062 RandomForest Start
+2020-07-25 15:11:40,852 Score for RandomForest is 0.07640449438202247
+2020-07-25 15:11:40,853 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:40,853 RandomForest Start
+2020-07-25 15:11:41,689 Score for RandomForest is 0.0784019975031211
+2020-07-25 15:11:41,689 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:41,690 RandomForest Start
+2020-07-25 15:11:42,769 Score for RandomForest is 0.07340823970037454
+2020-07-25 15:11:42,769 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:42,772 RandomForest Start
+2020-07-25 15:11:43,545 Score for RandomForest is 0.07066167290886392
+2020-07-25 15:11:43,545 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:43,546 RandomForest Start
+2020-07-25 15:11:44,359 Score for RandomForest is 0.07640449438202247
+2020-07-25 15:11:44,360 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:44,362 RandomForest Start
+2020-07-25 15:11:45,014 Score for RandomForest is 0.1083645443196005
+2020-07-25 15:11:45,014 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:45,015 RandomForest Start
+2020-07-25 15:11:45,690 Score for RandomForest is 0.11760299625468165
+2020-07-25 15:11:45,690 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:45,691 RandomForest Start
+2020-07-25 15:11:46,320 Score for RandomForest is 0.1373283395755306
+2020-07-25 15:11:46,320 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:46,321 RandomForest Start
+2020-07-25 15:11:46,949 Score for RandomForest is 0.1700374531835206
+2020-07-25 15:11:46,950 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:46,950 RandomForest Start
+2020-07-25 15:11:47,609 Score for RandomForest is 0.17952559300873908
+2020-07-25 15:11:47,609 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:47,611 RandomForest Start
+2020-07-25 15:11:48,244 Score for RandomForest is 0.18526841448189763
+2020-07-25 15:11:48,244 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:48,245 RandomForest Start
+2020-07-25 15:11:48,873 Score for RandomForest is 0.183270911360799
+2020-07-25 15:11:48,873 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:48,874 RandomForest Start
+2020-07-25 15:11:49,528 Score for RandomForest is 0.18526841448189763
+2020-07-25 15:11:49,528 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:49,529 RandomForest Start
+2020-07-25 15:11:50,147 Score for RandomForest is 0.18726591760299627
+2020-07-25 15:11:50,147 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:11:50,147 RandomForest Start
+2020-07-25 15:11:50,788 Score for RandomForest is 0.20074906367041198
+2020-07-25 15:11:50,788 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:27,601 RandomForest Start
+2020-07-25 15:13:28,176 Score for RandomForest is 0.07016229712858926
+2020-07-25 15:13:28,176 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:35,457 XGboost Start
+2020-07-25 15:13:36,361 Score for XGboost is 0.08489388264669163
+2020-07-25 15:13:36,361 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:36,362 XGboost Start
+2020-07-25 15:13:37,205 Score for XGboost is 0.07690387016229713
+2020-07-25 15:13:37,205 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:37,206 XGboost Start
+2020-07-25 15:13:38,040 Score for XGboost is 0.06791510611735331
+2020-07-25 15:13:38,040 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:38,041 XGboost Start
+2020-07-25 15:13:38,843 Score for XGboost is 0.06367041198501873
+2020-07-25 15:13:38,843 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:38,844 XGboost Start
+2020-07-25 15:13:39,693 Score for XGboost is 0.06142322097378277
+2020-07-25 15:13:39,693 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:39,694 XGboost Start
+2020-07-25 15:13:40,524 Score for XGboost is 0.060674157303370786
+2020-07-25 15:13:40,524 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:40,525 XGboost Start
+2020-07-25 15:13:41,391 Score for XGboost is 0.05942571785268414
+2020-07-25 15:13:41,391 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:41,391 XGboost Start
+2020-07-25 15:13:41,767 Score for XGboost is 0.1101123595505618
+2020-07-25 15:13:41,767 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:41,768 XGboost Start
+2020-07-25 15:13:42,254 Score for XGboost is 0.0916354556803995
+2020-07-25 15:13:42,254 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:42,255 XGboost Start
+2020-07-25 15:13:42,762 Score for XGboost is 0.07765293383270912
+2020-07-25 15:13:42,763 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:42,763 XGboost Start
+2020-07-25 15:13:43,371 Score for XGboost is 0.07215980024968789
+2020-07-25 15:13:43,371 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:43,372 XGboost Start
+2020-07-25 15:13:44,060 Score for XGboost is 0.06841448189762797
+2020-07-25 15:13:44,060 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:44,061 XGboost Start
+2020-07-25 15:13:45,306 Score for XGboost is 0.058177278401997504
+2020-07-25 15:13:45,306 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:45,306 XGboost Start
+2020-07-25 15:13:47,887 Score for XGboost is 0.056679151061173536
+2020-07-25 15:13:47,887 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:47,888 XGboost Start
+2020-07-25 15:13:51,336 Score for XGboost is 0.056179775280898875
+2020-07-25 15:13:51,336 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:51,337 XGboost Start
+2020-07-25 15:13:51,498 Score for XGboost is 0.09912609238451935
+2020-07-25 15:13:51,498 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:51,498 XGboost Start
+2020-07-25 15:13:51,668 Score for XGboost is 0.0933832709113608
+2020-07-25 15:13:51,668 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:51,669 XGboost Start
+2020-07-25 15:13:51,851 Score for XGboost is 0.09887640449438202
+2020-07-25 15:13:51,851 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:51,852 XGboost Start
+2020-07-25 15:13:52,032 Score for XGboost is 0.09213483146067415
+2020-07-25 15:13:52,032 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:52,032 XGboost Start
+2020-07-25 15:13:52,254 Score for XGboost is 0.09413233458177278
+2020-07-25 15:13:52,254 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:52,255 XGboost Start
+2020-07-25 15:13:52,517 Score for XGboost is 0.08739076154806492
+2020-07-25 15:13:52,517 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:52,518 XGboost Start
+2020-07-25 15:13:52,807 Score for XGboost is 0.08114856429463171
+2020-07-25 15:13:52,807 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:52,808 XGboost Start
+2020-07-25 15:13:53,124 Score for XGboost is 0.08139825218476904
+2020-07-25 15:13:53,124 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:53,125 XGboost Start
+2020-07-25 15:13:53,588 Score for XGboost is 0.0731585518102372
+2020-07-25 15:13:53,588 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:53,588 XGboost Start
+2020-07-25 15:13:54,068 Score for XGboost is 0.06941323345817728
+2020-07-25 15:13:54,068 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:54,069 XGboost Start
+2020-07-25 15:13:54,676 Score for XGboost is 0.06741573033707865
+2020-07-25 15:13:54,676 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:54,677 XGboost Start
+2020-07-25 15:13:55,467 Score for XGboost is 0.0616729088639201
+2020-07-25 15:13:55,468 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:55,741 XGboost Start
+2020-07-25 15:13:58,075 Score for XGboost is 0.06192259675405743
+2020-07-25 15:13:58,075 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:58,328 LGboost Start
+2020-07-25 15:13:58,657 Score for LGboost is 0.06741573033707865
+2020-07-25 15:13:58,657 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:58,658 LGboost Start
+2020-07-25 15:13:58,978 Score for LGboost is 0.06716604244694133
+2020-07-25 15:13:58,978 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:58,979 LGboost Start
+2020-07-25 15:13:59,313 Score for LGboost is 0.05967540574282147
+2020-07-25 15:13:59,313 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:59,314 LGboost Start
+2020-07-25 15:13:59,626 Score for LGboost is 0.06317103620474407
+2020-07-25 15:13:59,626 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:59,627 LGboost Start
+2020-07-25 15:13:59,965 Score for LGboost is 0.06566791510611736
+2020-07-25 15:13:59,965 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:13:59,965 LGboost Start
+2020-07-25 15:14:00,337 Score for LGboost is 0.07166042446941323
+2020-07-25 15:14:00,337 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:00,337 LGboost Start
+2020-07-25 15:14:00,661 Score for LGboost is 0.0696629213483146
+2020-07-25 15:14:00,661 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:00,662 LGboost Start
+2020-07-25 15:14:00,803 Score for LGboost is 0.12734082397003746
+2020-07-25 15:14:00,803 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:00,804 LGboost Start
+2020-07-25 15:14:00,973 Score for LGboost is 0.09837702871410736
+2020-07-25 15:14:00,973 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:00,974 LGboost Start
+2020-07-25 15:14:01,184 Score for LGboost is 0.08114856429463171
+2020-07-25 15:14:01,184 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:01,185 LGboost Start
+2020-07-25 15:14:01,436 Score for LGboost is 0.07265917602996255
+2020-07-25 15:14:01,437 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:01,437 LGboost Start
+2020-07-25 15:14:01,710 Score for LGboost is 0.07066167290886392
+2020-07-25 15:14:01,711 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:01,711 LGboost Start
+2020-07-25 15:14:02,000 Score for LGboost is 0.06766541822721597
+2020-07-25 15:14:02,000 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:02,000 LGboost Start
+2020-07-25 15:14:02,346 Score for LGboost is 0.06741573033707865
+2020-07-25 15:14:02,346 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:02,347 LGboost Start
+2020-07-25 15:14:02,661 Score for LGboost is 0.06666666666666667
+2020-07-25 15:14:02,661 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:02,662 LGboost Start
+2020-07-25 15:14:02,812 Score for LGboost is 0.12734082397003746
+2020-07-25 15:14:02,812 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:02,813 LGboost Start
+2020-07-25 15:14:03,022 Score for LGboost is 0.0853932584269663
+2020-07-25 15:14:03,022 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:03,022 LGboost Start
+2020-07-25 15:14:03,362 Score for LGboost is 0.06716604244694133
+2020-07-25 15:14:03,362 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:03,362 LGboost Start
+2020-07-25 15:14:04,044 Score for LGboost is 0.05917602996254682
+2020-07-25 15:14:04,044 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:04,045 LGboost Start
+2020-07-25 15:14:05,370 Score for LGboost is 0.062421972534332085
+2020-07-25 15:14:05,370 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:05,371 LGboost Start
+2020-07-25 15:14:07,423 Score for LGboost is 0.062421972534332085
+2020-07-25 15:14:07,423 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:07,424 LGboost Start
+2020-07-25 15:14:09,379 Score for LGboost is 0.062421972534332085
+2020-07-25 15:14:09,379 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:09,380 LGboost Start
+2020-07-25 15:14:09,472 Score for LGboost is 0.09463171036204744
+2020-07-25 15:14:09,472 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:09,473 LGboost Start
+2020-07-25 15:14:09,575 Score for LGboost is 0.09213483146067415
+2020-07-25 15:14:09,575 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:09,576 LGboost Start
+2020-07-25 15:14:09,676 Score for LGboost is 0.0933832709113608
+2020-07-25 15:14:09,676 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:09,677 LGboost Start
+2020-07-25 15:14:09,771 Score for LGboost is 0.0898876404494382
+2020-07-25 15:14:09,771 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:09,771 LGboost Start
+2020-07-25 15:14:09,870 Score for LGboost is 0.08614232209737828
+2020-07-25 15:14:09,870 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:09,871 LGboost Start
+2020-07-25 15:14:10,000 Score for LGboost is 0.08014981273408239
+2020-07-25 15:14:10,000 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:10,001 LGboost Start
+2020-07-25 15:14:10,136 Score for LGboost is 0.07690387016229713
+2020-07-25 15:14:10,137 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:10,137 LGboost Start
+2020-07-25 15:14:10,288 Score for LGboost is 0.07515605493133583
+2020-07-25 15:14:10,288 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:10,289 LGboost Start
+2020-07-25 15:14:10,476 Score for LGboost is 0.07215980024968789
+2020-07-25 15:14:10,476 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:10,477 LGboost Start
+2020-07-25 15:14:10,689 Score for LGboost is 0.06766541822721597
+2020-07-25 15:14:10,689 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:10,690 LGboost Start
+2020-07-25 15:14:10,937 Score for LGboost is 0.06891385767790262
+2020-07-25 15:14:10,938 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:10,938 LGboost Start
+2020-07-25 15:14:11,268 Score for LGboost is 0.06716604244694133
+2020-07-25 15:14:11,268 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:11,269 LGboost Start
+2020-07-25 15:14:11,579 Score for LGboost is 0.07740324594257178
+2020-07-25 15:14:11,579 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:11,580 LGboost Start
+2020-07-25 15:14:11,863 Score for LGboost is 0.08714107365792759
+2020-07-25 15:14:11,864 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:11,864 LGboost Start
+2020-07-25 15:14:12,103 Score for LGboost is 0.1066167290886392
+2020-07-25 15:14:12,103 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:12,104 LGboost Start
+2020-07-25 15:14:12,320 Score for LGboost is 0.11036204744069912
+2020-07-25 15:14:12,320 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:14:12,321 LGboost Start
+2020-07-25 15:14:12,522 Score for LGboost is 0.12009987515605493
+2020-07-25 15:14:12,522 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:15:54,582 Logistic Regression Start
+2020-07-25 15:15:54,856 Score for Logistic Regression is 0.07990012484394507
+2020-07-25 15:15:54,856 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:15:55,436 RandomForest Start
+2020-07-25 15:15:56,090 Score for RandomForest is 0.24269662921348314
+2020-07-25 15:15:56,090 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:15:56,091 RandomForest Start
+2020-07-25 15:15:56,731 Score for RandomForest is 0.22871410736579276
+2020-07-25 15:15:56,731 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:15:56,732 RandomForest Start
+2020-07-25 15:15:57,378 Score for RandomForest is 0.2042446941323346
+2020-07-25 15:15:57,379 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:15:57,379 RandomForest Start
+2020-07-25 15:15:58,017 Score for RandomForest is 0.19800249687890137
+2020-07-25 15:15:58,017 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:15:58,018 RandomForest Start
+2020-07-25 15:15:58,654 Score for RandomForest is 0.18302122347066166
+2020-07-25 15:15:58,655 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:15:58,656 RandomForest Start
+2020-07-25 15:15:59,301 Score for RandomForest is 0.11885143570536828
+2020-07-25 15:15:59,301 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:15:59,302 RandomForest Start
+2020-07-25 15:16:00,076 Score for RandomForest is 0.08913857677902622
+2020-07-25 15:16:00,076 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:00,079 RandomForest Start
+2020-07-25 15:16:00,879 Score for RandomForest is 0.07615480649188515
+2020-07-25 15:16:00,879 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:00,880 RandomForest Start
+2020-07-25 15:16:01,675 Score for RandomForest is 0.07640449438202247
+2020-07-25 15:16:01,675 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:01,676 RandomForest Start
+2020-07-25 15:16:01,874 Score for RandomForest is 0.15205992509363295
+2020-07-25 15:16:01,874 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:01,874 RandomForest Start
+2020-07-25 15:16:02,303 Score for RandomForest is 0.13882646691635456
+2020-07-25 15:16:02,303 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:02,305 RandomForest Start
+2020-07-25 15:16:02,722 Score for RandomForest is 0.12009987515605493
+2020-07-25 15:16:02,722 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:02,723 RandomForest Start
+2020-07-25 15:16:03,113 Score for RandomForest is 0.10961298377028714
+2020-07-25 15:16:03,113 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:03,114 RandomForest Start
+2020-07-25 15:16:03,528 Score for RandomForest is 0.10686641697877652
+2020-07-25 15:16:03,529 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:03,530 RandomForest Start
+2020-07-25 15:16:03,945 Score for RandomForest is 0.08564294631710362
+2020-07-25 15:16:03,945 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:03,946 RandomForest Start
+2020-07-25 15:16:04,371 Score for RandomForest is 0.08514357053682896
+2020-07-25 15:16:04,371 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:04,372 RandomForest Start
+2020-07-25 15:16:04,824 Score for RandomForest is 0.08064918851435705
+2020-07-25 15:16:04,824 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:04,826 RandomForest Start
+2020-07-25 15:16:05,402 Score for RandomForest is 0.07290886392009988
+2020-07-25 15:16:05,402 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:05,403 RandomForest Start
+2020-07-25 15:16:06,018 Score for RandomForest is 0.07790262172284644
+2020-07-25 15:16:06,019 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:06,019 RandomForest Start
+2020-07-25 15:16:06,681 Score for RandomForest is 0.07615480649188515
+2020-07-25 15:16:06,681 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:06,682 RandomForest Start
+2020-07-25 15:16:07,457 Score for RandomForest is 0.07640449438202247
+2020-07-25 15:16:07,457 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:07,458 RandomForest Start
+2020-07-25 15:16:08,290 Score for RandomForest is 0.07640449438202247
+2020-07-25 15:16:08,290 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:08,292 RandomForest Start
+2020-07-25 15:16:09,634 Score for RandomForest is 0.07440699126092384
+2020-07-25 15:16:09,634 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:09,635 RandomForest Start
+2020-07-25 15:16:10,467 Score for RandomForest is 0.07640449438202247
+2020-07-25 15:16:10,467 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:10,467 RandomForest Start
+2020-07-25 15:16:11,285 Score for RandomForest is 0.0784019975031211
+2020-07-25 15:16:11,285 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:11,285 RandomForest Start
+2020-07-25 15:16:12,486 Score for RandomForest is 0.07340823970037454
+2020-07-25 15:16:12,486 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:12,487 RandomForest Start
+2020-07-25 15:16:13,263 Score for RandomForest is 0.07066167290886392
+2020-07-25 15:16:13,263 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:13,264 RandomForest Start
+2020-07-25 15:16:14,056 Score for RandomForest is 0.07640449438202247
+2020-07-25 15:16:14,056 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:14,057 RandomForest Start
+2020-07-25 15:16:14,739 Score for RandomForest is 0.1083645443196005
+2020-07-25 15:16:14,739 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:14,741 RandomForest Start
+2020-07-25 15:16:15,408 Score for RandomForest is 0.11760299625468165
+2020-07-25 15:16:15,408 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:15,408 RandomForest Start
+2020-07-25 15:16:16,062 Score for RandomForest is 0.1373283395755306
+2020-07-25 15:16:16,062 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:16,063 RandomForest Start
+2020-07-25 15:16:16,698 Score for RandomForest is 0.1700374531835206
+2020-07-25 15:16:16,698 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:16,699 RandomForest Start
+2020-07-25 15:16:17,327 Score for RandomForest is 0.17952559300873908
+2020-07-25 15:16:17,327 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:17,328 RandomForest Start
+2020-07-25 15:16:17,994 Score for RandomForest is 0.18526841448189763
+2020-07-25 15:16:17,994 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:17,995 RandomForest Start
+2020-07-25 15:16:18,631 Score for RandomForest is 0.183270911360799
+2020-07-25 15:16:18,631 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:18,632 RandomForest Start
+2020-07-25 15:16:19,269 Score for RandomForest is 0.18526841448189763
+2020-07-25 15:16:19,269 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:19,270 RandomForest Start
+2020-07-25 15:16:19,915 Score for RandomForest is 0.18726591760299627
+2020-07-25 15:16:19,915 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:19,916 RandomForest Start
+2020-07-25 15:16:20,534 Score for RandomForest is 0.20074906367041198
+2020-07-25 15:16:20,535 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:20,810 RandomForest Start
+2020-07-25 15:16:21,406 Score for RandomForest is 0.07016229712858926
+2020-07-25 15:16:21,407 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:21,626 XGboost Start
+2020-07-25 15:16:22,514 Score for XGboost is 0.08489388264669163
+2020-07-25 15:16:22,514 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:22,515 XGboost Start
+2020-07-25 15:16:23,406 Score for XGboost is 0.07690387016229713
+2020-07-25 15:16:23,406 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:23,407 XGboost Start
+2020-07-25 15:16:24,210 Score for XGboost is 0.06791510611735331
+2020-07-25 15:16:24,210 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:24,210 XGboost Start
+2020-07-25 15:16:25,047 Score for XGboost is 0.06367041198501873
+2020-07-25 15:16:25,047 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:25,048 XGboost Start
+2020-07-25 15:16:25,842 Score for XGboost is 0.06142322097378277
+2020-07-25 15:16:25,842 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:25,843 XGboost Start
+2020-07-25 15:16:26,641 Score for XGboost is 0.060674157303370786
+2020-07-25 15:16:26,642 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:26,642 XGboost Start
+2020-07-25 15:16:27,455 Score for XGboost is 0.05942571785268414
+2020-07-25 15:16:27,456 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:27,456 XGboost Start
+2020-07-25 15:16:27,796 Score for XGboost is 0.1101123595505618
+2020-07-25 15:16:27,796 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:27,797 XGboost Start
+2020-07-25 15:16:28,219 Score for XGboost is 0.0916354556803995
+2020-07-25 15:16:28,219 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:28,220 XGboost Start
+2020-07-25 15:16:28,782 Score for XGboost is 0.07765293383270912
+2020-07-25 15:16:28,782 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:28,783 XGboost Start
+2020-07-25 15:16:29,385 Score for XGboost is 0.07215980024968789
+2020-07-25 15:16:29,385 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:29,385 XGboost Start
+2020-07-25 15:16:30,099 Score for XGboost is 0.06841448189762797
+2020-07-25 15:16:30,099 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:30,100 XGboost Start
+2020-07-25 15:16:31,408 Score for XGboost is 0.058177278401997504
+2020-07-25 15:16:31,408 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:31,409 XGboost Start
+2020-07-25 15:16:34,053 Score for XGboost is 0.056679151061173536
+2020-07-25 15:16:34,053 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:34,053 XGboost Start
+2020-07-25 15:16:37,503 Score for XGboost is 0.056179775280898875
+2020-07-25 15:16:37,503 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:37,504 XGboost Start
+2020-07-25 15:16:37,674 Score for XGboost is 0.09912609238451935
+2020-07-25 15:16:37,675 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:37,675 XGboost Start
+2020-07-25 15:16:37,840 Score for XGboost is 0.0933832709113608
+2020-07-25 15:16:37,841 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:37,841 XGboost Start
+2020-07-25 15:16:38,012 Score for XGboost is 0.09887640449438202
+2020-07-25 15:16:38,013 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:38,013 XGboost Start
+2020-07-25 15:16:38,193 Score for XGboost is 0.09213483146067415
+2020-07-25 15:16:38,194 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:38,194 XGboost Start
+2020-07-25 15:16:38,387 Score for XGboost is 0.09413233458177278
+2020-07-25 15:16:38,388 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:38,388 XGboost Start
+2020-07-25 15:16:38,663 Score for XGboost is 0.08739076154806492
+2020-07-25 15:16:38,663 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:38,664 XGboost Start
+2020-07-25 15:16:38,943 Score for XGboost is 0.08114856429463171
+2020-07-25 15:16:38,943 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:38,943 XGboost Start
+2020-07-25 15:16:39,267 Score for XGboost is 0.08139825218476904
+2020-07-25 15:16:39,267 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:39,268 XGboost Start
+2020-07-25 15:16:39,719 Score for XGboost is 0.0731585518102372
+2020-07-25 15:16:39,719 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:39,719 XGboost Start
+2020-07-25 15:16:40,266 Score for XGboost is 0.06941323345817728
+2020-07-25 15:16:40,266 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:40,266 XGboost Start
+2020-07-25 15:16:40,918 Score for XGboost is 0.06741573033707865
+2020-07-25 15:16:40,919 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:40,919 XGboost Start
+2020-07-25 15:16:41,729 Score for XGboost is 0.0616729088639201
+2020-07-25 15:16:41,729 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:41,980 XGboost Start
+2020-07-25 15:16:44,237 Score for XGboost is 0.060674157303370786
+2020-07-25 15:16:44,237 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:44,443 LGboost Start
+2020-07-25 15:16:44,773 Score for LGboost is 0.06741573033707865
+2020-07-25 15:16:44,774 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:44,774 LGboost Start
+2020-07-25 15:16:45,130 Score for LGboost is 0.06716604244694133
+2020-07-25 15:16:45,130 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:45,131 LGboost Start
+2020-07-25 15:16:45,480 Score for LGboost is 0.05967540574282147
+2020-07-25 15:16:45,480 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:45,481 LGboost Start
+2020-07-25 15:16:45,830 Score for LGboost is 0.06317103620474407
+2020-07-25 15:16:45,831 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:45,831 LGboost Start
+2020-07-25 15:16:46,162 Score for LGboost is 0.06566791510611736
+2020-07-25 15:16:46,162 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:46,163 LGboost Start
+2020-07-25 15:16:46,485 Score for LGboost is 0.07166042446941323
+2020-07-25 15:16:46,485 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:46,486 LGboost Start
+2020-07-25 15:16:46,820 Score for LGboost is 0.0696629213483146
+2020-07-25 15:16:46,821 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:46,822 LGboost Start
+2020-07-25 15:16:46,963 Score for LGboost is 0.12734082397003746
+2020-07-25 15:16:46,964 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:46,964 LGboost Start
+2020-07-25 15:16:47,144 Score for LGboost is 0.09837702871410736
+2020-07-25 15:16:47,144 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:47,145 LGboost Start
+2020-07-25 15:16:47,371 Score for LGboost is 0.08114856429463171
+2020-07-25 15:16:47,371 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:47,372 LGboost Start
+2020-07-25 15:16:47,649 Score for LGboost is 0.07265917602996255
+2020-07-25 15:16:47,649 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:47,650 LGboost Start
+2020-07-25 15:16:47,932 Score for LGboost is 0.07066167290886392
+2020-07-25 15:16:47,932 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:47,933 LGboost Start
+2020-07-25 15:16:48,216 Score for LGboost is 0.06766541822721597
+2020-07-25 15:16:48,217 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:48,217 LGboost Start
+2020-07-25 15:16:48,518 Score for LGboost is 0.06741573033707865
+2020-07-25 15:16:48,518 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:48,519 LGboost Start
+2020-07-25 15:16:48,846 Score for LGboost is 0.06666666666666667
+2020-07-25 15:16:48,846 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:48,846 LGboost Start
+2020-07-25 15:16:48,998 Score for LGboost is 0.12734082397003746
+2020-07-25 15:16:48,998 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:48,999 LGboost Start
+2020-07-25 15:16:49,209 Score for LGboost is 0.0853932584269663
+2020-07-25 15:16:49,209 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:49,209 LGboost Start
+2020-07-25 15:16:49,539 Score for LGboost is 0.06716604244694133
+2020-07-25 15:16:49,539 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:49,540 LGboost Start
+2020-07-25 15:16:50,236 Score for LGboost is 0.05917602996254682
+2020-07-25 15:16:50,236 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:50,237 LGboost Start
+2020-07-25 15:16:51,514 Score for LGboost is 0.062421972534332085
+2020-07-25 15:16:51,514 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:51,515 LGboost Start
+2020-07-25 15:16:53,228 Score for LGboost is 0.062421972534332085
+2020-07-25 15:16:53,228 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:53,229 LGboost Start
+2020-07-25 15:16:55,095 Score for LGboost is 0.062421972534332085
+2020-07-25 15:16:55,095 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:55,096 LGboost Start
+2020-07-25 15:16:55,194 Score for LGboost is 0.09463171036204744
+2020-07-25 15:16:55,194 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:55,195 LGboost Start
+2020-07-25 15:16:55,292 Score for LGboost is 0.09213483146067415
+2020-07-25 15:16:55,292 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:55,293 LGboost Start
+2020-07-25 15:16:55,405 Score for LGboost is 0.0933832709113608
+2020-07-25 15:16:55,405 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:55,406 LGboost Start
+2020-07-25 15:16:55,516 Score for LGboost is 0.0898876404494382
+2020-07-25 15:16:55,516 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:55,517 LGboost Start
+2020-07-25 15:16:55,617 Score for LGboost is 0.08614232209737828
+2020-07-25 15:16:55,617 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:55,618 LGboost Start
+2020-07-25 15:16:55,736 Score for LGboost is 0.08014981273408239
+2020-07-25 15:16:55,736 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:55,737 LGboost Start
+2020-07-25 15:16:55,878 Score for LGboost is 0.07690387016229713
+2020-07-25 15:16:55,879 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:55,879 LGboost Start
+2020-07-25 15:16:56,043 Score for LGboost is 0.07515605493133583
+2020-07-25 15:16:56,043 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:56,044 LGboost Start
+2020-07-25 15:16:56,218 Score for LGboost is 0.07215980024968789
+2020-07-25 15:16:56,218 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:56,219 LGboost Start
+2020-07-25 15:16:56,417 Score for LGboost is 0.06766541822721597
+2020-07-25 15:16:56,417 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:56,418 LGboost Start
+2020-07-25 15:16:56,681 Score for LGboost is 0.06891385767790262
+2020-07-25 15:16:56,681 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:56,681 LGboost Start
+2020-07-25 15:16:57,010 Score for LGboost is 0.06716604244694133
+2020-07-25 15:16:57,010 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:57,011 LGboost Start
+2020-07-25 15:16:57,332 Score for LGboost is 0.07740324594257178
+2020-07-25 15:16:57,332 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:57,333 LGboost Start
+2020-07-25 15:16:57,634 Score for LGboost is 0.08714107365792759
+2020-07-25 15:16:57,634 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:57,634 LGboost Start
+2020-07-25 15:16:57,871 Score for LGboost is 0.1066167290886392
+2020-07-25 15:16:57,871 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:57,872 LGboost Start
+2020-07-25 15:16:58,084 Score for LGboost is 0.11036204744069912
+2020-07-25 15:16:58,084 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:58,085 LGboost Start
+2020-07-25 15:16:58,311 Score for LGboost is 0.12009987515605493
+2020-07-25 15:16:58,311 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:58,590 LGboost Start
+2020-07-25 15:16:58,969 Score for LGboost is 0.07290886392009988
+2020-07-25 15:16:58,969 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:16:59,459 Logistic Regression Start
+2020-07-25 15:17:00,950 Score for Logistic Regression is {'fit_time': array([0.26185179, 0.24397159, 0.31428528, 0.31106091, 0.28894448]), 'score_time': array([0.01258421, 0.01215816, 0.01316977, 0.01237941, 0.01194263]), 'test_mse': array([0.43616145, 0.18994644, 0.38854553, 0.23939019, 0.54223321]), 'test_accuracy': array([0.56383855, 0.81005356, 0.61145447, 0.76060981, 0.45776679])}
+2020-07-25 15:17:00,951 Run Time for Logistic Regression is 0.0 minutes
+2020-07-25 15:17:01,936 RandomForest Start
+2020-07-25 15:17:10,264 Score for RandomForest is {'fit_time': array([3.75661087, 0.97527194, 0.94154692, 1.09093165, 0.94528413]), 'score_time': array([0.12101269, 0.1151638 , 0.11746192, 0.11901188, 0.11697459]), 'test_mse': array([0.43369028, 0.12608158, 0.35146271, 0.26699629, 0.52863618]), 'test_accuracy': array([0.56630972, 0.87391842, 0.64853729, 0.73300371, 0.47136382])}
+2020-07-25 15:17:10,265 Run Time for RandomForest is 0.0 minutes
+2020-07-25 15:17:12,788 XGboost Start
+2020-07-25 15:17:27,431 Score for XGboost is {'fit_time': array([2.58705306, 2.62392879, 2.76212525, 3.49347258, 2.87565064]), 'score_time': array([0.04701877, 0.07709718, 0.04826808, 0.06595969, 0.04587817]), 'test_mse': array([0.42586491, 0.18747425, 0.33745365, 0.11619283, 0.5170993 ]), 'test_accuracy': array([0.57413509, 0.81252575, 0.66254635, 0.88380717, 0.4829007 ])}
+2020-07-25 15:17:27,432 Run Time for XGboost is 0.0 minutes
+2020-07-25 15:17:27,941 LGboost Start
+2020-07-25 15:17:29,681 Score for LGboost is {'fit_time': array([0.31442785, 0.31148243, 0.32103276, 0.2928865 , 0.30749679]), 'score_time': array([0.04010892, 0.04167747, 0.03390026, 0.03138208, 0.03435063]), 'test_mse': array([0.42668863, 0.2117841 , 0.37330037, 0.11248455, 0.49237742]), 'test_accuracy': array([0.57331137, 0.7882159 , 0.62669963, 0.88751545, 0.50762258])}
+2020-07-25 15:17:29,681 Run Time for LGboost is 0.0 minutes
+2020-07-25 15:19:04,795 LGboost Start
+2020-07-25 15:19:05,087 Score for LGboost is None
+2020-07-25 15:19:05,088 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:19:09,083 CACHEDIR=/home/narquette/.cache/matplotlib
+2020-07-25 15:19:09,084 Using fontManager instance from /home/narquette/.cache/matplotlib/fontlist-v310.json
+2020-07-25 15:19:09,243 Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2020-07-25 15:19:09,244 Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2020-07-25 15:19:09,284 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+2020-07-25 15:19:09,284 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,284 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,284 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,284 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,284 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:19:09,284 findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,285 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,285 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,285 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:19:09,285 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal bold normal>) = 11.335
+2020-07-25 15:19:09,285 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal bold normal>) = 1.335
+2020-07-25 15:19:09,285 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2020-07-25 15:19:09,285 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,285 findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,285 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,285 findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,285 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2020-07-25 15:19:09,285 findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,286 findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,286 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,286 findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,286 findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:19:09,286 findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2020-07-25 15:19:09,286 findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,286 findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,286 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:19:09,286 findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,286 findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,286 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,286 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,286 findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,286 findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,286 findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,287 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal bold normal>) = 0.33499999999999996
+2020-07-25 15:19:09,287 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,287 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:19:09,287 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,287 findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:19:09,287 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/home/narquette/anaconda/envs/claims/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2020-07-25 15:19:09,293 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2020-07-25 15:19:09,294 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,294 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,294 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,294 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,294 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:19:09,294 findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,294 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,294 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,294 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:19:09,294 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal bold normal>) = 11.335
+2020-07-25 15:19:09,294 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal bold normal>) = 1.335
+2020-07-25 15:19:09,294 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2020-07-25 15:19:09,294 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,294 findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,294 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,294 findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,294 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2020-07-25 15:19:09,294 findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,295 findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,295 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,295 findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,295 findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:19:09,295 findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2020-07-25 15:19:09,295 findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,295 findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,295 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:19:09,295 findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,295 findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,295 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,295 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,295 findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,295 findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,295 findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:19:09,295 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal bold normal>) = 0.33499999999999996
+2020-07-25 15:19:09,295 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:19:09,295 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:19:09,295 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:19:09,295 findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:19:09,295 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/narquette/anaconda/envs/claims/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2020-07-25 15:20:25,618 Logistic Regression Start
+2020-07-25 15:20:27,245 Score for Logistic Regression is {'fit_time': array([0.29534793, 0.30378604, 0.2977109 , 0.33470511, 0.32357907]), 'score_time': array([0.01205373, 0.01554799, 0.01162958, 0.01309586, 0.01176381]), 'test_mse': array([0.43616145, 0.18994644, 0.38854553, 0.23939019, 0.54223321]), 'test_accuracy': array([0.56383855, 0.81005356, 0.61145447, 0.76060981, 0.45776679])}
+2020-07-25 15:20:27,246 Run Time for Logistic Regression is 0.0 minutes
+2020-07-25 15:20:28,371 RandomForest Start
+2020-07-25 15:20:33,747 Score for RandomForest is {'fit_time': array([0.85767841, 0.92588282, 0.96420813, 1.07698154, 0.93731833]), 'score_time': array([0.11736846, 0.11583257, 0.11631584, 0.11721873, 0.11818647]), 'test_mse': array([0.43369028, 0.12608158, 0.35146271, 0.26699629, 0.52863618]), 'test_accuracy': array([0.56630972, 0.87391842, 0.64853729, 0.73300371, 0.47136382])}
+2020-07-25 15:20:33,748 Run Time for RandomForest is 0.0 minutes
+2020-07-25 15:20:36,164 XGboost Start
+2020-07-25 15:20:48,465 Score for XGboost is {'fit_time': array([2.37636662, 2.44815731, 2.42500353, 2.48667908, 2.324898  ]), 'score_time': array([0.04390645, 0.04986691, 0.046242  , 0.0420804 , 0.04534364]), 'test_mse': array([0.42586491, 0.18747425, 0.33745365, 0.11619283, 0.5170993 ]), 'test_accuracy': array([0.57413509, 0.81252575, 0.66254635, 0.88380717, 0.4829007 ])}
+2020-07-25 15:20:48,465 Run Time for XGboost is 0.0 minutes
+2020-07-25 15:20:48,946 LGboost Start
+2020-07-25 15:20:50,640 Score for LGboost is {'fit_time': array([0.30707264, 0.31754589, 0.29846954, 0.29677224, 0.29457259]), 'score_time': array([0.03752422, 0.03649163, 0.03319621, 0.03052306, 0.0321424 ]), 'test_mse': array([0.42668863, 0.2117841 , 0.37330037, 0.11248455, 0.49237742]), 'test_accuracy': array([0.57331137, 0.7882159 , 0.62669963, 0.88751545, 0.50762258])}
+2020-07-25 15:20:50,640 Run Time for LGboost is 0.0 minutes
+2020-07-25 15:20:51,036 LGboost Start
+2020-07-25 15:20:51,319 Score for LGboost is None
+2020-07-25 15:20:51,319 Run Time for Linear Regression is 0.0 minutes
+2020-07-25 15:35:59,792 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2020-07-25 15:35:59,793 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,793 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,793 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,793 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,793 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:35:59,793 findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,793 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,793 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,793 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:35:59,793 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal bold normal>) = 11.335
+2020-07-25 15:35:59,793 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal bold normal>) = 3.335
+2020-07-25 15:35:59,793 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 3.05
+2020-07-25 15:35:59,793 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,793 findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,793 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,794 findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,794 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2020-07-25 15:35:59,794 findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,794 findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,794 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,794 findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,794 findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:35:59,794 findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 2.05
+2020-07-25 15:35:59,794 findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,794 findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,794 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:35:59,794 findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,794 findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,794 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,794 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,794 findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,794 findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,794 findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,794 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal bold normal>) = 2.335
+2020-07-25 15:35:59,794 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,794 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:35:59,795 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,795 findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:35:59,795 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/narquette/anaconda/envs/claims/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 2.050000.
+2020-07-25 15:35:59,799 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=11.0.
+2020-07-25 15:35:59,799 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,799 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,799 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,799 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,799 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:35:59,799 findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,799 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,799 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,799 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:35:59,799 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal bold normal>) = 11.335
+2020-07-25 15:35:59,799 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal bold normal>) = 3.335
+2020-07-25 15:35:59,799 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 3.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,800 findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,800 findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,800 findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:35:59,800 findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 2.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:35:59,800 findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,800 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,800 findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,800 findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:35:59,801 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal bold normal>) = 2.335
+2020-07-25 15:35:59,801 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:35:59,801 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:35:59,801 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:35:59,801 findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:35:59,801 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=11.0 to DejaVu Sans ('/home/narquette/anaconda/envs/claims/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 2.050000.
+2020-07-25 15:36:15,843 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+2020-07-25 15:36:15,843 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:36:15,843 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:36:15,843 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:36:15,843 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:36:15,843 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:36:15,844 findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:36:15,844 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:36:15,844 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:36:15,844 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:36:15,844 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal bold normal>) = 11.335
+2020-07-25 15:36:15,844 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal bold normal>) = 3.335
+2020-07-25 15:36:15,844 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 3.05
+2020-07-25 15:36:15,844 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:36:15,844 findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:36:15,844 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:36:15,844 findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:36:15,844 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2020-07-25 15:36:15,844 findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:36:15,844 findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:36:15,844 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:36:15,844 findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:36:15,844 findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:36:15,844 findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 2.05
+2020-07-25 15:36:15,845 findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:36:15,845 findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:36:15,845 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal bold normal>) = 11.335
+2020-07-25 15:36:15,845 findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:36:15,845 findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:36:15,845 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:36:15,845 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:36:15,845 findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:36:15,845 findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:36:15,845 findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2020-07-25 15:36:15,845 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal bold normal>) = 2.335
+2020-07-25 15:36:15,845 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+2020-07-25 15:36:15,845 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:36:15,845 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal bold normal>) = 10.335
+2020-07-25 15:36:15,845 findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2020-07-25 15:36:15,845 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/home/narquette/anaconda/envs/claims/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 2.050000.
+2020-07-25 15:36:26,935 findfont: Matching sans\-serif:style=normal:variant=normal:weight=bold:stretch=normal:size=11.0.
+2020-07-25 15:36:26,935 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.335
+2020-07-25 15:36:26,935 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.335
+2020-07-25 15:36:26,935 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.335
+2020-07-25 15:36:26,936 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal bold normal>) = 10.0
+2020-07-25 15:36:26,936 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.335
+2020-07-25 15:36:26,936 findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.335
+2020-07-25 15:36:26,936 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.335
+2020-07-25 15:36:26,936 findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal bold normal>) = 10.0
+2020-07-25 15:36:26,936 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal bold normal>) = 11.0
+2020-07-25 15:36:26,936 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal bold normal>) = 11.0
+2020-07-25 15:36:26,936 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal bold normal>) = 3.0
+2020-07-25 15:36:26,936 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 3.335
+2020-07-25 15:36:26,936 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.335
+2020-07-25 15:36:26,936 findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.335
+2020-07-25 15:36:26,936 findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal bold normal>) = 10.0
+2020-07-25 15:36:26,936 findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.335
+2020-07-25 15:36:26,936 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.335
+2020-07-25 15:36:26,936 findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal bold normal>) = 10.0
+2020-07-25 15:36:26,936 findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.335
+2020-07-25 15:36:26,936 findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal bold normal>) = 10.0
+2020-07-25 15:36:26,937 findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.335
+2020-07-25 15:36:26,937 findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal bold normal>) = 11.0
+2020-07-25 15:36:26,937 findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 2.335
+2020-07-25 15:36:26,937 findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.335
+2020-07-25 15:36:26,937 findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.335
+2020-07-25 15:36:26,937 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal bold normal>) = 11.0
+2020-07-25 15:36:26,937 findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.335
+2020-07-25 15:36:26,937 findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.335
+2020-07-25 15:36:26,937 findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal bold normal>) = 10.0
+2020-07-25 15:36:26,937 findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal bold normal>) = 10.0
+2020-07-25 15:36:26,937 findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.335
+2020-07-25 15:36:26,937 findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.335
+2020-07-25 15:36:26,937 findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.335
+2020-07-25 15:36:26,937 findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal bold normal>) = 2.0
+2020-07-25 15:36:26,937 findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.335
+2020-07-25 15:36:26,937 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.335
+2020-07-25 15:36:26,937 findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal bold normal>) = 10.0
+2020-07-25 15:36:26,937 findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.335
+2020-07-25 15:36:26,937 findfont: Matching sans\-serif:style=normal:variant=normal:weight=bold:stretch=normal:size=11.0 to DejaVu Sans ('/home/narquette/anaconda/envs/claims/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf') with score of 2.000000.
