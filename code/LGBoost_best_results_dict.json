@@ -1,0 +1,1 @@
+{"learning_rate": 0.6, "max_depth": 15, "num_leaves": 2020, "n_estimators": 100, "min_data_in_leaf": 100}

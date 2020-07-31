@@ -1,0 +1,11 @@
+{"numeric_features": ["Claim.Charge.Amount", "Group.Index",  "Line.Of.Business.ID"],  
+ "categorical_features": ["Agreement.ID", "Claim.Type", "Diagnosis.Code",
+                          "Network.ID", "Price.Index", "Pricing.Index", 
+                          "Procedure.Code", "Provider.ID", "Reference.Index", 
+                          "Service.Code"], 
+ "dropped_columns": ["Capitation.Index", "Claim.Current.Status", "Claim.Number", 
+                     "Claim.Line.Number", "Claim.Pre.Prince.Index", "Claim.Subscriber.Type", 
+                     "Denial.Reason.Code", "In.Out.Of.Network", "Member.ID", 
+                     "Place.Of.Service.Code", "Provider.Payment.Amount", "Revenue.Code", "Subscriber.Index", 
+                     "Subscriber.Payment.Amount", "Subgroup.Index"]} 
+

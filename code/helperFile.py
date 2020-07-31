@@ -6,6 +6,7 @@ import datetime
 import time 
 import pickle
 import os
+import json
 from sklearn.preprocessing import OneHotEncoder, StandardScaler, LabelEncoder, OrdinalEncoder, PowerTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.compose import make_column_transformer, ColumnTransformer
@@ -70,8 +71,6 @@ xgb_tune = {
 }
 
 xgb_best_results_dict = {'learning_rate': 0.8, 'max_depth': 20, 'n_estimators': 100}
-# {'learning_rate': 0.8, 'max_depth': 50, 'n_estimators': 100}
-#{'learning_rate': 1, 'max_depth': 50, 'n_estimators': 100}
 
 lgb_tune = {   
     'learning_rate' : [0.05, 0.1, 0.2, 0.4, 0.6, 0.8, 1],
@@ -91,7 +90,8 @@ numeric_features = ['Group.Index', 'Subscriber.Index',
 
 categorical_features = ['Provider.ID', 'Procedure.Code', 'Diagnosis.Code',
        #'Denial.Reason.Code', 'Service.Code', 'In.Out.Of.Network', 'Capitation.Index', #TODO remove
-       'Price.Index', 'Reference.Index', 'Pricing.Index', 'Claim.Type',
+       #'Pricing.Index', 'Price.Index', #TODO remove
+       'Reference.Index', 'Claim.Type',
        'Claim.Pre.Prince.Index', 'Network.ID', 'Agreement.ID']
 
 all_columns = numeric_features + categorical_features
@@ -650,6 +650,13 @@ def GetProviderCount(data, providerid):
     unpaid_count = data.loc[(data['Provider.ID'] == providerid)
                           & (data['UnpaidClaim'] == 1)]
     return providerid, len(paid_count), len(unpaid_count)
+
+def GetBestDict(file_name):
+    
+    with open(file_name) as best:
+        best_results_dict = json.load(best)
+        
+    return best_results_dict
 
 def FeatureImportance(model):
         
