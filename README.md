@@ -6,7 +6,7 @@ This is the project code used for fake healthcare claims data.  The problem stat
 
 # Summary Report 
 
-Please review the following [pdf](https://github.com/narquette/claimassignment/blob/master/project_documentation/Claims%20Assignment.pdf) to see reponses to project question and overall modeling results.
+Please review the following [pdf](https://github.com/narquette/claimassignment/blob/master/project_documentation/Claims%20Assignment.pdf) to see reponses to the project questions and overall modeling results.
 
 # Pre-requisites
 
