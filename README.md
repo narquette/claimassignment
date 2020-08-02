@@ -43,7 +43,9 @@ jupyter notebook --no-browser
 
 5. [Copy URL from command line](https://www.screencast.com/t/JgVmAL6wC)
 
-6. Run Claim_EDA.ipynb in the Code folder
+6. Run Claim_EDA.ipynb in the Code folder to perform an Exploratory Data Analysis
+
+7. Run Model_Tuning_Evaluation.ipynb to perform model evaluation and tuning
 
 # Getting Started (Docker)
 
@@ -68,8 +70,15 @@ jupyter notebook --no-browser
 
 Code 
 - Claim_EDA.ipynb (all of the code required to produce a final model)
-- Final_Model_Predictions.ipynb (perform a prediction using original data to compare results)
-- helperFile.py (contains the machine learning class needed to run in the Claim EDA Notebook
+- Model_Tuning_Evaluation.ipynb (perform tuning and evaluation on the models)
+- machine_learning.py (contains the machine learning class needed to run in the Claim EDA Notebook)
+- config.py (contains the information to write and get the best model parameters
+- eda_functions.py (contains the information needed to run function in the EDA notebook)
+- feature_importance.py (contains the code to be able to return the feature importance information for the model_tuning_evaluation notebook
+
+Config
+- feature_info.json (contain numerica features, categorical feature and dropped columns used in the pipeline steps)
+- model json files (contains tuning information, and best result for each model)
 
 Data
 - original (original claims data, original procedure data (sub set of claims data)
@@ -89,4 +98,4 @@ Visualizations
 
 Project_Documentation
 - DS Challenge Document (DS_Challenge_Questions.docx)
-- Assignment Response (Claim Assignment.pptx)
+- Assignment Response (Claim Assignment.pdf
