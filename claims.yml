@@ -178,7 +178,7 @@ dependencies:
     - traitlets==4.3.3
     - tzlocal==2.1
     - urllib3==1.25.9
-    - uvicorn==0.11.5
+    - uvicorn==0.11.7
     - uvloop==0.14.0
     - validators==0.15.0
     - visions==0.4.4
