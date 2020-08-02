@@ -4,6 +4,10 @@ This is the project code used for fake healthcare claims data.  The problem stat
 # Data Used for Analysis
 1. Healthcare Claims Data
 
+# Summary Report 
+
+Please review the following [pdf](https://github.com/narquette/claimassignment/blob/master/project_documentation/Claims%20Assignment.pdf) to see reponses to project question and overall modeling results.
+
 # Pre-requisites
 
 Option 1 - WSL (Windows Sub-Linux)
