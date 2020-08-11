@@ -27,13 +27,13 @@ Option 2 - Docker Desktop
 2. Run the following command
 
 ```sh
-git clone https://github.com/narquette/claimsassignment
+git clone https://github.com/narquette/claimassignment
 ```
 
 3. Change install script to executable and run install file (you may be prompted to enter the sudo password for installing java)
 
 ```sh
-cd ~/claimsassignment
+cd ~/claimassignment
 chmod +x prereq_install.sh
 ./prereq_install.sh
 conda activate claims
