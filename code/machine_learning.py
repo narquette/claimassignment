@@ -59,11 +59,21 @@ random_tune = GetDict('random_tune.json')
 xgb_tune = GetDict('xgb_tune.json')
 lgb_tune = GetDict('lgb_tune.json')
 
-# #store feature information:
+# store feature information:
 numeric_features = GetDict('feature_info.json')['numeric_features']
 categorical_features = GetDict('feature_info.json')['categorical_features']
 all_columns = numeric_features + categorical_features
 dropped_columns = GetDict('feature_info.json')['dropped_columns']
+
+# set date for log file
+now = datetime.datetime.now()
+
+# set logging information
+logging.basicConfig(
+    filename=f"../logs/machine_learning_{now.year}_{now.month}_{now.day}.log",
+    level=logging.INFO,
+    format="%(asctime)s:%(levelname)s:%(message)s"
+    )
 
 class MachineLearning():
     
@@ -119,10 +129,6 @@ class MachineLearning():
             self.X = self.train_data.drop(self.label, axis=1)
             self.y = self.train_data[[self.label]]
             
-            #if imbalance: TODO remove
-            #    under = RandomUnderSampler(random_state=42)
-            #    self.X, self.y = under.fit_resample(self.X, self.y)
-
             # Split Train and Test for TRAIN
             self.X_train, self.X_test, self.y_train, self.y_test = train_test_split(self.X,
                                                         self.y,
@@ -134,16 +140,10 @@ class MachineLearning():
         if test_data:
             self.test = test_data
             self.test_data = pd.read_csv(self.test, low_memory=False)
-       
-        # Set log file name and start time
+            
+        # get start time
         self.start = time.time()
-        now = datetime.datetime.now()
-        self.file_name = f"{log_file}_{now.year}_{now.month}_{now.day}.log"
-        
-        # Start Logging
-        self.logging = logging.basicConfig(format='%(asctime)s %(message)s', filename=self.file_name, level=logging.DEBUG)
-        
-        
+       
     def PreProcessing(self):
         
         """Establishes preprocessing and a pipeline for modeling
@@ -172,35 +172,35 @@ class MachineLearning():
         
         return self.preprocessing
        
-        
     
-    def CrossValidation(self):
+    def CrossValidation(self, params=None):
         
         """Performs cross validations for modeling and return mean squared error
 
         Parameters
         ----------
-        None
+        params : dict, default of None
+            This will pass the params in for logging purposes
         
         Return
         ----------
-        mse (Mean Squared Error )
+        mse (Mean Squared Error ), Accuracy, Precision, Recall, F1
 
         """
         
         # Fit model
         self.pipe.fit(self.X_train, self.y_train.values.ravel())
-        #rus.fit_resample(X, y)        
-            
+                    
         # start logging
-        start = time.time()
-        logging.info(f"{self.model_name} Start")
+        logging.info(f"{self.model_name} Cross Validation Start")
+        
+        # log parameters
+        logging.info(f"Parameters for model are {params}")
         
         # model
         def mse(y_true, y_pred): return mean_squared_error(y_true, y_pred)
           
         # evaluate model
-        # cross_score = cross_val_score(self.pipe, self.X, self.y, scoring='neg_mean_absolute_error', cv=None, n_jobs=-1)
         scoring = { 'mse': make_scorer(mse),
                     'accuracy' : make_scorer(accuracy_score),
                     'precision' : make_scorer(precision_score),
@@ -210,11 +210,12 @@ class MachineLearning():
         mse = cross_validate(self.pipe, self.X, self.y.values.ravel(), cv=5, scoring=scoring)
                
         # set log for finishing
-        logging.info(f"Score for {self.model_name} is {mse}")
+        logging.info(f"Mean squared error for {self.model_name} is {mse}")
+        logging.info(f"Accuracy for {self.model_name} is {mse['test_accuracy']}")
+        logging.info(f"Precision for {self.model_name} is {mse['test_precision']}")
+        logging.info(f"Recall for {self.model_name} is {mse['test_recall']}")        
+        logging.info(f"F1 for {self.model_name} is {mse['test_f1']}")        
         logging.info(f"Run Time for {self.model_name} is {(time.time() - self.start) // 60} minutes")
-        
-        # close logging file
-        logging.FileHandler(self.file_name).close()
         
         return (mse['test_mse'], mse['test_accuracy'], mse['test_precision'], mse['test_recall'], mse['test_f1'])
         
@@ -259,24 +260,28 @@ class MachineLearning():
         logging.info(f"Prediction Time for {model_name} is {time.time() - self.start} seconds")
                                  
     
-    def Scoring(self, save_model=False):
+    def Scoring(self, save_model=False, params=None):
         
-        """Establishes a scoring (mean squared error) for modeling
+        """Establishes a scoring (mean squared error, accuracy, precision, recall, and F1) for modeling
 
         Parameters
         ----------
         save_model : boolean, optional
             If true, the model will be save and prediction function will be called
+        params : dict, default of None
+            This will pass the params in for logging purposes
 
         Return
         ----------
-        mse (Mean Squared Error )
+        mse (Mean Squared Error ), Report (Accuracy, Precision, Recall, F1)
         
         """
         
         # start logging
-        start = time.time()
         logging.info(f"{self.model_name} Start")
+        
+        # log parameters
+        logging.info(f"Parameters for model are {params}")
                                  
         # set mse to None
         # need to allow for saving model and predicting
@@ -287,26 +292,22 @@ class MachineLearning():
         
         # save model if save_mode is True:        
         if save_model:
-            mse = None
-            score = None
-            report = None
             pickle.dump(self.pipe, open(os.path.join('../models',f"{self.model_name}.sav"), 'wb'))    
     
-        else :
-                                 
-            # Mean Square Error Info
-            predictions = self.pipe.predict(self.X_test)
-            actual = self.y_test
-            mse = mean_squared_error(actual, predictions)
-            report = classification_report(actual, predictions, output_dict=True)
-            score = self.pipe.score(self.X_test, self.y_test.values.ravel())
+        # Mean Square Error Info
+        predictions = self.pipe.predict(self.X_test)
+        actual = self.y_test
+        mse = mean_squared_error(actual, predictions)
+        report = classification_report(actual, predictions, output_dict=True)
+        score = self.pipe.score(self.X_test, self.y_test.values.ravel())
 
         # set log for finishing
-        logging.info(f"Score for {self.model_name} is {mse}")
-        logging.info(f"Run Time for Linear Regression is {(time.time() - self.start) // 60} minutes")
-        
-        # close logging file
-        logging.FileHandler(self.file_name).close()
+        logging.info(f"Mean squared error for {self.model_name} is {mse}")
+        logging.info(f"Accuracy for {self.model_name} is {report['accuracy']}")
+        logging.info(f"Precision for {self.model_name} is {report['1']['precision']}")
+        logging.info(f"Recall for {self.model_name} is {report['1']['recall']}")        
+        logging.info(f"F1 for {self.model_name} is {report['1']['f1-score']}") 
+        logging.info(f"Run Time for {self.model_name} is {(time.time() - self.start) // 60} minutes")
         
         return (mse, score, report)
        
@@ -324,7 +325,7 @@ class MachineLearning():
             
         Return
         ----------
-        mse (Mean Squared Error )
+        mse (Mean Squared Error ), Report (Accuracy, Precision, Recall, F1)
         
         """
 
@@ -345,7 +346,7 @@ class MachineLearning():
         # perform a prediction
         elif prediction:
             
-            mse = self.Scoring(save_model=save_model)
+            mse = self.Prediction(save_model=save_model)
         
         # normal scoring for tuning
         else:
@@ -368,7 +369,7 @@ class MachineLearning():
             
         Return
         ----------
-        mse (Mean Squared Error )
+        mse (Mean Squared Error ), Report (Accuracy, Precision, Recall, F1)
         
         """
 
@@ -389,7 +390,7 @@ class MachineLearning():
         # perform a prediction
         elif prediction:
             
-            mse = self.Scoring(save_model=save_model)
+            mse = self.Prediction(save_model=save_model)
         
         # normal scoring for tuning
         else:
@@ -414,7 +415,7 @@ class MachineLearning():
 
         Return
         ----------
-        mse (Mean Squared Error )
+        mse (Mean Squared Error ), Report (Accuracy, Precision, Recall, F1)
         
         """
         
@@ -446,17 +447,17 @@ class MachineLearning():
         # performs cross validation
         if cross_validation:
             
-            mse = self.CrossValidation()
+            mse = self.CrossValidation(params=parameter_dict)
 
         # perform a prediction
         elif prediction:
             
-            mse = self.Scoring(save_model=save_model)
+            mse = self.Prediction(save_model=save_model)
         
         # normal scoring for tuning
         else:
             
-            mse = self.Scoring(save_model=save_model)
+            mse = self.Scoring(save_model=save_model,params=parameter_dict)
             
         # return best score
         return mse
@@ -477,7 +478,7 @@ class MachineLearning():
 
         Return
         ----------
-        mse (Mean Squared Error )
+        mse (Mean Squared Error ), Report (Accuracy, Precision, Recall, F1)
         
         """
         
@@ -531,17 +532,17 @@ class MachineLearning():
         # performs cross validation
         if cross_validation:
             
-            mse = self.CrossValidation()
+            mse = self.CrossValidation(params=parameter_dict)
 
         # perform a prediction
         elif prediction:
             
-            mse = self.Scoring(save_model=save_model)
+            mse = self.Prediction(save_model=save_model)
         
         # normal scoring for tuning
         else:
             
-            mse = self.Scoring(save_model=save_model)
+            mse = self.Scoring(save_model=save_model,params=parameter_dict)
             
         # return best score
         return mse
@@ -561,7 +562,7 @@ class MachineLearning():
 
         Return
         ----------
-        mse (Mean Squared Error )
+        mse (Mean Squared Error ), Report (Accuracy, Precision, Recall, F1)
         
         """
         
@@ -599,17 +600,17 @@ class MachineLearning():
         # performs cross validation
         if cross_validation:
             
-            mse = self.CrossValidation()
+            mse = self.CrossValidation(params=parameter_dict)
 
         # perform a prediction
         elif prediction:
             
-            mse = self.Scoring(save_model=save_model)
+            mse = self.Prediction(save_model=save_model)
         
         # normal scoring for tuning
         else:
             
-            mse = self.Scoring(save_model=save_model)
+            mse = self.Scoring(save_model=save_model,params=parameter_dict)
             
         # return best score
         return mse

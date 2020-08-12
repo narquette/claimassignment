@@ -1,6 +1,6 @@
-{"numeric_features": ["Claim.Charge.Amount", "Line.Of.Business.ID"],  
+{"numeric_features": ["Claim.Charge.Amount"],  
  "categorical_features": ["Agreement.ID", "Claim.Type", "Diagnosis.Code",
-                          "Group.Index", "Network.ID", "Price.Index", "Pricing.Index", 
+                          "Group.Index", "Line.Of.Business.ID", "Network.ID", "Price.Index", "Pricing.Index", 
                           "Procedure.Code", "Provider.ID", "Reference.Index", 
                           "Service.Code"], 
  "dropped_columns": ["Capitation.Index", "Claim.Current.Status", "Claim.Number", 
