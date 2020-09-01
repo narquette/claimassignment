@@ -1,0 +1,904 @@
+2020-09-01 18:42:35,425:INFO:Logistic Regression Start
+2020-09-01 18:42:35,425:INFO:Parameters for model are None
+2020-09-01 18:42:35,755:INFO:Mean squared error for Logistic Regression is 0.08644198610753795
+2020-09-01 18:42:35,755:INFO:Accuracy for Logistic Regression is 0.913558013892462
+2020-09-01 18:42:35,756:INFO:Precision for Logistic Regression is 0.9388312397596942
+2020-09-01 18:42:35,756:INFO:Recall for Logistic Regression is 0.8847143592382913
+2020-09-01 18:42:35,758:INFO:F1 for Logistic Regression is 0.9109697933227344
+2020-09-01 18:42:35,758:INFO:Run Time for Logistic Regression is 0.0 minutes
+2020-09-01 18:42:35,929:INFO:RandomForest Start
+2020-09-01 18:42:35,929:INFO:Parameters for model are {'max_depth': 1}
+2020-09-01 18:42:36,841:INFO:Mean squared error for RandomForest is 0.24980704913815283
+2020-09-01 18:42:36,841:INFO:Accuracy for RandomForest is 0.7501929508618472
+2020-09-01 18:42:36,841:INFO:Precision for RandomForest is 0.8900481540930979
+2020-09-01 18:42:36,841:INFO:Recall for RandomForest is 0.570766855378281
+2020-09-01 18:42:36,841:INFO:F1 for RandomForest is 0.6955158356851676
+2020-09-01 18:42:36,842:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:36,842:INFO:RandomForest Start
+2020-09-01 18:42:36,842:INFO:Parameters for model are {'max_depth': 2}
+2020-09-01 18:42:37,557:INFO:Mean squared error for RandomForest is 0.20066889632107024
+2020-09-01 18:42:37,558:INFO:Accuracy for RandomForest is 0.7993311036789298
+2020-09-01 18:42:37,558:INFO:Precision for RandomForest is 0.8778427550357375
+2020-09-01 18:42:37,558:INFO:Recall for RandomForest is 0.6953165208440556
+2020-09-01 18:42:37,558:INFO:F1 for RandomForest is 0.7759908098793795
+2020-09-01 18:42:37,558:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:37,558:INFO:RandomForest Start
+2020-09-01 18:42:37,558:INFO:Parameters for model are {'max_depth': 3}
+2020-09-01 18:42:38,380:INFO:Mean squared error for RandomForest is 0.19449446874196039
+2020-09-01 18:42:38,381:INFO:Accuracy for RandomForest is 0.8055055312580396
+2020-09-01 18:42:38,381:INFO:Precision for RandomForest is 0.8806927517639512
+2020-09-01 18:42:38,381:INFO:Recall for RandomForest is 0.7066392177045805
+2020-09-01 18:42:38,381:INFO:F1 for RandomForest is 0.7841233580810965
+2020-09-01 18:42:38,381:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:38,381:INFO:RandomForest Start
+2020-09-01 18:42:38,381:INFO:Parameters for model are {'max_depth': 4}
+2020-09-01 18:42:39,215:INFO:Mean squared error for RandomForest is 0.18780550553125805
+2020-09-01 18:42:39,216:INFO:Accuracy for RandomForest is 0.8121944944687419
+2020-09-01 18:42:39,216:INFO:Precision for RandomForest is 0.8925566343042072
+2020-09-01 18:42:39,216:INFO:Recall for RandomForest is 0.7097272259392692
+2020-09-01 18:42:39,216:INFO:F1 for RandomForest is 0.7907110091743119
+2020-09-01 18:42:39,216:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:39,216:INFO:RandomForest Start
+2020-09-01 18:42:39,216:INFO:Parameters for model are {'max_depth': 5}
+2020-09-01 18:42:40,033:INFO:Mean squared error for RandomForest is 0.18034473887316696
+2020-09-01 18:42:40,033:INFO:Accuracy for RandomForest is 0.8196552611268331
+2020-09-01 18:42:40,033:INFO:Precision for RandomForest is 0.8960459183673469
+2020-09-01 18:42:40,033:INFO:Recall for RandomForest is 0.7231085949562532
+2020-09-01 18:42:40,033:INFO:F1 for RandomForest is 0.8003417829678156
+2020-09-01 18:42:40,033:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:40,034:INFO:RandomForest Start
+2020-09-01 18:42:40,034:INFO:Parameters for model are {'max_depth': 10}
+2020-09-01 18:42:40,843:INFO:Mean squared error for RandomForest is 0.12245948031901209
+2020-09-01 18:42:40,843:INFO:Accuracy for RandomForest is 0.8775405196809879
+2020-09-01 18:42:40,843:INFO:Precision for RandomForest is 0.9281961471103327
+2020-09-01 18:42:40,843:INFO:Recall for RandomForest is 0.8183221821924859
+2020-09-01 18:42:40,843:INFO:F1 for RandomForest is 0.8698030634573304
+2020-09-01 18:42:40,843:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:40,844:INFO:RandomForest Start
+2020-09-01 18:42:40,844:INFO:Parameters for model are {'max_depth': 20}
+2020-09-01 18:42:41,672:INFO:Mean squared error for RandomForest is 0.08798559300231541
+2020-09-01 18:42:41,672:INFO:Accuracy for RandomForest is 0.9120144069976845
+2020-09-01 18:42:41,672:INFO:Precision for RandomForest is 0.9269333333333334
+2020-09-01 18:42:41,672:INFO:Recall for RandomForest is 0.894493051981472
+2020-09-01 18:42:41,672:INFO:F1 for RandomForest is 0.9104243059193295
+2020-09-01 18:42:41,672:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:41,673:INFO:RandomForest Start
+2020-09-01 18:42:41,673:INFO:Parameters for model are {'max_depth': 50}
+2020-09-01 18:42:42,659:INFO:Mean squared error for RandomForest is 0.07615127347568819
+2020-09-01 18:42:42,660:INFO:Accuracy for RandomForest is 0.9238487265243118
+2020-09-01 18:42:42,660:INFO:Precision for RandomForest is 0.933649289099526
+2020-09-01 18:42:42,661:INFO:Recall for RandomForest is 0.912506433350489
+2020-09-01 18:42:42,661:INFO:F1 for RandomForest is 0.9229567933368038
+2020-09-01 18:42:42,661:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:42,663:INFO:RandomForest Start
+2020-09-01 18:42:42,663:INFO:Parameters for model are {'max_depth': 100}
+2020-09-01 18:42:43,642:INFO:Mean squared error for RandomForest is 0.07743761255466941
+2020-09-01 18:42:43,642:INFO:Accuracy for RandomForest is 0.9225623874453306
+2020-09-01 18:42:43,642:INFO:Precision for RandomForest is 0.9343915343915344
+2020-09-01 18:42:43,643:INFO:Recall for RandomForest is 0.9089037570766856
+2020-09-01 18:42:43,643:INFO:F1 for RandomForest is 0.9214714322984607
+2020-09-01 18:42:43,643:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:43,643:INFO:RandomForest Start
+2020-09-01 18:42:43,643:INFO:Parameters for model are {'n_estimators': 1}
+2020-09-01 18:42:43,852:INFO:Mean squared error for RandomForest is 0.14149729868793415
+2020-09-01 18:42:43,852:INFO:Accuracy for RandomForest is 0.8585027013120659
+2020-09-01 18:42:43,852:INFO:Precision for RandomForest is 0.8614426569797613
+2020-09-01 18:42:43,852:INFO:Recall for RandomForest is 0.8543489449305198
+2020-09-01 18:42:43,852:INFO:F1 for RandomForest is 0.8578811369509045
+2020-09-01 18:42:43,852:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:43,853:INFO:RandomForest Start
+2020-09-01 18:42:43,853:INFO:Parameters for model are {'n_estimators': 2}
+2020-09-01 18:42:44,264:INFO:Mean squared error for RandomForest is 0.15667609981991254
+2020-09-01 18:42:44,264:INFO:Accuracy for RandomForest is 0.8433239001800875
+2020-09-01 18:42:44,264:INFO:Precision for RandomForest is 0.9243002544529262
+2020-09-01 18:42:44,264:INFO:Recall for RandomForest is 0.7478126608337622
+2020-09-01 18:42:44,264:INFO:F1 for RandomForest is 0.8267425320056898
+2020-09-01 18:42:44,265:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:44,265:INFO:RandomForest Start
+2020-09-01 18:42:44,265:INFO:Parameters for model are {'n_estimators': 3}
+2020-09-01 18:42:44,691:INFO:Mean squared error for RandomForest is 0.10805248263442244
+2020-09-01 18:42:44,692:INFO:Accuracy for RandomForest is 0.8919475173655775
+2020-09-01 18:42:44,692:INFO:Precision for RandomForest is 0.8935400516795866
+2020-09-01 18:42:44,692:INFO:Recall for RandomForest is 0.889861039629439
+2020-09-01 18:42:44,692:INFO:F1 for RandomForest is 0.891696750902527
+2020-09-01 18:42:44,692:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:44,692:INFO:RandomForest Start
+2020-09-01 18:42:44,692:INFO:Parameters for model are {'n_estimators': 4}
+2020-09-01 18:42:45,119:INFO:Mean squared error for RandomForest is 0.1090815538976074
+2020-09-01 18:42:45,119:INFO:Accuracy for RandomForest is 0.8909184461023926
+2020-09-01 18:42:45,119:INFO:Precision for RandomForest is 0.9402898550724638
+2020-09-01 18:42:45,120:INFO:Recall for RandomForest is 0.8347915594441585
+2020-09-01 18:42:45,120:INFO:F1 for RandomForest is 0.8844056706652127
+2020-09-01 18:42:45,120:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:45,120:INFO:RandomForest Start
+2020-09-01 18:42:45,120:INFO:Parameters for model are {'n_estimators': 5}
+2020-09-01 18:42:45,531:INFO:Mean squared error for RandomForest is 0.08901466426550039
+2020-09-01 18:42:45,531:INFO:Accuracy for RandomForest is 0.9109853357344996
+2020-09-01 18:42:45,532:INFO:Precision for RandomForest is 0.9213720316622691
+2020-09-01 18:42:45,532:INFO:Recall for RandomForest is 0.8986103962943901
+2020-09-01 18:42:45,532:INFO:F1 for RandomForest is 0.9098488796248045
+2020-09-01 18:42:45,532:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:45,532:INFO:RandomForest Start
+2020-09-01 18:42:45,532:INFO:Parameters for model are {'n_estimators': 15}
+2020-09-01 18:42:45,964:INFO:Mean squared error for RandomForest is 0.073835863133522
+2020-09-01 18:42:45,965:INFO:Accuracy for RandomForest is 0.926164136866478
+2020-09-01 18:42:45,965:INFO:Precision for RandomForest is 0.9376321353065539
+2020-09-01 18:42:45,965:INFO:Recall for RandomForest is 0.9130211013896037
+2020-09-01 18:42:45,965:INFO:F1 for RandomForest is 0.9251629726205997
+2020-09-01 18:42:45,965:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:45,965:INFO:RandomForest Start
+2020-09-01 18:42:45,965:INFO:Parameters for model are {'n_estimators': 20}
+2020-09-01 18:42:46,424:INFO:Mean squared error for RandomForest is 0.07177772060715204
+2020-09-01 18:42:46,424:INFO:Accuracy for RandomForest is 0.928222279392848
+2020-09-01 18:42:46,424:INFO:Precision for RandomForest is 0.9439701173959445
+2020-09-01 18:42:46,425:INFO:Recall for RandomForest is 0.9104477611940298
+2020-09-01 18:42:46,425:INFO:F1 for RandomForest is 0.9269059470788578
+2020-09-01 18:42:46,425:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:46,425:INFO:RandomForest Start
+2020-09-01 18:42:46,425:INFO:Parameters for model are {'n_estimators': 25}
+2020-09-01 18:42:46,907:INFO:Mean squared error for RandomForest is 0.07435039876511448
+2020-09-01 18:42:46,907:INFO:Accuracy for RandomForest is 0.9256496012348855
+2020-09-01 18:42:46,907:INFO:Precision for RandomForest is 0.9357218124341412
+2020-09-01 18:42:46,908:INFO:Recall for RandomForest is 0.9140504374678332
+2020-09-01 18:42:46,908:INFO:F1 for RandomForest is 0.9247591772975787
+2020-09-01 18:42:46,908:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:46,908:INFO:RandomForest Start
+2020-09-01 18:42:46,908:INFO:Parameters for model are {'n_estimators': 40}
+2020-09-01 18:42:47,555:INFO:Mean squared error for RandomForest is 0.07666580910728069
+2020-09-01 18:42:47,555:INFO:Accuracy for RandomForest is 0.9233341908927193
+2020-09-01 18:42:47,555:INFO:Precision for RandomForest is 0.9363395225464191
+2020-09-01 18:42:47,555:INFO:Recall for RandomForest is 0.9083890890375708
+2020-09-01 18:42:47,556:INFO:F1 for RandomForest is 0.9221525600835945
+2020-09-01 18:42:47,556:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:47,556:INFO:RandomForest Start
+2020-09-01 18:42:47,556:INFO:Parameters for model are {'n_estimators': 50}
+2020-09-01 18:42:48,204:INFO:Mean squared error for RandomForest is 0.07537947002829946
+2020-09-01 18:42:48,204:INFO:Accuracy for RandomForest is 0.9246205299717005
+2020-09-01 18:42:48,205:INFO:Precision for RandomForest is 0.9383634431455898
+2020-09-01 18:42:48,205:INFO:Recall for RandomForest is 0.9089037570766856
+2020-09-01 18:42:48,205:INFO:F1 for RandomForest is 0.9233986928104576
+2020-09-01 18:42:48,205:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:48,205:INFO:RandomForest Start
+2020-09-01 18:42:48,205:INFO:Parameters for model are {'n_estimators': 70}
+2020-09-01 18:42:48,982:INFO:Mean squared error for RandomForest is 0.07512220221250322
+2020-09-01 18:42:48,982:INFO:Accuracy for RandomForest is 0.9248777977874968
+2020-09-01 18:42:48,982:INFO:Precision for RandomForest is 0.93608029582673
+2020-09-01 18:42:48,982:INFO:Recall for RandomForest is 0.9119917653113742
+2020-09-01 18:42:48,983:INFO:F1 for RandomForest is 0.9238790406673618
+2020-09-01 18:42:48,983:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:48,983:INFO:RandomForest Start
+2020-09-01 18:42:48,983:INFO:Parameters for model are {'n_estimators': 100}
+2020-09-01 18:42:49,927:INFO:Mean squared error for RandomForest is 0.07692307692307693
+2020-09-01 18:42:49,928:INFO:Accuracy for RandomForest is 0.9230769230769231
+2020-09-01 18:42:49,928:INFO:Precision for RandomForest is 0.9349206349206349
+2020-09-01 18:42:49,928:INFO:Recall for RandomForest is 0.9094184251158003
+2020-09-01 18:42:49,928:INFO:F1 for RandomForest is 0.921993216801461
+2020-09-01 18:42:49,928:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:49,928:INFO:RandomForest Start
+2020-09-01 18:42:49,928:INFO:Parameters for model are {'max_features': 'auto'}
+2020-09-01 18:42:50,867:INFO:Mean squared error for RandomForest is 0.07692307692307693
+2020-09-01 18:42:50,867:INFO:Accuracy for RandomForest is 0.9230769230769231
+2020-09-01 18:42:50,867:INFO:Precision for RandomForest is 0.9349206349206349
+2020-09-01 18:42:50,867:INFO:Recall for RandomForest is 0.9094184251158003
+2020-09-01 18:42:50,867:INFO:F1 for RandomForest is 0.921993216801461
+2020-09-01 18:42:50,867:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:50,868:INFO:RandomForest Start
+2020-09-01 18:42:50,868:INFO:Parameters for model are {'max_features': None}
+2020-09-01 18:42:52,346:INFO:Mean squared error for RandomForest is 0.07615127347568819
+2020-09-01 18:42:52,346:INFO:Accuracy for RandomForest is 0.9238487265243118
+2020-09-01 18:42:52,346:INFO:Precision for RandomForest is 0.9517279210093252
+2020-09-01 18:42:52,346:INFO:Recall for RandomForest is 0.8929490478641277
+2020-09-01 18:42:52,346:INFO:F1 for RandomForest is 0.9214020180562933
+2020-09-01 18:42:52,346:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:52,347:INFO:RandomForest Start
+2020-09-01 18:42:52,347:INFO:Parameters for model are {'max_features': 'sqrt'}
+2020-09-01 18:42:53,330:INFO:Mean squared error for RandomForest is 0.07692307692307693
+2020-09-01 18:42:53,330:INFO:Accuracy for RandomForest is 0.9230769230769231
+2020-09-01 18:42:53,330:INFO:Precision for RandomForest is 0.9349206349206349
+2020-09-01 18:42:53,330:INFO:Recall for RandomForest is 0.9094184251158003
+2020-09-01 18:42:53,330:INFO:F1 for RandomForest is 0.921993216801461
+2020-09-01 18:42:53,330:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:53,331:INFO:RandomForest Start
+2020-09-01 18:42:53,331:INFO:Parameters for model are {'max_features': 'log2'}
+2020-09-01 18:42:54,302:INFO:Mean squared error for RandomForest is 0.07666580910728069
+2020-09-01 18:42:54,302:INFO:Accuracy for RandomForest is 0.9233341908927193
+2020-09-01 18:42:54,302:INFO:Precision for RandomForest is 0.931758530183727
+2020-09-01 18:42:54,302:INFO:Recall for RandomForest is 0.9135357694287185
+2020-09-01 18:42:54,302:INFO:F1 for RandomForest is 0.9225571725571726
+2020-09-01 18:42:54,302:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:54,303:INFO:RandomForest Start
+2020-09-01 18:42:54,303:INFO:Parameters for model are {'max_features': 0.7}
+2020-09-01 18:42:55,584:INFO:Mean squared error for RandomForest is 0.07640854129148443
+2020-09-01 18:42:55,584:INFO:Accuracy for RandomForest is 0.9235914587085156
+2020-09-01 18:42:55,584:INFO:Precision for RandomForest is 0.9482570806100218
+2020-09-01 18:42:55,584:INFO:Recall for RandomForest is 0.8960370560988162
+2020-09-01 18:42:55,584:INFO:F1 for RandomForest is 0.9214077798359354
+2020-09-01 18:42:55,584:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:55,584:INFO:RandomForest Start
+2020-09-01 18:42:55,585:INFO:Parameters for model are {'max_features': 0.2}
+2020-09-01 18:42:56,517:INFO:Mean squared error for RandomForest is 0.07126318497555956
+2020-09-01 18:42:56,517:INFO:Accuracy for RandomForest is 0.9287368150244404
+2020-09-01 18:42:56,517:INFO:Precision for RandomForest is 0.9492988133764833
+2020-09-01 18:42:56,517:INFO:Recall for RandomForest is 0.9058157488419969
+2020-09-01 18:42:56,517:INFO:F1 for RandomForest is 0.9270476692125362
+2020-09-01 18:42:56,517:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:56,517:INFO:RandomForest Start
+2020-09-01 18:42:56,517:INFO:Parameters for model are {'min_samples_leaf': 1}
+2020-09-01 18:42:57,491:INFO:Mean squared error for RandomForest is 0.07692307692307693
+2020-09-01 18:42:57,491:INFO:Accuracy for RandomForest is 0.9230769230769231
+2020-09-01 18:42:57,491:INFO:Precision for RandomForest is 0.9349206349206349
+2020-09-01 18:42:57,491:INFO:Recall for RandomForest is 0.9094184251158003
+2020-09-01 18:42:57,491:INFO:F1 for RandomForest is 0.921993216801461
+2020-09-01 18:42:57,491:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:57,492:INFO:RandomForest Start
+2020-09-01 18:42:57,492:INFO:Parameters for model are {'min_samples_leaf': 2}
+2020-09-01 18:42:58,301:INFO:Mean squared error for RandomForest is 0.10419346539747877
+2020-09-01 18:42:58,301:INFO:Accuracy for RandomForest is 0.8958065346025212
+2020-09-01 18:42:58,301:INFO:Precision for RandomForest is 0.9216008771929824
+2020-09-01 18:42:58,301:INFO:Recall for RandomForest is 0.86515697375193
+2020-09-01 18:42:58,301:INFO:F1 for RandomForest is 0.8924873904964162
+2020-09-01 18:42:58,301:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:58,301:INFO:RandomForest Start
+2020-09-01 18:42:58,302:INFO:Parameters for model are {'min_samples_leaf': 3}
+2020-09-01 18:42:58,991:INFO:Mean squared error for RandomForest is 0.12245948031901209
+2020-09-01 18:42:58,991:INFO:Accuracy for RandomForest is 0.8775405196809879
+2020-09-01 18:42:58,991:INFO:Precision for RandomForest is 0.9077265147304058
+2020-09-01 18:42:58,991:INFO:Recall for RandomForest is 0.840452907874421
+2020-09-01 18:42:58,991:INFO:F1 for RandomForest is 0.8727952966328166
+2020-09-01 18:42:58,991:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:58,991:INFO:RandomForest Start
+2020-09-01 18:42:58,991:INFO:Parameters for model are {'min_samples_leaf': 4}
+2020-09-01 18:42:59,762:INFO:Mean squared error for RandomForest is 0.1553897607409313
+2020-09-01 18:42:59,762:INFO:Accuracy for RandomForest is 0.8446102392590686
+2020-09-01 18:42:59,762:INFO:Precision for RandomForest is 0.8949852507374632
+2020-09-01 18:42:59,762:INFO:Recall for RandomForest is 0.7807514153371076
+2020-09-01 18:42:59,762:INFO:F1 for RandomForest is 0.8339747113798791
+2020-09-01 18:42:59,762:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:42:59,762:INFO:RandomForest Start
+2020-09-01 18:42:59,762:INFO:Parameters for model are {'min_samples_leaf': 5}
+2020-09-01 18:43:00,438:INFO:Mean squared error for RandomForest is 0.1654232055569848
+2020-09-01 18:43:00,438:INFO:Accuracy for RandomForest is 0.8345767944430151
+2020-09-01 18:43:00,438:INFO:Precision for RandomForest is 0.8878281622911695
+2020-09-01 18:43:00,438:INFO:Recall for RandomForest is 0.7658260422027792
+2020-09-01 18:43:00,438:INFO:F1 for RandomForest is 0.8223266095606522
+2020-09-01 18:43:00,438:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:43:00,439:INFO:RandomForest Start
+2020-09-01 18:43:00,439:INFO:Parameters for model are {'min_samples_leaf': 6}
+2020-09-01 18:43:01,129:INFO:Mean squared error for RandomForest is 0.16799588371494725
+2020-09-01 18:43:01,129:INFO:Accuracy for RandomForest is 0.8320041162850528
+2020-09-01 18:43:01,129:INFO:Precision for RandomForest is 0.8928136419001218
+2020-09-01 18:43:01,129:INFO:Recall for RandomForest is 0.7545033453422543
+2020-09-01 18:43:01,129:INFO:F1 for RandomForest is 0.8178521617852161
+2020-09-01 18:43:01,129:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:43:01,129:INFO:RandomForest Start
+2020-09-01 18:43:01,130:INFO:Parameters for model are {'min_samples_leaf': 7}
+2020-09-01 18:43:01,802:INFO:Mean squared error for RandomForest is 0.1577051710830975
+2020-09-01 18:43:01,802:INFO:Accuracy for RandomForest is 0.8422948289169025
+2020-09-01 18:43:01,802:INFO:Precision for RandomForest is 0.8948931116389549
+2020-09-01 18:43:01,802:INFO:Recall for RandomForest is 0.7756047349459598
+2020-09-01 18:43:01,802:INFO:F1 for RandomForest is 0.8309897987317343
+2020-09-01 18:43:01,802:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:43:01,802:INFO:RandomForest Start
+2020-09-01 18:43:01,802:INFO:Parameters for model are {'min_samples_leaf': 8}
+2020-09-01 18:43:02,476:INFO:Mean squared error for RandomForest is 0.17339850784666838
+2020-09-01 18:43:02,476:INFO:Accuracy for RandomForest is 0.8266014921533316
+2020-09-01 18:43:02,476:INFO:Precision for RandomForest is 0.8943443132380361
+2020-09-01 18:43:02,476:INFO:Recall for RandomForest is 0.7406073082861554
+2020-09-01 18:43:02,476:INFO:F1 for RandomForest is 0.8102477477477477
+2020-09-01 18:43:02,476:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:43:02,476:INFO:RandomForest Start
+2020-09-01 18:43:02,476:INFO:Parameters for model are {'min_samples_leaf': 9}
+2020-09-01 18:43:03,151:INFO:Mean squared error for RandomForest is 0.17134036532029842
+2020-09-01 18:43:03,151:INFO:Accuracy for RandomForest is 0.8286596346797016
+2020-09-01 18:43:03,151:INFO:Precision for RandomForest is 0.8953560371517028
+2020-09-01 18:43:03,151:INFO:Recall for RandomForest is 0.7442099845599588
+2020-09-01 18:43:03,151:INFO:F1 for RandomForest is 0.8128161888701517
+2020-09-01 18:43:03,151:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:43:03,151:INFO:RandomForest Start
+2020-09-01 18:43:03,151:INFO:Parameters for model are {'min_samples_leaf': 10}
+2020-09-01 18:43:03,821:INFO:Mean squared error for RandomForest is 0.168767687162336
+2020-09-01 18:43:03,821:INFO:Accuracy for RandomForest is 0.831232312837664
+2020-09-01 18:43:03,821:INFO:Precision for RandomForest is 0.9014348097317529
+2020-09-01 18:43:03,821:INFO:Recall for RandomForest is 0.7436953165208441
+2020-09-01 18:43:03,821:INFO:F1 for RandomForest is 0.8150028200789622
+2020-09-01 18:43:03,821:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:43:03,821:INFO:RandomForest Start
+2020-09-01 18:43:03,821:INFO:Parameters for model are {'min_samples_leaf': 20}
+2020-09-01 18:43:04,486:INFO:Mean squared error for RandomForest is 0.1939799331103679
+2020-09-01 18:43:04,486:INFO:Accuracy for RandomForest is 0.8060200668896321
+2020-09-01 18:43:04,486:INFO:Precision for RandomForest is 0.89137590520079
+2020-09-01 18:43:04,487:INFO:Recall for RandomForest is 0.6968605249613999
+2020-09-01 18:43:04,487:INFO:F1 for RandomForest is 0.782206816868862
+2020-09-01 18:43:04,487:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:43:04,708:INFO:RandomForest Start
+2020-09-01 18:43:04,708:INFO:Parameters for model are {'max_depth': 50, 'n_estimators': 20, 'max_features': 0.2, 'min_samples_leaf': 1}
+2020-09-01 18:43:05,171:INFO:Mean squared error for RandomForest is 0.07435039876511448
+2020-09-01 18:43:05,171:INFO:Accuracy for RandomForest is 0.9256496012348855
+2020-09-01 18:43:05,171:INFO:Precision for RandomForest is 0.9475108225108225
+2020-09-01 18:43:05,171:INFO:Recall for RandomForest is 0.901183736489964
+2020-09-01 18:43:05,171:INFO:F1 for RandomForest is 0.9237668161434978
+2020-09-01 18:43:05,171:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:43:05,294:INFO:XGBoost Start
+2020-09-01 18:43:05,295:INFO:Parameters for model are {'learning_rate': 0.05}
+2020-09-01 18:43:06,213:INFO:Mean squared error for XGBoost is 0.0921018780550553
+2020-09-01 18:43:06,213:INFO:Accuracy for XGBoost is 0.9078981219449447
+2020-09-01 18:43:06,213:INFO:Precision for XGBoost is 0.9410127991096272
+2020-09-01 18:43:06,213:INFO:Recall for XGBoost is 0.8703036541430778
+2020-09-01 18:43:06,213:INFO:F1 for XGBoost is 0.9042780748663102
+2020-09-01 18:43:06,214:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:06,214:INFO:XGBoost Start
+2020-09-01 18:43:06,214:INFO:Parameters for model are {'learning_rate': 0.1}
+2020-09-01 18:43:07,038:INFO:Mean squared error for XGBoost is 0.08155389760740932
+2020-09-01 18:43:07,039:INFO:Accuracy for XGBoost is 0.9184461023925907
+2020-09-01 18:43:07,039:INFO:Precision for XGBoost is 0.9442622950819672
+2020-09-01 18:43:07,039:INFO:Recall for XGBoost is 0.8893463715903243
+2020-09-01 18:43:07,039:INFO:F1 for XGBoost is 0.915981977206467
+2020-09-01 18:43:07,039:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:07,039:INFO:XGBoost Start
+2020-09-01 18:43:07,039:INFO:Parameters for model are {'learning_rate': 0.2}
+2020-09-01 18:43:07,913:INFO:Mean squared error for XGBoost is 0.0733213275019295
+2020-09-01 18:43:07,913:INFO:Accuracy for XGBoost is 0.9266786724980705
+2020-09-01 18:43:07,913:INFO:Precision for XGBoost is 0.9423692636072573
+2020-09-01 18:43:07,914:INFO:Recall for XGBoost is 0.9089037570766856
+2020-09-01 18:43:07,914:INFO:F1 for XGBoost is 0.925334031962274
+2020-09-01 18:43:07,914:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:07,914:INFO:XGBoost Start
+2020-09-01 18:43:07,914:INFO:Parameters for model are {'learning_rate': 0.4}
+2020-09-01 18:43:08,832:INFO:Mean squared error for XGBoost is 0.06766143555441215
+2020-09-01 18:43:08,832:INFO:Accuracy for XGBoost is 0.9323385644455878
+2020-09-01 18:43:08,832:INFO:Precision for XGBoost is 0.949678800856531
+2020-09-01 18:43:08,832:INFO:Recall for XGBoost is 0.9130211013896037
+2020-09-01 18:43:08,833:INFO:F1 for XGBoost is 0.9309892416688532
+2020-09-01 18:43:08,833:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:08,833:INFO:XGBoost Start
+2020-09-01 18:43:08,833:INFO:Parameters for model are {'learning_rate': 0.6}
+2020-09-01 18:43:09,641:INFO:Mean squared error for XGBoost is 0.0674041677386159
+2020-09-01 18:43:09,641:INFO:Accuracy for XGBoost is 0.9325958322613841
+2020-09-01 18:43:09,641:INFO:Precision for XGBoost is 0.9435356200527705
+2020-09-01 18:43:09,642:INFO:Recall for XGBoost is 0.9202264539372105
+2020-09-01 18:43:09,642:INFO:F1 for XGBoost is 0.931735278791037
+2020-09-01 18:43:09,642:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:09,642:INFO:XGBoost Start
+2020-09-01 18:43:09,642:INFO:Parameters for model are {'learning_rate': 0.8}
+2020-09-01 18:43:10,490:INFO:Mean squared error for XGBoost is 0.07074864934396707
+2020-09-01 18:43:10,490:INFO:Accuracy for XGBoost is 0.9292513506560329
+2020-09-01 18:43:10,490:INFO:Precision for XGBoost is 0.9408033826638478
+2020-09-01 18:43:10,490:INFO:Recall for XGBoost is 0.9161091096242924
+2020-09-01 18:43:10,490:INFO:F1 for XGBoost is 0.9282920469361148
+2020-09-01 18:43:10,490:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:10,490:INFO:XGBoost Start
+2020-09-01 18:43:10,490:INFO:Parameters for model are {'learning_rate': 1}
+2020-09-01 18:43:11,297:INFO:Mean squared error for XGBoost is 0.0756367378440957
+2020-09-01 18:43:11,297:INFO:Accuracy for XGBoost is 0.9243632621559043
+2020-09-01 18:43:11,297:INFO:Precision for XGBoost is 0.9369369369369369
+2020-09-01 18:43:11,297:INFO:Recall for XGBoost is 0.9099330931549151
+2020-09-01 18:43:11,297:INFO:F1 for XGBoost is 0.9232375979112272
+2020-09-01 18:43:11,297:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:11,298:INFO:XGBoost Start
+2020-09-01 18:43:11,298:INFO:Parameters for model are {'max_depth': 1}
+2020-09-01 18:43:11,670:INFO:Mean squared error for XGBoost is 0.11679958837149472
+2020-09-01 18:43:11,670:INFO:Accuracy for XGBoost is 0.8832004116285053
+2020-09-01 18:43:11,670:INFO:Precision for XGBoost is 0.9381989405532666
+2020-09-01 18:43:11,670:INFO:Recall for XGBoost is 0.8203808543489449
+2020-09-01 18:43:11,670:INFO:F1 for XGBoost is 0.8753432180120813
+2020-09-01 18:43:11,670:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:11,671:INFO:XGBoost Start
+2020-09-01 18:43:11,671:INFO:Parameters for model are {'max_depth': 2}
+2020-09-01 18:43:12,122:INFO:Mean squared error for XGBoost is 0.09853357344996141
+2020-09-01 18:43:12,123:INFO:Accuracy for XGBoost is 0.9014664265500386
+2020-09-01 18:43:12,123:INFO:Precision for XGBoost is 0.9426787741203179
+2020-09-01 18:43:12,123:INFO:Recall for XGBoost is 0.8548636129696345
+2020-09-01 18:43:12,123:INFO:F1 for XGBoost is 0.8966261808367071
+2020-09-01 18:43:12,123:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:12,123:INFO:XGBoost Start
+2020-09-01 18:43:12,123:INFO:Parameters for model are {'max_depth': 3}
+2020-09-01 18:43:12,687:INFO:Mean squared error for XGBoost is 0.08001029071263185
+2020-09-01 18:43:12,688:INFO:Accuracy for XGBoost is 0.9199897092873681
+2020-09-01 18:43:12,688:INFO:Precision for XGBoost is 0.9410810810810811
+2020-09-01 18:43:12,688:INFO:Recall for XGBoost is 0.8960370560988162
+2020-09-01 18:43:12,688:INFO:F1 for XGBoost is 0.9180068547324017
+2020-09-01 18:43:12,688:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:12,688:INFO:XGBoost Start
+2020-09-01 18:43:12,688:INFO:Parameters for model are {'max_depth': 4}
+2020-09-01 18:43:13,323:INFO:Mean squared error for XGBoost is 0.08103936197581682
+2020-09-01 18:43:13,323:INFO:Accuracy for XGBoost is 0.9189606380241832
+2020-09-01 18:43:13,323:INFO:Precision for XGBoost is 0.9366952789699571
+2020-09-01 18:43:13,323:INFO:Recall for XGBoost is 0.8986103962943901
+2020-09-01 18:43:13,324:INFO:F1 for XGBoost is 0.9172576832151301
+2020-09-01 18:43:13,324:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:13,324:INFO:XGBoost Start
+2020-09-01 18:43:13,324:INFO:Parameters for model are {'max_depth': 5}
+2020-09-01 18:43:14,035:INFO:Mean squared error for XGBoost is 0.07512220221250322
+2020-09-01 18:43:14,035:INFO:Accuracy for XGBoost is 0.9248777977874968
+2020-09-01 18:43:14,035:INFO:Precision for XGBoost is 0.9412079102084446
+2020-09-01 18:43:14,035:INFO:Recall for XGBoost is 0.9063304168811117
+2020-09-01 18:43:14,035:INFO:F1 for XGBoost is 0.923439958049292
+2020-09-01 18:43:14,035:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:14,035:INFO:XGBoost Start
+2020-09-01 18:43:14,035:INFO:Parameters for model are {'max_depth': 10}
+2020-09-01 18:43:15,233:INFO:Mean squared error for XGBoost is 0.06663236429122717
+2020-09-01 18:43:15,234:INFO:Accuracy for XGBoost is 0.9333676357087728
+2020-09-01 18:43:15,234:INFO:Precision for XGBoost is 0.9478723404255319
+2020-09-01 18:43:15,234:INFO:Recall for XGBoost is 0.9171384457025219
+2020-09-01 18:43:15,234:INFO:F1 for XGBoost is 0.9322521579911065
+2020-09-01 18:43:15,234:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:15,234:INFO:XGBoost Start
+2020-09-01 18:43:15,234:INFO:Parameters for model are {'max_depth': 20}
+2020-09-01 18:43:17,670:INFO:Mean squared error for XGBoost is 0.07229225623874454
+2020-09-01 18:43:17,670:INFO:Accuracy for XGBoost is 0.9277077437612554
+2020-09-01 18:43:17,670:INFO:Precision for XGBoost is 0.9364495798319328
+2020-09-01 18:43:17,670:INFO:Recall for XGBoost is 0.9176531137416366
+2020-09-01 18:43:17,670:INFO:F1 for XGBoost is 0.9269560696646737
+2020-09-01 18:43:17,670:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:17,671:INFO:XGBoost Start
+2020-09-01 18:43:17,671:INFO:Parameters for model are {'max_depth': 50}
+2020-09-01 18:43:21,525:INFO:Mean squared error for XGBoost is 0.073835863133522
+2020-09-01 18:43:21,525:INFO:Accuracy for XGBoost is 0.926164136866478
+2020-09-01 18:43:21,526:INFO:Precision for XGBoost is 0.9335078534031414
+2020-09-01 18:43:21,526:INFO:Recall for XGBoost is 0.9176531137416366
+2020-09-01 18:43:21,526:INFO:F1 for XGBoost is 0.9255125875940825
+2020-09-01 18:43:21,526:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:21,526:INFO:XGBoost Start
+2020-09-01 18:43:21,526:INFO:Parameters for model are {'n_estimators': 1}
+2020-09-01 18:43:21,699:INFO:Mean squared error for XGBoost is 0.09801903781836892
+2020-09-01 18:43:21,699:INFO:Accuracy for XGBoost is 0.901980962181631
+2020-09-01 18:43:21,699:INFO:Precision for XGBoost is 0.9338888888888889
+2020-09-01 18:43:21,699:INFO:Recall for XGBoost is 0.86515697375193
+2020-09-01 18:43:21,699:INFO:F1 for XGBoost is 0.8982099919850388
+2020-09-01 18:43:21,700:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:21,700:INFO:XGBoost Start
+2020-09-01 18:43:21,700:INFO:Parameters for model are {'n_estimators': 2}
+2020-09-01 18:43:21,886:INFO:Mean squared error for XGBoost is 0.09879084126575766
+2020-09-01 18:43:21,886:INFO:Accuracy for XGBoost is 0.9012091587342423
+2020-09-01 18:43:21,886:INFO:Precision for XGBoost is 0.9421440726035167
+2020-09-01 18:43:21,886:INFO:Recall for XGBoost is 0.8548636129696345
+2020-09-01 18:43:21,886:INFO:F1 for XGBoost is 0.8963842417701025
+2020-09-01 18:43:21,886:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:21,886:INFO:XGBoost Start
+2020-09-01 18:43:21,886:INFO:Parameters for model are {'n_estimators': 3}
+2020-09-01 18:43:22,083:INFO:Mean squared error for XGBoost is 0.09827630563416516
+2020-09-01 18:43:22,083:INFO:Accuracy for XGBoost is 0.9017236943658349
+2020-09-01 18:43:22,083:INFO:Precision for XGBoost is 0.9387296233839235
+2020-09-01 18:43:22,083:INFO:Recall for XGBoost is 0.8594956253216676
+2020-09-01 18:43:22,083:INFO:F1 for XGBoost is 0.8973670069854917
+2020-09-01 18:43:22,083:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:22,083:INFO:XGBoost Start
+2020-09-01 18:43:22,084:INFO:Parameters for model are {'n_estimators': 4}
+2020-09-01 18:43:22,295:INFO:Mean squared error for XGBoost is 0.09467455621301775
+2020-09-01 18:43:22,295:INFO:Accuracy for XGBoost is 0.9053254437869822
+2020-09-01 18:43:22,295:INFO:Precision for XGBoost is 0.9396984924623115
+2020-09-01 18:43:22,295:INFO:Recall for XGBoost is 0.8661863098301595
+2020-09-01 18:43:22,295:INFO:F1 for XGBoost is 0.9014461703267275
+2020-09-01 18:43:22,295:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:22,295:INFO:XGBoost Start
+2020-09-01 18:43:22,295:INFO:Parameters for model are {'n_estimators': 5}
+2020-09-01 18:43:22,507:INFO:Mean squared error for XGBoost is 0.09518909184461023
+2020-09-01 18:43:22,507:INFO:Accuracy for XGBoost is 0.9048109081553898
+2020-09-01 18:43:22,507:INFO:Precision for XGBoost is 0.9421023046655425
+2020-09-01 18:43:22,507:INFO:Recall for XGBoost is 0.8625836335563561
+2020-09-01 18:43:22,507:INFO:F1 for XGBoost is 0.9005910800644815
+2020-09-01 18:43:22,507:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:22,508:INFO:XGBoost Start
+2020-09-01 18:43:22,508:INFO:Parameters for model are {'n_estimators': 15}
+2020-09-01 18:43:22,782:INFO:Mean squared error for XGBoost is 0.09184461023925906
+2020-09-01 18:43:22,782:INFO:Accuracy for XGBoost is 0.908155389760741
+2020-09-01 18:43:22,782:INFO:Precision for XGBoost is 0.9415367483296214
+2020-09-01 18:43:22,782:INFO:Recall for XGBoost is 0.8703036541430778
+2020-09-01 18:43:22,782:INFO:F1 for XGBoost is 0.9045199251136667
+2020-09-01 18:43:22,782:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:22,783:INFO:XGBoost Start
+2020-09-01 18:43:22,783:INFO:Parameters for model are {'n_estimators': 20}
+2020-09-01 18:43:23,093:INFO:Mean squared error for XGBoost is 0.09107280679187034
+2020-09-01 18:43:23,093:INFO:Accuracy for XGBoost is 0.9089271932081296
+2020-09-01 18:43:23,093:INFO:Precision for XGBoost is 0.9421257651641625
+2020-09-01 18:43:23,093:INFO:Recall for XGBoost is 0.8713329902213073
+2020-09-01 18:43:23,093:INFO:F1 for XGBoost is 0.9053475935828877
+2020-09-01 18:43:23,093:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:23,094:INFO:XGBoost Start
+2020-09-01 18:43:23,094:INFO:Parameters for model are {'n_estimators': 25}
+2020-09-01 18:43:23,437:INFO:Mean squared error for XGBoost is 0.08309750450218678
+2020-09-01 18:43:23,437:INFO:Accuracy for XGBoost is 0.9169024954978132
+2020-09-01 18:43:23,437:INFO:Precision for XGBoost is 0.9364224137931034
+2020-09-01 18:43:23,437:INFO:Recall for XGBoost is 0.894493051981472
+2020-09-01 18:43:23,437:INFO:F1 for XGBoost is 0.9149776256909713
+2020-09-01 18:43:23,437:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:23,437:INFO:XGBoost Start
+2020-09-01 18:43:23,437:INFO:Parameters for model are {'n_estimators': 40}
+2020-09-01 18:43:23,872:INFO:Mean squared error for XGBoost is 0.07975302289683561
+2020-09-01 18:43:23,873:INFO:Accuracy for XGBoost is 0.9202469771031644
+2020-09-01 18:43:23,873:INFO:Precision for XGBoost is 0.9382716049382716
+2020-09-01 18:43:23,873:INFO:Recall for XGBoost is 0.8996397323726196
+2020-09-01 18:43:23,873:INFO:F1 for XGBoost is 0.9185496584340515
+2020-09-01 18:43:23,873:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:23,873:INFO:XGBoost Start
+2020-09-01 18:43:23,873:INFO:Parameters for model are {'n_estimators': 50}
+2020-09-01 18:43:24,362:INFO:Mean squared error for XGBoost is 0.07692307692307693
+2020-09-01 18:43:24,362:INFO:Accuracy for XGBoost is 0.9230769230769231
+2020-09-01 18:43:24,362:INFO:Precision for XGBoost is 0.9405144694533762
+2020-09-01 18:43:24,362:INFO:Recall for XGBoost is 0.903242408646423
+2020-09-01 18:43:24,362:INFO:F1 for XGBoost is 0.9215017064846416
+2020-09-01 18:43:24,362:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:24,363:INFO:XGBoost Start
+2020-09-01 18:43:24,363:INFO:Parameters for model are {'n_estimators': 70}
+2020-09-01 18:43:24,967:INFO:Mean squared error for XGBoost is 0.07718034473887317
+2020-09-01 18:43:24,968:INFO:Accuracy for XGBoost is 0.9228196552611269
+2020-09-01 18:43:24,968:INFO:Precision for XGBoost is 0.9438141545110751
+2020-09-01 18:43:24,968:INFO:Recall for XGBoost is 0.8991250643335049
+2020-09-01 18:43:24,968:INFO:F1 for XGBoost is 0.9209277807063785
+2020-09-01 18:43:24,968:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:24,968:INFO:XGBoost Start
+2020-09-01 18:43:24,968:INFO:Parameters for model are {'n_estimators': 100}
+2020-09-01 18:43:25,777:INFO:Mean squared error for XGBoost is 0.07100591715976332
+2020-09-01 18:43:25,777:INFO:Accuracy for XGBoost is 0.9289940828402367
+2020-09-01 18:43:25,777:INFO:Precision for XGBoost is 0.9454836985569214
+2020-09-01 18:43:25,777:INFO:Recall for XGBoost is 0.9104477611940298
+2020-09-01 18:43:25,777:INFO:F1 for XGBoost is 0.9276350288411117
+2020-09-01 18:43:25,778:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:25,989:INFO:XGBoost Start
+2020-09-01 18:43:25,989:INFO:Parameters for model are {'learning_rate': 0.6, 'max_depth': 10, 'n_estimators': 100}
+2020-09-01 18:43:27,242:INFO:Mean squared error for XGBoost is 0.0720349884229483
+2020-09-01 18:43:27,242:INFO:Accuracy for XGBoost is 0.9279650115770517
+2020-09-01 18:43:27,242:INFO:Precision for XGBoost is 0.940646528881823
+2020-09-01 18:43:27,242:INFO:Recall for XGBoost is 0.9135357694287185
+2020-09-01 18:43:27,242:INFO:F1 for XGBoost is 0.926892950391645
+2020-09-01 18:43:27,242:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:43:27,379:INFO:LGBoost Start
+2020-09-01 18:43:27,380:INFO:Parameters for model are {'learning_rate': 0.05}
+2020-09-01 18:43:27,786:INFO:Mean squared error for LGBoost is 0.07898121944944687
+2020-09-01 18:43:27,786:INFO:Accuracy for LGBoost is 0.9210187805505531
+2020-09-01 18:43:27,786:INFO:Precision for LGBoost is 0.9305263157894736
+2020-09-01 18:43:27,787:INFO:Recall for LGBoost is 0.9099330931549151
+2020-09-01 18:43:27,787:INFO:F1 for LGBoost is 0.9201144938849857
+2020-09-01 18:43:27,787:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:27,787:INFO:LGBoost Start
+2020-09-01 18:43:27,787:INFO:Parameters for model are {'learning_rate': 0.1}
+2020-09-01 18:43:28,193:INFO:Mean squared error for LGBoost is 0.07615127347568819
+2020-09-01 18:43:28,193:INFO:Accuracy for LGBoost is 0.9238487265243118
+2020-09-01 18:43:28,193:INFO:Precision for LGBoost is 0.9331930562861652
+2020-09-01 18:43:28,193:INFO:Recall for LGBoost is 0.9130211013896037
+2020-09-01 18:43:28,193:INFO:F1 for LGBoost is 0.9229968782518211
+2020-09-01 18:43:28,193:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:28,194:INFO:LGBoost Start
+2020-09-01 18:43:28,194:INFO:Parameters for model are {'learning_rate': 0.2}
+2020-09-01 18:43:28,561:INFO:Mean squared error for LGBoost is 0.07589400565989195
+2020-09-01 18:43:28,561:INFO:Accuracy for LGBoost is 0.9241059943401081
+2020-09-01 18:43:28,561:INFO:Precision for LGBoost is 0.934141201264489
+2020-09-01 18:43:28,561:INFO:Recall for LGBoost is 0.912506433350489
+2020-09-01 18:43:28,561:INFO:F1 for LGBoost is 0.9231970840926843
+2020-09-01 18:43:28,561:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:28,562:INFO:LGBoost Start
+2020-09-01 18:43:28,562:INFO:Parameters for model are {'learning_rate': 0.4}
+2020-09-01 18:43:28,906:INFO:Mean squared error for LGBoost is 0.0820684332390018
+2020-09-01 18:43:28,906:INFO:Accuracy for LGBoost is 0.9179315667609982
+2020-09-01 18:43:28,906:INFO:Precision for LGBoost is 0.9273684210526316
+2020-09-01 18:43:28,906:INFO:Recall for LGBoost is 0.9068450849202264
+2020-09-01 18:43:28,907:INFO:F1 for LGBoost is 0.916991933385376
+2020-09-01 18:43:28,907:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:28,907:INFO:LGBoost Start
+2020-09-01 18:43:28,907:INFO:Parameters for model are {'learning_rate': 0.6}
+2020-09-01 18:43:29,249:INFO:Mean squared error for LGBoost is 0.08258296887059428
+2020-09-01 18:43:29,249:INFO:Accuracy for LGBoost is 0.9174170311294058
+2020-09-01 18:43:29,249:INFO:Precision for LGBoost is 0.9304670912951167
+2020-09-01 18:43:29,249:INFO:Recall for LGBoost is 0.9022130725681935
+2020-09-01 18:43:29,249:INFO:F1 for LGBoost is 0.9161222889992161
+2020-09-01 18:43:29,249:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:29,250:INFO:LGBoost Start
+2020-09-01 18:43:29,250:INFO:Parameters for model are {'learning_rate': 0.8}
+2020-09-01 18:43:29,587:INFO:Mean squared error for LGBoost is 0.08618471829174171
+2020-09-01 18:43:29,587:INFO:Accuracy for LGBoost is 0.9138152817082583
+2020-09-01 18:43:29,587:INFO:Precision for LGBoost is 0.9213836477987422
+2020-09-01 18:43:29,587:INFO:Recall for LGBoost is 0.9047864127637674
+2020-09-01 18:43:29,588:INFO:F1 for LGBoost is 0.9130096078940535
+2020-09-01 18:43:29,588:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:29,588:INFO:LGBoost Start
+2020-09-01 18:43:29,588:INFO:Parameters for model are {'learning_rate': 1}
+2020-09-01 18:43:29,928:INFO:Mean squared error for LGBoost is 0.08927193208129663
+2020-09-01 18:43:29,928:INFO:Accuracy for LGBoost is 0.9107280679187034
+2020-09-01 18:43:29,928:INFO:Precision for LGBoost is 0.916058394160584
+2020-09-01 18:43:29,928:INFO:Recall for LGBoost is 0.9042717447246525
+2020-09-01 18:43:29,928:INFO:F1 for LGBoost is 0.9101269101269102
+2020-09-01 18:43:29,928:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:29,929:INFO:LGBoost Start
+2020-09-01 18:43:29,929:INFO:Parameters for model are {'max_depth': 1}
+2020-09-01 18:43:30,095:INFO:Mean squared error for LGBoost is 0.12734756881914072
+2020-09-01 18:43:30,095:INFO:Accuracy for LGBoost is 0.8726524311808592
+2020-09-01 18:43:30,095:INFO:Precision for LGBoost is 0.934052757793765
+2020-09-01 18:43:30,095:INFO:Recall for LGBoost is 0.8018528049408131
+2020-09-01 18:43:30,095:INFO:F1 for LGBoost is 0.8629188590418166
+2020-09-01 18:43:30,095:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:30,096:INFO:LGBoost Start
+2020-09-01 18:43:30,096:INFO:Parameters for model are {'max_depth': 3}
+2020-09-01 18:43:30,295:INFO:Mean squared error for LGBoost is 0.10393619758168253
+2020-09-01 18:43:30,295:INFO:Accuracy for LGBoost is 0.8960638024183175
+2020-09-01 18:43:30,295:INFO:Precision for LGBoost is 0.9404693760732684
+2020-09-01 18:43:30,295:INFO:Recall for LGBoost is 0.8455995882655687
+2020-09-01 18:43:30,295:INFO:F1 for LGBoost is 0.8905149051490515
+2020-09-01 18:43:30,295:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:30,296:INFO:LGBoost Start
+2020-09-01 18:43:30,296:INFO:Parameters for model are {'max_depth': 5}
+2020-09-01 18:43:30,529:INFO:Mean squared error for LGBoost is 0.08618471829174171
+2020-09-01 18:43:30,530:INFO:Accuracy for LGBoost is 0.9138152817082583
+2020-09-01 18:43:30,530:INFO:Precision for LGBoost is 0.9360086767895879
+2020-09-01 18:43:30,530:INFO:Recall for LGBoost is 0.8883170355120947
+2020-09-01 18:43:30,530:INFO:F1 for LGBoost is 0.9115394771587009
+2020-09-01 18:43:30,530:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:30,530:INFO:LGBoost Start
+2020-09-01 18:43:30,530:INFO:Parameters for model are {'max_depth': 7}
+2020-09-01 18:43:30,801:INFO:Mean squared error for LGBoost is 0.08103936197581682
+2020-09-01 18:43:30,801:INFO:Accuracy for LGBoost is 0.9189606380241832
+2020-09-01 18:43:30,801:INFO:Precision for LGBoost is 0.9343649946638207
+2020-09-01 18:43:30,801:INFO:Recall for LGBoost is 0.901183736489964
+2020-09-01 18:43:30,802:INFO:F1 for LGBoost is 0.9174744563793554
+2020-09-01 18:43:30,802:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:30,802:INFO:LGBoost Start
+2020-09-01 18:43:30,802:INFO:Parameters for model are {'max_depth': 9}
+2020-09-01 18:43:31,096:INFO:Mean squared error for LGBoost is 0.07872395163365063
+2020-09-01 18:43:31,096:INFO:Accuracy for LGBoost is 0.9212760483663494
+2020-09-01 18:43:31,096:INFO:Precision for LGBoost is 0.9319261213720317
+2020-09-01 18:43:31,097:INFO:Recall for LGBoost is 0.9089037570766856
+2020-09-01 18:43:31,097:INFO:F1 for LGBoost is 0.9202709744658677
+2020-09-01 18:43:31,097:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:31,097:INFO:LGBoost Start
+2020-09-01 18:43:31,097:INFO:Parameters for model are {'max_depth': 11}
+2020-09-01 18:43:31,413:INFO:Mean squared error for LGBoost is 0.07846668381785439
+2020-09-01 18:43:31,413:INFO:Accuracy for LGBoost is 0.9215333161821456
+2020-09-01 18:43:31,413:INFO:Precision for LGBoost is 0.9319620253164557
+2020-09-01 18:43:31,414:INFO:Recall for LGBoost is 0.9094184251158003
+2020-09-01 18:43:31,414:INFO:F1 for LGBoost is 0.920552227142485
+2020-09-01 18:43:31,414:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:31,414:INFO:LGBoost Start
+2020-09-01 18:43:31,414:INFO:Parameters for model are {'max_depth': 13}
+2020-09-01 18:43:31,739:INFO:Mean squared error for LGBoost is 0.07872395163365063
+2020-09-01 18:43:31,740:INFO:Accuracy for LGBoost is 0.9212760483663494
+2020-09-01 18:43:31,740:INFO:Precision for LGBoost is 0.9301103520756699
+2020-09-01 18:43:31,740:INFO:Recall for LGBoost is 0.9109624292331446
+2020-09-01 18:43:31,740:INFO:F1 for LGBoost is 0.9204368174726989
+2020-09-01 18:43:31,740:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:31,741:INFO:LGBoost Start
+2020-09-01 18:43:31,741:INFO:Parameters for model are {'max_depth': 15}
+2020-09-01 18:43:32,088:INFO:Mean squared error for LGBoost is 0.07692307692307693
+2020-09-01 18:43:32,088:INFO:Accuracy for LGBoost is 0.9230769230769231
+2020-09-01 18:43:32,088:INFO:Precision for LGBoost is 0.9326315789473684
+2020-09-01 18:43:32,088:INFO:Recall for LGBoost is 0.9119917653113742
+2020-09-01 18:43:32,088:INFO:F1 for LGBoost is 0.9221962008847254
+2020-09-01 18:43:32,088:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:32,088:INFO:LGBoost Start
+2020-09-01 18:43:32,089:INFO:Parameters for model are {'num_leaves': 2}
+2020-09-01 18:43:32,262:INFO:Mean squared error for LGBoost is 0.12734756881914072
+2020-09-01 18:43:32,262:INFO:Accuracy for LGBoost is 0.8726524311808592
+2020-09-01 18:43:32,262:INFO:Precision for LGBoost is 0.934052757793765
+2020-09-01 18:43:32,262:INFO:Recall for LGBoost is 0.8018528049408131
+2020-09-01 18:43:32,262:INFO:F1 for LGBoost is 0.8629188590418166
+2020-09-01 18:43:32,262:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:32,263:INFO:LGBoost Start
+2020-09-01 18:43:32,263:INFO:Parameters for model are {'num_leaves': 7}
+2020-09-01 18:43:32,485:INFO:Mean squared error for LGBoost is 0.09390275276562902
+2020-09-01 18:43:32,485:INFO:Accuracy for LGBoost is 0.906097247234371
+2020-09-01 18:43:32,485:INFO:Precision for LGBoost is 0.9368770764119602
+2020-09-01 18:43:32,485:INFO:Recall for LGBoost is 0.8708183221821925
+2020-09-01 18:43:32,485:INFO:F1 for LGBoost is 0.9026407041877834
+2020-09-01 18:43:32,485:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:32,486:INFO:LGBoost Start
+2020-09-01 18:43:32,486:INFO:Parameters for model are {'num_leaves': 31}
+2020-09-01 18:43:32,854:INFO:Mean squared error for LGBoost is 0.07615127347568819
+2020-09-01 18:43:32,854:INFO:Accuracy for LGBoost is 0.9238487265243118
+2020-09-01 18:43:32,854:INFO:Precision for LGBoost is 0.9331930562861652
+2020-09-01 18:43:32,854:INFO:Recall for LGBoost is 0.9130211013896037
+2020-09-01 18:43:32,854:INFO:F1 for LGBoost is 0.9229968782518211
+2020-09-01 18:43:32,854:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:32,855:INFO:LGBoost Start
+2020-09-01 18:43:32,855:INFO:Parameters for model are {'num_leaves': 126}
+2020-09-01 18:43:33,563:INFO:Mean squared error for LGBoost is 0.08181116542320556
+2020-09-01 18:43:33,564:INFO:Accuracy for LGBoost is 0.9181888345767945
+2020-09-01 18:43:33,564:INFO:Precision for LGBoost is 0.9283078545071165
+2020-09-01 18:43:33,564:INFO:Recall for LGBoost is 0.9063304168811117
+2020-09-01 18:43:33,564:INFO:F1 for LGBoost is 0.9171874999999999
+2020-09-01 18:43:33,564:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:33,564:INFO:LGBoost Start
+2020-09-01 18:43:33,564:INFO:Parameters for model are {'num_leaves': 2020}
+2020-09-01 18:43:34,948:INFO:Mean squared error for LGBoost is 0.08284023668639054
+2020-09-01 18:43:34,948:INFO:Accuracy for LGBoost is 0.9171597633136095
+2020-09-01 18:43:34,948:INFO:Precision for LGBoost is 0.9268035808320169
+2020-09-01 18:43:34,948:INFO:Recall for LGBoost is 0.9058157488419969
+2020-09-01 18:43:34,948:INFO:F1 for LGBoost is 0.916189484643415
+2020-09-01 18:43:34,948:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:34,949:INFO:LGBoost Start
+2020-09-01 18:43:34,949:INFO:Parameters for model are {'num_leaves': 8000}
+2020-09-01 18:43:36,991:INFO:Mean squared error for LGBoost is 0.08284023668639054
+2020-09-01 18:43:36,991:INFO:Accuracy for LGBoost is 0.9171597633136095
+2020-09-01 18:43:36,991:INFO:Precision for LGBoost is 0.9268035808320169
+2020-09-01 18:43:36,991:INFO:Recall for LGBoost is 0.9058157488419969
+2020-09-01 18:43:36,991:INFO:F1 for LGBoost is 0.916189484643415
+2020-09-01 18:43:36,991:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:36,992:INFO:LGBoost Start
+2020-09-01 18:43:36,992:INFO:Parameters for model are {'num_leaves': 10000}
+2020-09-01 18:43:39,174:INFO:Mean squared error for LGBoost is 0.08284023668639054
+2020-09-01 18:43:39,175:INFO:Accuracy for LGBoost is 0.9171597633136095
+2020-09-01 18:43:39,175:INFO:Precision for LGBoost is 0.9268035808320169
+2020-09-01 18:43:39,175:INFO:Recall for LGBoost is 0.9058157488419969
+2020-09-01 18:43:39,175:INFO:F1 for LGBoost is 0.916189484643415
+2020-09-01 18:43:39,175:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:39,175:INFO:LGBoost Start
+2020-09-01 18:43:39,175:INFO:Parameters for model are {'n_estimators': 1}
+2020-09-01 18:43:39,288:INFO:Mean squared error for LGBoost is 0.09776177000257268
+2020-09-01 18:43:39,288:INFO:Accuracy for LGBoost is 0.9022382299974273
+2020-09-01 18:43:39,288:INFO:Precision for LGBoost is 0.9047125841532885
+2020-09-01 18:43:39,288:INFO:Recall for LGBoost is 0.8991250643335049
+2020-09-01 18:43:39,288:INFO:F1 for LGBoost is 0.9019101703665463
+2020-09-01 18:43:39,288:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:39,289:INFO:LGBoost Start
+2020-09-01 18:43:39,289:INFO:Parameters for model are {'n_estimators': 2}
+2020-09-01 18:43:39,402:INFO:Mean squared error for LGBoost is 0.09647543092359145
+2020-09-01 18:43:39,402:INFO:Accuracy for LGBoost is 0.9035245690764085
+2020-09-01 18:43:39,402:INFO:Precision for LGBoost is 0.9192513368983958
+2020-09-01 18:43:39,402:INFO:Recall for LGBoost is 0.8847143592382913
+2020-09-01 18:43:39,402:INFO:F1 for LGBoost is 0.9016522423288749
+2020-09-01 18:43:39,402:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:39,403:INFO:LGBoost Start
+2020-09-01 18:43:39,403:INFO:Parameters for model are {'n_estimators': 3}
+2020-09-01 18:43:39,519:INFO:Mean squared error for LGBoost is 0.09544635966040649
+2020-09-01 18:43:39,519:INFO:Accuracy for LGBoost is 0.9045536403395935
+2020-09-01 18:43:39,519:INFO:Precision for LGBoost is 0.9216738197424893
+2020-09-01 18:43:39,519:INFO:Recall for LGBoost is 0.8841996911991765
+2020-09-01 18:43:39,519:INFO:F1 for LGBoost is 0.9025479380089309
+2020-09-01 18:43:39,519:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:39,520:INFO:LGBoost Start
+2020-09-01 18:43:39,520:INFO:Parameters for model are {'n_estimators': 4}
+2020-09-01 18:43:39,653:INFO:Mean squared error for LGBoost is 0.09853357344996141
+2020-09-01 18:43:39,653:INFO:Accuracy for LGBoost is 0.9014664265500386
+2020-09-01 18:43:39,653:INFO:Precision for LGBoost is 0.913135593220339
+2020-09-01 18:43:39,653:INFO:Recall for LGBoost is 0.8872876994338652
+2020-09-01 18:43:39,653:INFO:F1 for LGBoost is 0.9000261028452101
+2020-09-01 18:43:39,653:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:39,654:INFO:LGBoost Start
+2020-09-01 18:43:39,654:INFO:Parameters for model are {'n_estimators': 5}
+2020-09-01 18:43:39,778:INFO:Mean squared error for LGBoost is 0.0967326987393877
+2020-09-01 18:43:39,778:INFO:Accuracy for LGBoost is 0.9032673012606123
+2020-09-01 18:43:39,779:INFO:Precision for LGBoost is 0.9138932910723719
+2020-09-01 18:43:39,779:INFO:Recall for LGBoost is 0.8903757076685538
+2020-09-01 18:43:39,779:INFO:F1 for LGBoost is 0.9019812304483837
+2020-09-01 18:43:39,779:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:39,779:INFO:LGBoost Start
+2020-09-01 18:43:39,779:INFO:Parameters for model are {'n_estimators': 15}
+2020-09-01 18:43:39,924:INFO:Mean squared error for LGBoost is 0.08489837921276049
+2020-09-01 18:43:39,924:INFO:Accuracy for LGBoost is 0.9151016207872396
+2020-09-01 18:43:39,924:INFO:Precision for LGBoost is 0.9251449657353716
+2020-09-01 18:43:39,924:INFO:Recall for LGBoost is 0.903242408646423
+2020-09-01 18:43:39,924:INFO:F1 for LGBoost is 0.9140625
+2020-09-01 18:43:39,924:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:39,925:INFO:LGBoost Start
+2020-09-01 18:43:39,925:INFO:Parameters for model are {'n_estimators': 20}
+2020-09-01 18:43:40,079:INFO:Mean squared error for LGBoost is 0.0820684332390018
+2020-09-01 18:43:40,079:INFO:Accuracy for LGBoost is 0.9179315667609982
+2020-09-01 18:43:40,079:INFO:Precision for LGBoost is 0.9282700421940928
+2020-09-01 18:43:40,079:INFO:Recall for LGBoost is 0.9058157488419969
+2020-09-01 18:43:40,079:INFO:F1 for LGBoost is 0.9169054441260744
+2020-09-01 18:43:40,079:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:40,079:INFO:LGBoost Start
+2020-09-01 18:43:40,079:INFO:Parameters for model are {'n_estimators': 25}
+2020-09-01 18:43:40,244:INFO:Mean squared error for LGBoost is 0.08181116542320556
+2020-09-01 18:43:40,245:INFO:Accuracy for LGBoost is 0.9181888345767945
+2020-09-01 18:43:40,245:INFO:Precision for LGBoost is 0.9292128895932382
+2020-09-01 18:43:40,245:INFO:Recall for LGBoost is 0.9053010808028822
+2020-09-01 18:43:40,245:INFO:F1 for LGBoost is 0.9171011470281543
+2020-09-01 18:43:40,245:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:40,245:INFO:LGBoost Start
+2020-09-01 18:43:40,245:INFO:Parameters for model are {'n_estimators': 40}
+2020-09-01 18:43:40,454:INFO:Mean squared error for LGBoost is 0.08052482634422434
+2020-09-01 18:43:40,454:INFO:Accuracy for LGBoost is 0.9194751736557757
+2020-09-01 18:43:40,454:INFO:Precision for LGBoost is 0.9293993677555321
+2020-09-01 18:43:40,454:INFO:Recall for LGBoost is 0.9078744209984559
+2020-09-01 18:43:40,454:INFO:F1 for LGBoost is 0.9185108044780005
+2020-09-01 18:43:40,454:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:40,454:INFO:LGBoost Start
+2020-09-01 18:43:40,455:INFO:Parameters for model are {'n_estimators': 50}
+2020-09-01 18:43:40,682:INFO:Mean squared error for LGBoost is 0.08052482634422434
+2020-09-01 18:43:40,682:INFO:Accuracy for LGBoost is 0.9194751736557757
+2020-09-01 18:43:40,682:INFO:Precision for LGBoost is 0.9298523206751055
+2020-09-01 18:43:40,682:INFO:Recall for LGBoost is 0.9073597529593412
+2020-09-01 18:43:40,682:INFO:F1 for LGBoost is 0.9184683511331077
+2020-09-01 18:43:40,682:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:40,682:INFO:LGBoost Start
+2020-09-01 18:43:40,682:INFO:Parameters for model are {'n_estimators': 70}
+2020-09-01 18:43:40,954:INFO:Mean squared error for LGBoost is 0.07949575508103936
+2020-09-01 18:43:40,954:INFO:Accuracy for LGBoost is 0.9205042449189607
+2020-09-01 18:43:40,954:INFO:Precision for LGBoost is 0.9290966386554622
+2020-09-01 18:43:40,954:INFO:Recall for LGBoost is 0.9104477611940298
+2020-09-01 18:43:40,954:INFO:F1 for LGBoost is 0.9196776709123993
+2020-09-01 18:43:40,955:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:40,955:INFO:LGBoost Start
+2020-09-01 18:43:40,955:INFO:Parameters for model are {'n_estimators': 100}
+2020-09-01 18:43:41,313:INFO:Mean squared error for LGBoost is 0.07615127347568819
+2020-09-01 18:43:41,313:INFO:Accuracy for LGBoost is 0.9238487265243118
+2020-09-01 18:43:41,313:INFO:Precision for LGBoost is 0.9331930562861652
+2020-09-01 18:43:41,313:INFO:Recall for LGBoost is 0.9130211013896037
+2020-09-01 18:43:41,313:INFO:F1 for LGBoost is 0.9229968782518211
+2020-09-01 18:43:41,313:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:41,313:INFO:LGBoost Start
+2020-09-01 18:43:41,314:INFO:Parameters for model are {'min_data_in_leaf': 100}
+2020-09-01 18:43:41,649:INFO:Mean squared error for LGBoost is 0.08541291484435297
+2020-09-01 18:43:41,649:INFO:Accuracy for LGBoost is 0.914587085155647
+2020-09-01 18:43:41,649:INFO:Precision for LGBoost is 0.9215070643642073
+2020-09-01 18:43:41,649:INFO:Recall for LGBoost is 0.9063304168811117
+2020-09-01 18:43:41,649:INFO:F1 for LGBoost is 0.9138557343020239
+2020-09-01 18:43:41,649:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:41,649:INFO:LGBoost Start
+2020-09-01 18:43:41,650:INFO:Parameters for model are {'min_data_in_leaf': 250}
+2020-09-01 18:43:41,946:INFO:Mean squared error for LGBoost is 0.09416002058142527
+2020-09-01 18:43:41,947:INFO:Accuracy for LGBoost is 0.9058399794185747
+2020-09-01 18:43:41,947:INFO:Precision for LGBoost is 0.925067385444744
+2020-09-01 18:43:41,947:INFO:Recall for LGBoost is 0.883170355120947
+2020-09-01 18:43:41,947:INFO:F1 for LGBoost is 0.9036334913112164
+2020-09-01 18:43:41,947:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:41,947:INFO:LGBoost Start
+2020-09-01 18:43:41,947:INFO:Parameters for model are {'min_data_in_leaf': 500}
+2020-09-01 18:43:42,203:INFO:Mean squared error for LGBoost is 0.11165423205556985
+2020-09-01 18:43:42,204:INFO:Accuracy for LGBoost is 0.8883457679444301
+2020-09-01 18:43:42,204:INFO:Precision for LGBoost is 0.918005540166205
+2020-09-01 18:43:42,204:INFO:Recall for LGBoost is 0.8528049408131755
+2020-09-01 18:43:42,204:INFO:F1 for LGBoost is 0.884204909284952
+2020-09-01 18:43:42,204:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:42,204:INFO:LGBoost Start
+2020-09-01 18:43:42,204:INFO:Parameters for model are {'min_data_in_leaf': 750}
+2020-09-01 18:43:42,437:INFO:Mean squared error for LGBoost is 0.11937226652945716
+2020-09-01 18:43:42,437:INFO:Accuracy for LGBoost is 0.8806277334705428
+2020-09-01 18:43:42,437:INFO:Precision for LGBoost is 0.9218482601254991
+2020-09-01 18:43:42,437:INFO:Recall for LGBoost is 0.8317035512094699
+2020-09-01 18:43:42,437:INFO:F1 for LGBoost is 0.8744588744588745
+2020-09-01 18:43:42,437:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:42,438:INFO:LGBoost Start
+2020-09-01 18:43:42,438:INFO:Parameters for model are {'min_data_in_leaf': 1000}
+2020-09-01 18:43:42,651:INFO:Mean squared error for LGBoost is 0.12606122974015951
+2020-09-01 18:43:42,651:INFO:Accuracy for LGBoost is 0.8739387702598405
+2020-09-01 18:43:42,652:INFO:Precision for LGBoost is 0.9326980345443716
+2020-09-01 18:43:42,652:INFO:Recall for LGBoost is 0.8059701492537313
+2020-09-01 18:43:42,652:INFO:F1 for LGBoost is 0.8647156267255659
+2020-09-01 18:43:42,652:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:42,883:INFO:LGBoost Start
+2020-09-01 18:43:42,883:INFO:Parameters for model are {'learning_rate': 0.2, 'max_depth': 15, 'num_leaves': 31, 'n_estimators': 100, 'min_data_in_leaf': 100}
+2020-09-01 18:43:43,387:INFO:Mean squared error for LGBoost is 0.08721378955492667
+2020-09-01 18:43:43,387:INFO:Accuracy for LGBoost is 0.9127862104450734
+2020-09-01 18:43:43,387:INFO:Precision for LGBoost is 0.9194560669456067
+2020-09-01 18:43:43,388:INFO:Recall for LGBoost is 0.9047864127637674
+2020-09-01 18:43:43,388:INFO:F1 for LGBoost is 0.9120622568093385
+2020-09-01 18:43:43,388:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:43:44,137:INFO:Logistic Regression Cross Validation Start
+2020-09-01 18:43:44,137:INFO:Parameters for model are None
+2020-09-01 18:43:45,703:INFO:Mean squared error for Logistic Regression is {'fit_time': array([0.31577063, 0.31571865, 0.26953912, 0.30193257, 0.24995399]), 'score_time': array([0.02213359, 0.02057672, 0.02119422, 0.01899385, 0.01882124]), 'test_mse': array([0.43505942, 0.19354839, 0.39855688, 0.20934183, 0.53715499]), 'test_accuracy': array([0.56494058, 0.80645161, 0.60144312, 0.79065817, 0.46284501]), 'test_precision': array([0.53853904, 0.75639205, 0.56498097, 0.75018262, 0.48047915]), 'test_recall': array([0.90747029, 0.9040747 , 0.8820034 , 0.87181664, 0.92013594]), 'test_f1': array([0.67594056, 0.82366589, 0.68876367, 0.80643895, 0.63130283])}
+2020-09-01 18:43:45,704:INFO:Accuracy for Logistic Regression is [0.56494058 0.80645161 0.60144312 0.79065817 0.46284501]
+2020-09-01 18:43:45,704:INFO:Precision for Logistic Regression is [0.53853904 0.75639205 0.56498097 0.75018262 0.48047915]
+2020-09-01 18:43:45,704:INFO:Recall for Logistic Regression is [0.90747029 0.9040747  0.8820034  0.87181664 0.92013594]
+2020-09-01 18:43:45,704:INFO:F1 for Logistic Regression is [0.67594056 0.82366589 0.68876367 0.80643895 0.63130283]
+2020-09-01 18:43:45,704:INFO:Run Time for Logistic Regression is 0.0 minutes
+2020-09-01 18:43:46,034:INFO:RandomForest Cross Validation Start
+2020-09-01 18:43:46,034:INFO:Parameters for model are {'max_depth': 50, 'n_estimators': 20, 'max_features': 0.2, 'min_samples_leaf': 1}
+2020-09-01 18:43:52,618:INFO:Mean squared error for RandomForest is {'fit_time': array([5.03748298, 0.22801089, 0.2188983 , 0.22299409, 0.22667909]), 'score_time': array([0.13565779, 0.12520909, 0.12553477, 0.12452722, 0.12530208]), 'test_mse': array([0.43505942, 0.15365025, 0.33234295, 0.20849257, 0.53757962]), 'test_accuracy': array([0.56494058, 0.84634975, 0.66765705, 0.79150743, 0.46242038]), 'test_precision': array([0.53823088, 0.80909091, 0.6167948 , 0.74413646, 0.48030102]), 'test_recall': array([0.91426146, 0.90662139, 0.88539898, 0.88879457, 0.92183517]), 'test_f1': array([0.67757156, 0.85508407, 0.72708261, 0.81005803, 0.63154831])}
+2020-09-01 18:43:52,619:INFO:Accuracy for RandomForest is [0.56494058 0.84634975 0.66765705 0.79150743 0.46242038]
+2020-09-01 18:43:52,619:INFO:Precision for RandomForest is [0.53823088 0.80909091 0.6167948  0.74413646 0.48030102]
+2020-09-01 18:43:52,619:INFO:Recall for RandomForest is [0.91426146 0.90662139 0.88539898 0.88879457 0.92183517]
+2020-09-01 18:43:52,619:INFO:F1 for RandomForest is [0.67757156 0.85508407 0.72708261 0.81005803 0.63154831]
+2020-09-01 18:43:52,620:INFO:Run Time for RandomForest is 0.0 minutes
+2020-09-01 18:43:53,846:INFO:XGBoost Cross Validation Start
+2020-09-01 18:43:53,846:INFO:Parameters for model are {'learning_rate': 0.6, 'max_depth': 10, 'n_estimators': 100}
+2020-09-01 18:44:00,125:INFO:Mean squared error for XGBoost is {'fit_time': array([1.18603611, 1.24405932, 1.19093204, 1.19091105, 1.23176503]), 'score_time': array([0.04370213, 0.04190087, 0.04137897, 0.04717278, 0.04243898]), 'test_mse': array([0.42614601, 0.18633277, 0.35526316, 0.1133758 , 0.53036093]), 'test_accuracy': array([0.57385399, 0.81366723, 0.64473684, 0.8866242 , 0.46963907]), 'test_precision': array([0.54264706, 0.75535591, 0.59393939, 0.87123064, 0.48421053]), 'test_recall': array([0.93972835, 0.9278438 , 0.91511036, 0.90747029, 0.93797791]), 'test_f1': array([0.68800497, 0.8327619 , 0.72034748, 0.88898129, 0.63870408])}
+2020-09-01 18:44:00,125:INFO:Accuracy for XGBoost is [0.57385399 0.81366723 0.64473684 0.8866242  0.46963907]
+2020-09-01 18:44:00,125:INFO:Precision for XGBoost is [0.54264706 0.75535591 0.59393939 0.87123064 0.48421053]
+2020-09-01 18:44:00,126:INFO:Recall for XGBoost is [0.93972835 0.9278438  0.91511036 0.90747029 0.93797791]
+2020-09-01 18:44:00,126:INFO:F1 for XGBoost is [0.68800497 0.8327619  0.72034748 0.88898129 0.63870408]
+2020-09-01 18:44:00,126:INFO:Run Time for XGBoost is 0.0 minutes
+2020-09-01 18:44:00,528:INFO:LGBoost Cross Validation Start
+2020-09-01 18:44:00,528:INFO:Parameters for model are {'learning_rate': 0.2, 'max_depth': 15, 'num_leaves': 31, 'n_estimators': 100, 'min_data_in_leaf': 100}
+2020-09-01 18:44:02,357:INFO:Mean squared error for LGBoost is {'fit_time': array([0.34207821, 0.32027078, 0.3364656 , 0.32745433, 0.2749722 ]), 'score_time': array([0.05075383, 0.04183555, 0.04700756, 0.03710532, 0.03556347]), 'test_mse': array([0.43633277, 0.18548387, 0.39558574, 0.32441614, 0.53927813]), 'test_accuracy': array([0.56366723, 0.81451613, 0.60441426, 0.67558386, 0.46072187]), 'test_precision': array([0.53746254, 0.76483202, 0.56641469, 0.6227758 , 0.47945205]), 'test_recall': array([0.91341256, 0.90831919, 0.89049236, 0.89134126, 0.92183517]), 'test_f1': array([0.67672956, 0.83042297, 0.69240924, 0.73324022, 0.63081395])}
+2020-09-01 18:44:02,357:INFO:Accuracy for LGBoost is [0.56366723 0.81451613 0.60441426 0.67558386 0.46072187]
+2020-09-01 18:44:02,357:INFO:Precision for LGBoost is [0.53746254 0.76483202 0.56641469 0.6227758  0.47945205]
+2020-09-01 18:44:02,358:INFO:Recall for LGBoost is [0.91341256 0.90831919 0.89049236 0.89134126 0.92183517]
+2020-09-01 18:44:02,358:INFO:F1 for LGBoost is [0.67672956 0.83042297 0.69240924 0.73324022 0.63081395]
+2020-09-01 18:44:02,358:INFO:Run Time for LGBoost is 0.0 minutes
+2020-09-01 18:44:02,774:INFO:XGBoost Start
+2020-09-01 18:44:02,774:INFO:Parameters for model are {'learning_rate': 0.6, 'max_depth': 10, 'n_estimators': 100}
+2020-09-01 18:44:04,087:INFO:Mean squared error for XGBoost is 0.0720349884229483
+2020-09-01 18:44:04,087:INFO:Accuracy for XGBoost is 0.9279650115770517
+2020-09-01 18:44:04,087:INFO:Precision for XGBoost is 0.940646528881823
+2020-09-01 18:44:04,087:INFO:Recall for XGBoost is 0.9135357694287185
+2020-09-01 18:44:04,087:INFO:F1 for XGBoost is 0.926892950391645
+2020-09-01 18:44:04,087:INFO:Run Time for XGBoost is 0.0 minutes
