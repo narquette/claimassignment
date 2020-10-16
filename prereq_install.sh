@@ -43,3 +43,18 @@ else
    sudo apt install default-jre
 fi 
 
+# check to see if environment exists
+CLAIM_ENV="/home/$USER/anaconda/envs/claims"
+if [ -d "$CLAIM_ENV" ] ; then
+	echo "environment $CLAI_ENV exists"
+else 
+       echo "Creating new environment"
+       conda env create -f claims.yml
+
+       echo "Activating environment"
+       conda activate claims
+
+       echo "Adding python kernel to jupyter"
+       python -m ipykernel install --user --name claims --display-name "Python (claims)"
+fi
+

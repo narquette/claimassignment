@@ -36,7 +36,7 @@ dependencies:
   - libedit=3.1.20191231=h7b6447c_0
   - libffi=3.3=he6710b0_1
   - libgcc-ng=9.1.0=hdf63c60_0
-  - libgfortran-ng=7.5.0=hdf63c60_6
+  - libgfortran-ng=7.5.0
   - liblapack=3.8.0=14_openblas
   - libnetcdf=4.7.4=nompi_h84807e1_104
   - libopenblas=0.3.7=h5ec1e0e_6
