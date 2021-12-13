@@ -65,7 +65,7 @@ korean-lunar-calendar @ file:///home/conda/feedstock_root/build_artifacts/korean
 lightgbm==2.3.1
 llvmlite==0.33.0
 LunarCalendar==0.0.9
-lxml==4.5.1
+lxml==4.6.5
 MarkupSafe==1.1.1
 matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-base_1592576108701/work
 missingno==0.4.2
