@@ -76,7 +76,7 @@ netCDF4 @ file:///home/conda/feedstock_root/build_artifacts/netcdf4_158832919328
 networkx==2.4
 notebook==6.0.3
 numba==0.50.1
-numpy==1.19.0
+numpy==1.22.0
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
 pandas @ file:///home/conda/feedstock_root/build_artifacts/pandas_1592421991297/work
 pandas-profiling==2.8.0
