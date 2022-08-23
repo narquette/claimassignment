@@ -70,7 +70,7 @@ MarkupSafe==1.1.1
 matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-base_1592576108701/work
 missingno==0.4.2
 mistune==0.8.4
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbformat==5.0.7
 netCDF4 @ file:///home/conda/feedstock_root/build_artifacts/netcdf4_1588329193282/work
 networkx==2.4
